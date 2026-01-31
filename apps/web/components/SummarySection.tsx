@@ -20,13 +20,19 @@ export function SummarySection({ meta }: SummarySectionProps) {
                             <span className="font-semibold tracking-wide uppercase text-sm">Transcript Analysis</span>
                         </div>
 
-                        <h1 className="text-3xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight">
-                            {meta.call_type}
-                        </h1>
+                        <div className="flex flex-col gap-1">
+                            <span className="text-xs font-bold text-gray-400 uppercase tracking-wider">Call Type</span>
+                            <h1 className="text-3xl md:text-4xl font-extrabold text-gray-900 tracking-tight leading-tight">
+                                {meta.call_type}
+                            </h1>
+                        </div>
 
-                        <p className="text-lg text-gray-600 leading-relaxed">
-                            {meta.summary}
-                        </p>
+                        <div className="pt-1">
+                            <h3 className="text-xs font-bold text-gray-400 uppercase tracking-wider mb-2">Summary</h3>
+                            <p className="text-lg text-gray-600 leading-relaxed">
+                                {meta.summary}
+                            </p>
+                        </div>
                     </div>
 
                     {/* Stats / Score Card */}

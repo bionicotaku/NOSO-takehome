@@ -1477,59 +1477,52 @@
     }
   ],
   "meta": {
-    "call_type": "Service & Repair / Replacement Consultation",
-    "overall_score": "High",
-    "summary": "The technician completed a temporary repair on the homeowner's aging, mold-compromised HVAC system (charging $1,009) and advised that its efficiency would likely degrade again soon, using this as a bridge to propose a full system replacement. He presented detailed comparisons between a standard gas furnace replacement and high-efficiency heat pump upgrades (specifically Bryant and Bosch models), highlighting California-specific rebates (SVCE and TECH) and addressing the homeowner’s concerns regarding system noise and outdoor venting direction. Although the technician offered to waive the day's repair fee if a replacement contract was signed immediately, the homeowner declined the immediate offer, paid for the repair, and requested the heat pump estimates be emailed for further discussion with his wife."
+    "call_type": "HVAC Repair Call",
+    "overall_score": 4.5,
+    "summary": "The technician completed a $1,009 temporary repair on the homeowner's failing HVAC system and recommended a full replacement due to age, mold, and declining efficiency. While gas options were presented, the homeowner exclusively favored Inverter-driven Heat Pumps (specifically Bryant and Bosch models) due to their quiet operation and venting configurations. The discussion covered financing, California-specific rebates (SVCE and TECH), and the necessity of duct sealing to pass the required HERS test. Although the technician offered to waive the repair fee in exchange for an immediate contract signature, the homeowner declined, paid for the service, and requested the finalized Heat Pump estimates be emailed for review with his wife."
   },
   "compliance_checklist": [
     {
       "step_name": "Introduction",
       "description": "Did the technician properly greet the customer and introduce themselves/company?",
-      "status": "missing_in_transcript",
-      "quality": 0,
+      "status": "missing",
+      "score": 4,
       "comment": "Transcript begins mid-interaction (post-repair debrief), so the standard 'Name/Company/Purpose' introduction is absent. However, the technician excelled at 'Rapport Building' immediately, effectively using the 'Work From Home' context (ID 9-12) and the customer's cat (ID 25-29) to transition from a technical service mode to a relaxed sales conversation."
     },
     {
       "step_name": "Problem Diagnosis",
       "description": "How did the technician inquire about and understand the customer’s issue?",
       "status": "present",
-      "quality": 5,
+      "score": 5,
       "comment": "Excellent execution. He framed the completed repair as a temporary 'Band-Aid' (ID 19) to prevent complacency. Crucially, he uncovered the hidden root cause of the customer's request to move the unit: 'Noise' (ID 180). This insight allowed him to stop selling 'relocation' ($4000+) and start selling 'quiet technology' (Inverter + Grill), aligning perfectly with the customer's needs."
     },
     {
       "step_name": "Solution Explanation",
       "description": "Did the technician clearly explain the solution or service performed?",
       "status": "present",
-      "quality": 5,
+      "score": 5,
       "comment": "Highly adaptive. Initially pitched Bryant, but pivoted to **Bosch** (ID 215) when the customer expressed a preference for 'upward venting'. He used the customer's existing 'Mini-split' as an anchor to explain 'Inverter Technology' (ID 100). He also transparently managed expectations about heat pump air temperature (ID 106) and potential wind noise (ID 199), building high credibility."
     },
     {
       "step_name": "Upsell Attempts",
       "description": "Note if and how the technician attempted to upsell additional services or products.",
       "status": "present",
-      "quality": 5,
+      "score": 5,
       "comment": "Strategically brilliant. He positioned **'Duct Sealing'** not just as an add-on, but as a mandatory requirement to pass the HERS test for rebates (ID 84). He also offered an **'Egg Crate Grill'** upgrade (ID 189) as a low-cost, high-value solution to the customer's primary noise complaint. This felt like 'helping', not 'selling'."
     },
     {
       "step_name": "Maintenance Plan Offer",
       "description": "Did the technician offer any maintenance plans or long-term service agreements?",
       "status": "present",
-      "quality": 4,
+      "score": 4,
       "comment": "He utilized the maintenance plan as a value-add tool rather than a standalone product. He mentioned that membership allows the company to 'match manufacturer warranties' (10 years parts & labor) (ID 94), effectively using the plan to strengthen the main equipment proposal."
     },
     {
       "step_name": "Closing & Thank You",
       "description": "How did the technician conclude the call? Did they thank the customer and finish courteously?",
       "status": "present",
-      "quality": 4,
+      "score": 4,
       "comment": "Faced with the 'I need to speak to my wife' objection (ID 286), the technician first tried a 'Trial Close' by offering to waive the repair fee (ID 288). When that failed, he successfully executed a 'Fallback Close': collecting the $1009 repair payment but creating a '15-day credit window' (ID 290). This creates a 'sunk cost' lever that strongly encourages the customer to return within two weeks."
-    },
-    {
-      "step_name": "Sales Insights",
-      "description": "Highlight any sales signals or opportunities in the call.",
-      "status": "present",
-      "quality": 5,
-      "comment": "Strong performance in 'Objection Handling' (fixing the noise issue) and 'Price Anchoring' (presenting monthly payments). He also used the 'waive repair fee' tactic effectively as a closing lever."
     }
   ],
   "annotations": [
@@ -1539,7 +1532,7 @@
       "end_line_id": 2,
       "category": "Introduction",
       "title": "开场介绍流程省略",
-      "content": "技术人员未执行标准的上门介绍流程（即：问候客户、自我介绍姓名、介绍所属公司）。 录音似乎非技术人员初次抵达现场的时刻, 客户直接称呼技术人员的名字，表明双方此前已有接触。因此流程缺省可能是合理的。"
+      "content": "技术人员未执行标准的上门介绍流程（即：问候客户、自我介绍姓名、介绍所属公司）。 录音似乎非技术人员初次抵达现场的时刻, 而是已经完成维修后。客户直接称呼技术人员的名字，表明双方此前已有接触。因此流程缺省可能是合理的。"
     },
     {
       "id": 2,
