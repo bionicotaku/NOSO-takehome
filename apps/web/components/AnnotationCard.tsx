@@ -42,7 +42,7 @@ export function AnnotationCard({ annotation, style, onMouseEnter, onMouseLeave, 
     return (
         <div
             className={`
-        absolute left-0 right-0 p-4 rounded-xl shadow-sm text-base
+        relative w-full p-4 rounded-xl shadow-sm text-base
         transition-all duration-200
         hover:shadow-md hover:translate-x-1
         cursor-pointer

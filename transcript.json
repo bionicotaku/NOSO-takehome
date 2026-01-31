@@ -1,35 +1,19 @@
 {
   "transcript": [
-    {
-      "id": 1,
-      "speaker": "Technician",
-      "text": "Hello."
-    },
-    {
-      "id": 2,
-      "speaker": "Homeowner",
-      "text": "Hey, Luis."
-    },
+    { "id": 1, "speaker": "Technician", "text": "Hello." },
+    { "id": 2, "speaker": "Homeowner", "text": "Hey, Luis." },
     {
       "id": 3,
       "speaker": "Technician",
       "text": "Got you all done. The reason that took so long is I just kind of also built all your equipment options while I was out there too."
     },
-    {
-      "id": 4,
-      "speaker": "Homeowner",
-      "text": "Okay. Sure."
-    },
+    { "id": 4, "speaker": "Homeowner", "text": "Okay. Sure." },
     {
       "id": 5,
       "speaker": "Technician",
       "text": "Um, I’d love to wrap up with you here."
     },
-    {
-      "id": 6,
-      "speaker": "Homeowner",
-      "text": "Of course. Of course."
-    },
+    { "id": 6, "speaker": "Homeowner", "text": "Of course. Of course." },
     {
       "id": 7,
       "speaker": "Technician",
@@ -65,31 +49,19 @@
       "speaker": "Technician",
       "text": "Yeah, AI is a... a big thing, man. But, um... so just to... let's go right to just the differences here. I just wanted to show you... um... so remember before how we had that before... that uh... below freezing temperature? At 41."
     },
-    {
-      "id": 14,
-      "speaker": "Homeowner",
-      "text": "Oh, yeah."
-    },
+    { "id": 14, "speaker": "Homeowner", "text": "Oh, yeah." },
     {
       "id": 15,
       "speaker": "Technician",
       "text": "It’s good to see. Um... And now we have that 20 degree difference as well."
     },
-    {
-      "id": 16,
-      "speaker": "Homeowner",
-      "text": "Ah, okay."
-    },
+    { "id": 16, "speaker": "Homeowner", "text": "Ah, okay." },
     {
       "id": 17,
       "speaker": "Technician",
       "text": "Just did a really fancy chart there for you. And got you in good shape."
     },
-    {
-      "id": 18,
-      "speaker": "Homeowner",
-      "text": "Okay."
-    },
+    { "id": 18, "speaker": "Homeowner", "text": "Okay." },
     {
       "id": 19,
       "speaker": "Technician",
@@ -115,11 +87,7 @@
       "speaker": "Technician",
       "text": "So... um... I did just want to show you some different equipment options."
     },
-    {
-      "id": 24,
-      "speaker": "Homeowner",
-      "text": "Of course."
-    },
+    { "id": 24, "speaker": "Homeowner", "text": "Of course." },
     {
       "id": 25,
       "speaker": "Technician",
@@ -135,11 +103,7 @@
       "speaker": "Technician",
       "text": "Aww. [Laughs] It's okay, I love cats."
     },
-    {
-      "id": 28,
-      "speaker": "Homeowner",
-      "text": "Hi."
-    },
+    { "id": 28, "speaker": "Homeowner", "text": "Hi." },
     {
       "id": 29,
       "speaker": "Technician",
@@ -155,11 +119,7 @@
       "speaker": "Technician",
       "text": "There you go. Yeah. So... to... two equipment options. Or there's a total of four that I've built. Um... There's either we replace like-for-like... um... which will naturally be more efficient, even though it's just going to be the updated version of what you have. It's going to be a new furnace, new coil, new condenser. Higher SEER rating, better efficiency. But still like the same type of equipment."
     },
-    {
-      "id": 32,
-      "speaker": "Homeowner",
-      "text": "Mm-hm."
-    },
+    { "id": 32, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 33,
       "speaker": "Technician",
@@ -175,11 +135,7 @@
       "speaker": "Technician",
       "text": "Okay. So it is something like... let's say for instance..."
     },
-    {
-      "id": 36,
-      "speaker": "Homeowner",
-      "text": "Oh, is that... Yes."
-    },
+    { "id": 36, "speaker": "Homeowner", "text": "Oh, is that... Yes." },
     {
       "id": 37,
       "speaker": "Technician",
@@ -195,21 +151,13 @@
       "speaker": "Technician",
       "text": "It's a really... I like the idea, it's just kind of a lot. Um, they want every house to have a 200 amp panel. They want every house to have a battery backup generator. They want every house to have solar. Uh, and they want every house to have a heat pump."
     },
-    {
-      "id": 40,
-      "speaker": "Homeowner",
-      "text": "Mm-hm. Mm-hm."
-    },
+    { "id": 40, "speaker": "Homeowner", "text": "Mm-hm. Mm-hm." },
     {
       "id": 41,
       "speaker": "Technician",
       "text": "And so heat pumps are the next option. Um... Heat pumps are actually just got introduced some more rebates. So, even though those are the best possible system to install... weirdly enough, those actually are getting quite affordable at the moment. Um... I'm used to them being actually our most expensive option, but rebates have been introduced that have made it a lot more reasonable."
     },
-    {
-      "id": 42,
-      "speaker": "Homeowner",
-      "text": "Okay. Interesting. Yeah."
-    },
+    { "id": 42, "speaker": "Homeowner", "text": "Okay. Interesting. Yeah." },
     {
       "id": 43,
       "speaker": "Technician",
@@ -225,151 +173,88 @@
       "speaker": "Technician",
       "text": "Exactly. And so to start off with... um... I uh... it's always important to realize... these are more expensive than uh... than investments than your normal investment into a home, so... I just wanted you to understand that a lot of our clients do use different monthly options to take care of them. But let's just break down what we do. So let's start off with the like-for-like."
     },
-    {
-      "id": 46,
-      "speaker": "Homeowner",
-      "text": "Mm-hm."
-    },
+    { "id": 46, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 47,
       "speaker": "Technician",
       "text": "We always come with our guarantees. We have some really, really excellent guarantees that really just show you that we're gonna do a great job for you. Um... We then start off with our first cost. Uh, this is a newest Nest thermostat."
     },
-    {
-      "id": 48,
-      "speaker": "Homeowner",
-      "text": "Mm-hm."
-    },
+    { "id": 48, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 49,
       "speaker": "Technician",
       "text": "We can switch this up. I just wanted to just simplify it, put something in that you guys are used to."
     },
-    {
-      "id": 50,
-      "speaker": "Homeowner",
-      "text": "Yep."
-    },
+    { "id": 50, "speaker": "Homeowner", "text": "Yep." },
     {
       "id": 51,
       "speaker": "Technician",
       "text": "It will be just the most modern version. And then we credit this back towards replacement at the very end. So this $549 will be credited back towards you. Then we talk about like steps... like what we need to do. AC removal, haul away and disposal, heater and removal."
     },
-    {
-      "id": 52,
-      "speaker": "Homeowner",
-      "text": "Mm."
-    },
+    { "id": 52, "speaker": "Homeowner", "text": "Mm." },
     {
       "id": 53,
       "speaker": "Technician",
       "text": "This is a really lengthy section. Uh, this is like typically roughly one day... uh, this amount of work. Um... We de... uh... remove, safely demolish and dispose of your furnace. Uh... remove... safely remove the refrigerant."
     },
-    {
-      "id": 54,
-      "speaker": "Homeowner",
-      "text": "Mm-hm."
-    },
+    { "id": 54, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 55,
       "speaker": "Technician",
       "text": "Demolish and dispose of your AC."
     },
-    {
-      "id": 56,
-      "speaker": "Homeowner",
-      "text": "Mm-hm. Mm-hm."
-    },
+    { "id": 56, "speaker": "Homeowner", "text": "Mm-hm. Mm-hm." },
     {
       "id": 57,
       "speaker": "Technician",
       "text": "Um... and that's like... I think like a pretty lengthy section."
     },
-    {
-      "id": 58,
-      "speaker": "Homeowner",
-      "text": "Got it."
-    },
+    { "id": 58, "speaker": "Homeowner", "text": "Got it." },
     {
       "id": 59,
       "speaker": "Technician",
       "text": "This next one may or may not come up, but I am including it as a line item. Just in case it becomes relevant."
     },
-    {
-      "id": 60,
-      "speaker": "Homeowner",
-      "text": "Okay."
-    },
+    { "id": 60, "speaker": "Homeowner", "text": "Okay." },
     {
       "id": 61,
       "speaker": "Technician",
       "text": "Um, sometimes when we have water damage... um... I do see decayed plywood in sections. Uh... where there could be like mold growth or anything like that. If we're seeing anything like that, we just cut that plywood out and put new plywood in for you."
     },
-    {
-      "id": 62,
-      "speaker": "Homeowner",
-      "text": "Okay."
-    },
-    {
-      "id": 63,
-      "speaker": "Technician",
-      "text": "That's in the inside."
-    },
-    {
-      "id": 64,
-      "speaker": "Homeowner",
-      "text": "Oh, yeah, yeah. Yeah."
-    },
+    { "id": 62, "speaker": "Homeowner", "text": "Okay." },
+    { "id": 63, "speaker": "Technician", "text": "That's in the inside." },
+    { "id": 64, "speaker": "Homeowner", "text": "Oh, yeah, yeah. Yeah." },
     {
       "id": 65,
       "speaker": "Technician",
       "text": "Um... Next... the new system is not going to be the same dimensions. It's going to be um... a little bit smaller or a little bit wider, a little bit taller, something around there. And we do have to make sure the sheet metal connections fit to it. We do any sheet metal necessary."
     },
-    {
-      "id": 66,
-      "speaker": "Homeowner",
-      "text": "Of course."
-    },
+    { "id": 66, "speaker": "Homeowner", "text": "Of course." },
     {
       "id": 67,
       "speaker": "Technician",
       "text": "Outside we have a fuse box. It's where I remove it and work on it safely. We just put a new one in for you."
     },
-    {
-      "id": 68,
-      "speaker": "Homeowner",
-      "text": "Mm-hm."
-    },
+    { "id": 68, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 69,
       "speaker": "Technician",
       "text": "All the new electrical. There will be some new electrical in there. Currently there's a little on-off switch in there called the safety shut-off. We always come with a new one. Um... any new thermostat wiring or connections... uh... any new electrical whips, we install that for you."
     },
-    {
-      "id": 70,
-      "speaker": "Homeowner",
-      "text": "Got it."
-    },
+    { "id": 70, "speaker": "Homeowner", "text": "Got it." },
     {
       "id": 71,
       "speaker": "Technician",
       "text": "Um... we have circuit breakers. Um... on the AC we just prefer to have a brand new circuit breaker, so we just include that with it. Um... thermostat wire, communication wire. This just means if there is a need to re-run a thermostat wire, we absolutely would."
     },
-    {
-      "id": 72,
-      "speaker": "Homeowner",
-      "text": "Mm-hm."
-    },
+    { "id": 72, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 73,
       "speaker": "Technician",
       "text": "And then... HVAC permit. We always pull permits."
     },
-    {
-      "id": 74,
-      "speaker": "Homeowner",
-      "text": "Mm."
-    },
+    { "id": 74, "speaker": "Homeowner", "text": "Mm." },
+
     {
       "id": 75,
       "speaker": "Technician",
@@ -385,149 +270,94 @@
       "speaker": "Technician",
       "text": "It's a... is it like an efficiency..."
     },
+
     {
       "id": 78,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "It's a home efficiency test. Um... And I... I do know right now your home would not pass a HERS test."
     },
-    {
-      "id": 79,
-      "speaker": "Technician",
-      "text": "Probably won't."
-    },
+    { "id": 79, "speaker": "Homeowner", "text": "Probably won't." },
     {
       "id": 80,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "Uh... because of the condition of the ducting... um... and a little bit of your insulation too."
     },
-    {
-      "id": 81,
-      "speaker": "Technician",
-      "text": "Mm-hm."
-    },
+    { "id": 81, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 82,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "Um... so we love to do HERS tests. But in order for us to feel confident in doing that, we would need to do a little bit with your ducting... um... or consider modifying it."
     },
-    {
-      "id": 83,
-      "speaker": "Technician",
-      "text": "Mm-hm."
-    },
+    { "id": 83, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 84,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "Um... what that would look like is something we do have a promotion going on currently... is _sealing_ your ductwork. Which just means no replacement, but we go to every single connection and seal it thoroughly. Um... and then we can include a HERS test if we do that."
     },
-    {
-      "id": 85,
-      "speaker": "Technician",
-      "text": "Okay."
-    },
+    { "id": 85, "speaker": "Homeowner", "text": "Okay." },
     {
       "id": 86,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "Um... Next... um... this is the total cost before any discounts. Um... I do have a fair amount of discounts that I've included. This is again the like-for-like option."
     },
-    {
-      "id": 87,
-      "speaker": "Technician",
-      "text": "Mm-hm."
-    },
+    { "id": 87, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 88,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "And just to explain what it comes with... I explained our 410A... that refrigerant got phased out. We have the newest style here, R-32. This is basically just the new standard for refrigerant. It is considered to be better for the environment. Um... it's just much less harmful to ozone layers. Uh... In general, 35% cooling savings, 30% heating savings."
     },
-    {
-      "id": 89,
-      "speaker": "Technician",
-      "text": "Mm-hm."
-    },
+    { "id": 89, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 90,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "Um... It is going to be the same similar type of technology. The SEER rating is up. You currently have a 12 SEER. Uh... we install a 15."
     },
-    {
-      "id": 91,
-      "speaker": "Technician",
-      "text": "Mm-hm."
-    },
+    { "id": 91, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 92,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "And then we always include standard filtration for you, as basic. Um... the motor is an improvement. So the fan motor inside of the system is an improvement. Way more reliable and way quieter. That's basically what this comes with."
     },
-    {
-      "id": 93,
-      "speaker": "Technician",
-      "text": "Mm-hm. Mm-hm."
-    },
+    { "id": 93, "speaker": "Homeowner", "text": "Mm-hm. Mm-hm." },
     {
       "id": 94,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "Now... a really cool thing... 10-year manufacturer warranty, 10-year compressor warranties. Um... If you're on this maintenance program with us, we actually completely match the manufacturer warranties."
     },
-    {
-      "id": 95,
-      "speaker": "Technician",
-      "text": "Got it."
-    },
+    { "id": 95, "speaker": "Homeowner", "text": "Got it." },
     {
       "id": 96,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "It's essentially ten years parts and ten year manufacturer warranty. Um... And then... moving on, we'll just get to the first heat pump. Really very similar line items. I'm not going to go through every single one this time."
     },
-    {
-      "id": 97,
-      "speaker": "Technician",
-      "text": "Mm-hm."
-    },
+    { "id": 97, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 98,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "I wanted to pause at this one though. The technology we're talking about with this heat pump... is called an Inverter. Have you ever heard of an inverter before?"
     },
-    {
-      "id": 99,
-      "speaker": "Technician",
-      "text": "I have. Yes."
-    },
+    { "id": 99, "speaker": "Homeowner", "text": "I have. Yes." },
     {
       "id": 100,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "Yeah. Actually, you know what? I saw your mini-split. Um... it... it actually mimics that technology but in a ducted sense. So that's a ductless heating and cooling system. This one we have that same type of inverter technology where it ramps up and ramps down..."
     },
-    {
-      "id": 101,
-      "speaker": "Technician",
-      "text": "That's right."
-    },
+    { "id": 101, "speaker": "Homeowner", "text": "That's right." },
     {
       "id": 102,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "...except for just attaching it to the ductwork."
     },
-    {
-      "id": 103,
-      "speaker": "Technician",
-      "text": "Got it."
-    },
+    { "id": 103, "speaker": "Homeowner", "text": "Got it." },
     {
       "id": 104,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "The main difference here, just important to... to realize, that it's going to heat and cool a little bit differently. In general, everything's going to be an improvement. Um... Cooling will be significantly better. Usually we're talking like 60% utility bill savings."
     },
-    {
-      "id": 105,
-      "speaker": "Technician",
-      "text": "That's right. Yeah."
-    },
+    { "id": 105, "speaker": "Homeowner", "text": "That's right. Yeah." },
     {
       "id": 106,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "The... thing about heating side... is just important to note... Usually they don't like... absolutely kill it the same way old furnaces do. Um... Old furnaces have flames so obviously we're going to get really intense temperature coming out. These do heat a little bit less extreme, but still are totally capable of heating."
     },
     {
@@ -537,142 +367,96 @@
     },
     {
       "id": 108,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "Everything else is the same. AC removal, haul away and disposal, heater removal, plywood, circuit breaker, thermostat, permit. Um... and there's the price... um... before any discounts or rebates."
     },
-    {
-      "id": 109,
-      "speaker": "Technician",
-      "text": "Mm-hm."
-    },
+    { "id": 109, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 110,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "Um... We then have... um... our discounts and rebates, which I realize I didn't include on the old... on the other option here. But starting off, this... this existed on your other estimate too. Is $1800 off because we're able to re-use the copper line set."
     },
-    {
-      "id": 111,
-      "speaker": "Technician",
-      "text": "Mm-hm."
-    },
+    { "id": 111, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 112,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "Um... very resilient to time and corrosion. If my install crew does determine that your HVAC leak that you have right now is in your copper line, we just still take care of it."
     },
-    {
-      "id": 113,
-      "speaker": "Technician",
-      "text": "Mm-hm."
-    },
+    { "id": 113, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 114,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "Um... But even with this savings in place. Uh... Next we have the thermostat credit back towards you. And this is where we have some rebates."
     },
-    {
-      "id": 115,
-      "speaker": "Technician",
-      "text": "Mm."
-    },
+    { "id": 115, "speaker": "Homeowner", "text": "Mm." },
     {
       "id": 116,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "So... Silicon Valley Clean Energy. I did just want to confirm, did you opt out of this program? You would have to manually opt out of it."
     },
-    {
-      "id": 117,
-      "speaker": "Technician",
-      "text": "Yeah, I didn't opt out."
-    },
+    { "id": 117, "speaker": "Homeowner", "text": "Yeah, I didn't opt out." },
     {
       "id": 118,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "Okay. So you're good. So Silicon Valley Clean Energy is a $2500 off towards heat pump updates. Next we have TECH... which is one that just barely got re-introduced like yesterday."
     },
-    {
-      "id": 119,
-      "speaker": "Technician",
-      "text": "Mm."
-    },
-    {
-      "id": 120,
-      "speaker": "Homeowner",
-      "text": "So that's fantastic."
-    },
-    {
-      "id": 121,
-      "speaker": "Technician",
-      "text": "That's fantastic."
-    },
+    { "id": 119, "speaker": "Homeowner", "text": "Mm." },
+    { "id": 120, "speaker": "Technician", "text": "So that's fantastic." },
+    { "id": 121, "speaker": "Homeowner", "text": "That's fantastic." },
     {
       "id": 122,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "And, $1500 off here. Uh... what this is, is the fact that we're removing both a furnace and AC, qualifies you for this higher end uh... one. So we handle what we need to handle. There are things that you need to physically go in and do. The only one for uh... the SVCE... is you do... and we'll... this will be in a contract that you can just click on easily... You do need to submit a full PG&E bill. Like the every bit, every page of a PG&E bill."
     },
-    {
-      "id": 123,
-      "speaker": "Technician",
-      "text": "Mm-hm."
-    },
+    { "id": 123, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 124,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "Um... and then we do the rest. Um... We... what they need from us is proof that we've installed a... a inverter system... and the manufacturer label. So we take care of that."
     },
-    {
-      "id": 125,
-      "speaker": "Technician",
-      "text": "Got it."
-    },
+    { "id": 125, "speaker": "Homeowner", "text": "Got it." },
     {
       "id": 126,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "For TECH... let's see. Yeah, I think we just take care of this one for you. So... Oh, you know what? This one does require a HERS test to be done."
     },
-    {
-      "id": 127,
-      "speaker": "Technician",
-      "text": "Mm."
-    },
+    { "id": 127, "speaker": "Homeowner", "text": "Mm." },
     {
       "id": 128,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "So... for... for this area... I would love to include one of our promotions for you. Which is where we just include a duct seal. Um... And uh... that would be something I can definitely do. So if that passes a HERS test, I think you're all good."
     },
+
     {
       "id": 129,
-      "speaker": "Technician",
+      "speaker": "Homeowner",
       "text": "[Inaudible] ...clear record... with the city..."
     },
     {
       "id": 130,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "Yeah. As long as you have no failed permits... um... then it should pass."
     },
-    {
-      "id": 131,
-      "speaker": "Technician",
-      "text": "Failed permits meaning?"
-    },
+    { "id": 131, "speaker": "Homeowner", "text": "Failed permits meaning?" },
     {
       "id": 132,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "Like you tried to pull a permit and it didn't work or pass... didn't pass inspection."
     },
     {
       "id": 133,
-      "speaker": "Technician",
+      "speaker": "Homeowner",
       "text": "I see. I see. For... for this house? Or... yeah. No, no problem."
     },
     {
       "id": 134,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "Okay. So looks like you would qualify for this. Um... The next option will go to..."
     },
+
     {
       "id": 135,
-      "speaker": "Technician",
+      "speaker": "Homeowner",
       "text": "Oh, what was that option? Oh, total price?"
     },
     {
@@ -695,76 +479,40 @@
       "speaker": "Technician",
       "text": "Yeah. And what's really cool, I was actually talking to Alex, that I was really impressed... I... I just built your best possible heat pump. Um... This is like our branded unit, it's a Daikin. Um... Daikin we love to work with because they really like us."
     },
-    {
-      "id": 140,
-      "speaker": "Homeowner",
-      "text": "Mm-hm."
-    },
+    { "id": 140, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 141,
       "speaker": "Technician",
       "text": "Um... if you ever look up Daikin products on Google and you like look up like install videos... you'll actually see my company installing them because we do the worldwide training for how to install Daikin. So we just have a great partnership with them. So we like to install them. But... what's interesting is Bryant does have a corner on... um... a type of technology. Heat pumps on occasion enter a defrost cycle. Which is where it... it briefly stops heating and it just runs itself alone to heat itself back up."
     },
-    {
-      "id": 142,
-      "speaker": "Homeowner",
-      "text": "Mm-hm."
-    },
+    { "id": 142, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 143,
       "speaker": "Technician",
       "text": "These are known to not really enter that."
     },
-    {
-      "id": 144,
-      "speaker": "Homeowner",
-      "text": "Mm. Which ones?"
-    },
-    {
-      "id": 145,
-      "speaker": "Technician",
-      "text": "The Bryants."
-    },
-    {
-      "id": 146,
-      "speaker": "Homeowner",
-      "text": "The Bryants."
-    },
+    { "id": 144, "speaker": "Homeowner", "text": "Mm. Which ones?" },
+    { "id": 145, "speaker": "Technician", "text": "The Bryants." },
+    { "id": 146, "speaker": "Homeowner", "text": "The Bryants." },
     {
       "id": 147,
       "speaker": "Technician",
       "text": "Um... and it's just because of the way their coils are built. They have a just a better type of... uh metal derivative in it that is better at dissipating its own heat and keeping itself warm."
     },
-    {
-      "id": 148,
-      "speaker": "Homeowner",
-      "text": "Mm."
-    },
+    { "id": 148, "speaker": "Homeowner", "text": "Mm." },
     {
       "id": 149,
       "speaker": "Technician",
       "text": "The only time these ever enter defrost, which we won't ever get to here in California, is when they enter 18 degrees Fahrenheit. So it just won't happen."
     },
-    {
-      "id": 150,
-      "speaker": "Homeowner",
-      "text": "Mm-hm."
-    },
+    { "id": 150, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 151,
       "speaker": "Technician",
       "text": "Um... And it's just really funny. If we look at like the really high end furnace, it's just like we really climb the costs. And I just..."
     },
-    {
-      "id": 152,
-      "speaker": "Homeowner",
-      "text": "I can see that."
-    },
-    {
-      "id": 153,
-      "speaker": "Technician",
-      "text": "It's substantial."
-    },
+    { "id": 152, "speaker": "Homeowner", "text": "I can see that." },
+    { "id": 153, "speaker": "Technician", "text": "It's substantial." },
     {
       "id": 154,
       "speaker": "Homeowner",
@@ -775,11 +523,7 @@
       "speaker": "Technician",
       "text": "No, currently I haven't built that. Um... It... We do have an attic package. I would actually have to modify these estimates to do that. The reason I'm starting like this, I just wanted you to understand what it would look like to keep it in the closet."
     },
-    {
-      "id": 156,
-      "speaker": "Homeowner",
-      "text": "Sure."
-    },
+    { "id": 156, "speaker": "Homeowner", "text": "Sure." },
     {
       "id": 157,
       "speaker": "Technician",
@@ -790,106 +534,62 @@
       "speaker": "Homeowner",
       "text": "Yeah, because it's too hot up there."
     },
-    {
-      "id": 159,
-      "speaker": "Technician",
-      "text": "Precisely."
-    },
+    { "id": 159, "speaker": "Technician", "text": "Precisely." },
     {
       "id": 160,
       "speaker": "Homeowner",
       "text": "What about moving it to the garage?"
     },
-    {
-      "id": 161,
-      "speaker": "Technician",
-      "text": "That would be way harder."
-    },
-    {
-      "id": 162,
-      "speaker": "Homeowner",
-      "text": "Harder?"
-    },
+    { "id": 161, "speaker": "Technician", "text": "That would be way harder." },
+    { "id": 162, "speaker": "Homeowner", "text": "Harder?" },
     {
       "id": 163,
       "speaker": "Technician",
       "text": "Harder. Because of that..."
     },
-    {
-      "id": 164,
-      "speaker": "Homeowner",
-      "text": "So much more work."
-    },
+    { "id": 164, "speaker": "Homeowner", "text": "So much more work." },
     {
       "id": 165,
       "speaker": "Technician",
       "text": "We would actually be forced to replace your ductwork entirely."
     },
-    {
-      "id": 166,
-      "speaker": "Homeowner",
-      "text": "Ah, okay."
-    },
+    { "id": 166, "speaker": "Homeowner", "text": "Ah, okay." },
     {
       "id": 167,
       "speaker": "Technician",
       "text": "And... um... with this, the benefit of moving it up to the attic though, is you do get a full closet. Um... in general it... it is a pretty... in regards to airflow that enters the home, it's a pretty nice spot."
     },
-    {
-      "id": 168,
-      "speaker": "Homeowner",
-      "text": "Mm-hm."
-    },
+    { "id": 168, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 169,
       "speaker": "Technician",
       "text": "It's just we do have to do some modifications so just to explain an attic install."
     },
-    {
-      "id": 170,
-      "speaker": "Homeowner",
-      "text": "Mm-hm."
-    },
+    { "id": 170, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 171,
       "speaker": "Technician",
       "text": "That intake... would no longer be used."
     },
-    {
-      "id": 172,
-      "speaker": "Homeowner",
-      "text": "That's right."
-    },
+    { "id": 172, "speaker": "Homeowner", "text": "That's right." },
     {
       "id": 173,
       "speaker": "Technician",
       "text": "Um... we would add one probably close to the center of the house."
     },
-    {
-      "id": 174,
-      "speaker": "Homeowner",
-      "text": "Ah, okay."
-    },
+    { "id": 174, "speaker": "Homeowner", "text": "Ah, okay." },
     {
       "id": 175,
       "speaker": "Technician",
       "text": "And our... our systems are very quiet, but it is just something that we will have airflow here now."
     },
-    {
-      "id": 176,
-      "speaker": "Homeowner",
-      "text": "Sure."
-    },
+    { "id": 176, "speaker": "Homeowner", "text": "Sure." },
     {
       "id": 177,
       "speaker": "Technician",
       "text": "Um... and then we do have to run some new electrical. If we're not doing a new gas line, that's great. Um... but we do have to install..."
     },
-    {
-      "id": 178,
-      "speaker": "Homeowner",
-      "text": "[Inaudible]"
-    },
+    { "id": 178, "speaker": "Homeowner", "text": "[Inaudible]" },
     {
       "id": 179,
       "speaker": "Technician",
@@ -910,71 +610,39 @@
       "speaker": "Homeowner",
       "text": "Yeah? That... that... that noise would like be better if we move it?"
     },
-    {
-      "id": 183,
-      "speaker": "Technician",
-      "text": "Definitely. Definitely."
-    },
-    {
-      "id": 184,
-      "speaker": "Homeowner",
-      "text": "Yeah?"
-    },
+    { "id": 183, "speaker": "Technician", "text": "Definitely. Definitely." },
+    { "id": 184, "speaker": "Homeowner", "text": "Yeah?" },
     {
       "id": 185,
       "speaker": "Technician",
       "text": "And what I can even do as an extra way to make that noise even better... is if we swap the grill."
     },
-    {
-      "id": 186,
-      "speaker": "Homeowner",
-      "text": "Mm-hm."
-    },
+    { "id": 186, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 187,
       "speaker": "Technician",
       "text": "So the grill right now has louvers, right? So when airflow gets pulled in and it does this [Makes hand motion], that naturally creates noise."
     },
-    {
-      "id": 188,
-      "speaker": "Homeowner",
-      "text": "Noise. Yeah."
-    },
+    { "id": 188, "speaker": "Homeowner", "text": "Noise. Yeah." },
     {
       "id": 189,
       "speaker": "Technician",
       "text": "We can install an egg crate version that has just squares instead. And it's much much..."
     },
-    {
-      "id": 190,
-      "speaker": "Homeowner",
-      "text": "No way."
-    },
+    { "id": 190, "speaker": "Homeowner", "text": "No way." },
     {
       "id": 191,
       "speaker": "Technician",
       "text": "Much much better for airflow. And when that happens it makes it a lot quieter too. I did do a test one time on no changes other than the... the grill... and it did decrease noise by 20%."
     },
-    {
-      "id": 192,
-      "speaker": "Homeowner",
-      "text": "Oh, I didn't know that."
-    },
+    { "id": 192, "speaker": "Homeowner", "text": "Oh, I didn't know that." },
     {
       "id": 193,
       "speaker": "Technician",
       "text": "I did that. Um... so. 20% quieter. It would still get... on the noise... not... It would be much less... uh... noisy than this. But if we did do the basic furnace... that's not going to be as quiet. But if we talk about inverters, those actually can just sometimes be... Are these even on? Like you just do you even hear it running?"
     },
-    {
-      "id": 194,
-      "speaker": "Homeowner",
-      "text": "Right. Right. Right."
-    },
-    {
-      "id": 195,
-      "speaker": "Technician",
-      "text": "So..."
-    },
+    { "id": 194, "speaker": "Homeowner", "text": "Right. Right. Right." },
+    { "id": 195, "speaker": "Technician", "text": "So..." },
     {
       "id": 196,
       "speaker": "Homeowner",
@@ -1005,11 +673,7 @@
       "speaker": "Technician",
       "text": "So all of these are going to be great options for you. Um... I do have to take this call. Feel free to review this."
     },
-    {
-      "id": 202,
-      "speaker": "Homeowner",
-      "text": "No problem. No problem."
-    },
+    { "id": 202, "speaker": "Homeowner", "text": "No problem. No problem." },
     {
       "id": 203,
       "speaker": "Technician",
@@ -1017,27 +681,27 @@
     },
     {
       "id": 204,
-      "speaker": "Homeowner",
-      "text": "[Background silence/shuffling]"
+      "speaker": "Technician",
+      "text": "[Background silence/shuffling][Hangs up phone] "
     },
     {
       "id": 205,
-      "speaker": "Technician",
-      "text": "[Hangs up phone] I see that all these are... This one vent to the side?"
+      "speaker": "Homeowner",
+      "text": "I see that all these are... This one vent to the side?"
     },
     {
       "id": 206,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "Yes. That's a big difference too is amount of room taken up outside. These are going to be taller systems. So it is a... it's actually... you know what? It'll be very, very... really, really close to the same height. But they're like this thin."
     },
     {
       "id": 207,
-      "speaker": "Technician",
+      "speaker": "Homeowner",
       "text": "Um... so but they go... they go wide though."
     },
     {
       "id": 208,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "Yeah. Yeah. Yeah, but I... my experience with the other one is that it vents to the side so it's kind of windy."
     },
     {
@@ -1055,16 +719,8 @@
       "speaker": "Technician",
       "text": "I can build a form of inverter that does do that."
     },
-    {
-      "id": 212,
-      "speaker": "Homeowner",
-      "text": "Yeah?"
-    },
-    {
-      "id": 213,
-      "speaker": "Technician",
-      "text": "Mm-hm."
-    },
+    { "id": 212, "speaker": "Homeowner", "text": "Yeah?" },
+    { "id": 213, "speaker": "Technician", "text": "Mm-hm." },
     {
       "id": 214,
       "speaker": "Homeowner",
@@ -1075,121 +731,79 @@
       "speaker": "Technician",
       "text": "It's uh... the brand is Bosch."
     },
-    {
-      "id": 216,
-      "speaker": "Homeowner",
-      "text": "Uh-huh."
-    },
+    { "id": 216, "speaker": "Homeowner", "text": "Uh-huh." },
     {
       "id": 217,
       "speaker": "Technician",
       "text": "Uh... very highly reviewed. Mostly actually highly reviewed from technicians. Which is very cool. Um... Technicians love working on them because they're very reliable. But I don't know where the Bosch would end up, but I do think it would be... uh... roughly in that same area."
     },
-    {
-      "id": 218,
-      "speaker": "Homeowner",
-      "text": "Okay."
-    },
+    { "id": 218, "speaker": "Homeowner", "text": "Okay." },
     {
       "id": 219,
       "speaker": "Technician",
       "text": "The only thing and we can find out with Bosch in a second... but you see how this says Energy Star High Heat?"
     },
-    {
-      "id": 220,
-      "speaker": "Homeowner",
-      "text": "Mm-hm."
-    },
+    { "id": 220, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 221,
       "speaker": "Technician",
       "text": "Whenever you see Energy Star... that actually can qualify you for one further rebate that you have to deal with completely on your own. We can't help you."
     },
-    {
-      "id": 222,
-      "speaker": "Homeowner",
-      "text": "Mm-hm."
-    },
+    { "id": 222, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 223,
       "speaker": "Technician",
       "text": "Um... It's a tax cut rebate. And usually if you qualify for it, it's either $1000 or $2000."
     },
-    {
-      "id": 224,
-      "speaker": "Homeowner",
-      "text": "Mm."
-    },
+    { "id": 224, "speaker": "Homeowner", "text": "Mm." },
     {
       "id": 225,
       "speaker": "Technician",
       "text": "If we don't have Energy Star on it, you can't have that rebate. And Bosch doesn't have that."
     },
-    {
-      "id": 226,
-      "speaker": "Homeowner",
-      "text": "I can find out."
-    },
+    { "id": 226, "speaker": "Technician", "text": "I can find out." },
     {
       "id": 227,
-      "speaker": "Technician",
+      "speaker": "Homeowner",
       "text": "Ah, okay. Okay. Okay. Got it. Got it."
     },
     {
       "id": 228,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "Want me to just find out real quick?"
     },
-    {
-      "id": 229,
-      "speaker": "Technician",
-      "text": "Um... Sure. Sure."
-    },
+    { "id": 229, "speaker": "Homeowner", "text": "Um... Sure. Sure." },
+
     {
       "id": 230,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "Okay. Let me just modify this estimate to be a Bosch."
     },
-    {
-      "id": 231,
-      "speaker": "Technician",
-      "text": "But leave that one there."
-    },
+    { "id": 231, "speaker": "Homeowner", "text": "But leave that one there." },
     {
       "id": 232,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "I will. I was just going to duplicate it and we'll switch it over to a Bosch. So..."
     },
-    {
-      "id": 233,
-      "speaker": "Technician",
-      "text": "[Typing sound]"
-    },
+    { "id": 233, "speaker": "Technician", "text": "[Typing sound]" },
     {
       "id": 234,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "Okay. It does have Energy Star on it. Um... so... The difference is this one will have... it won't have the high heat feature. Um... so let me just get... where did I put that estimate? It's this one right? No."
     },
-    {
-      "id": 235,
-      "speaker": "Technician",
-      "text": "[Background noise]"
-    },
+    { "id": 235, "speaker": "Technician", "text": "[Background noise]" },
     {
       "id": 236,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "There we go. [Typing/Clicking]"
     },
+
     {
       "id": 237,
       "speaker": "Technician",
       "text": "Okay. So now we have... Yeah, it's funny they all end up being in the same price range. So it's... um... again, in regards to technology... um... the only thing that the Bryant has over the other ones is that it doesn't enter defrost as often."
     },
-    {
-      "id": 238,
-      "speaker": "Homeowner",
-      "text": "Mm. Mm-hm."
-    },
+    { "id": 238, "speaker": "Homeowner", "text": "Mm. Mm-hm." },
     {
       "id": 239,
       "speaker": "Technician",
@@ -1205,26 +819,14 @@
       "speaker": "Technician",
       "text": "And it was here in California?"
     },
-    {
-      "id": 242,
-      "speaker": "Homeowner",
-      "text": "Yeah."
-    },
+    { "id": 242, "speaker": "Homeowner", "text": "Yeah." },
     {
       "id": 243,
       "speaker": "Technician",
       "text": "Yeah. So I think it's just... it will just very rarely enter a defrost cycle. But this one just has that better..."
     },
-    {
-      "id": 244,
-      "speaker": "Homeowner",
-      "text": "Extra feature. Yeah. Yeah."
-    },
-    {
-      "id": 245,
-      "speaker": "Technician",
-      "text": "Exactly."
-    },
+    { "id": 244, "speaker": "Homeowner", "text": "Extra feature. Yeah. Yeah." },
+    { "id": 245, "speaker": "Technician", "text": "Exactly." },
     {
       "id": 246,
       "speaker": "Homeowner",
@@ -1235,21 +837,13 @@
       "speaker": "Technician",
       "text": "If we are doing a heat pump, it's going to be roughly two or three days."
     },
-    {
-      "id": 248,
-      "speaker": "Homeowner",
-      "text": "Mm."
-    },
+    { "id": 248, "speaker": "Homeowner", "text": "Mm." },
     {
       "id": 249,
       "speaker": "Technician",
       "text": "Because there is a lot of work that goes into a heat pump. If it was a gas system to existing AC, I would say one to two days."
     },
-    {
-      "id": 250,
-      "speaker": "Homeowner",
-      "text": "Mm."
-    },
+    { "id": 250, "speaker": "Homeowner", "text": "Mm." },
     {
       "id": 251,
       "speaker": "Technician",
@@ -1260,21 +854,13 @@
       "speaker": "Homeowner",
       "text": "Mm. Okay. Okay. And um... All right. I understand the options. That's fine. Uh... I'm not... I would be interested on... on the heat pump. Uh... maybe these... these two. I'm not interested on the gas."
     },
-    {
-      "id": 253,
-      "speaker": "Technician",
-      "text": "Sure."
-    },
+    { "id": 253, "speaker": "Technician", "text": "Sure." },
     {
       "id": 254,
       "speaker": "Homeowner",
       "text": "And then the other thing I noticed is that you also have financing."
     },
-    {
-      "id": 255,
-      "speaker": "Technician",
-      "text": "I do. Yeah."
-    },
+    { "id": 255, "speaker": "Technician", "text": "I do. Yeah." },
     {
       "id": 256,
       "speaker": "Homeowner",
@@ -1285,31 +871,19 @@
       "speaker": "Technician",
       "text": "So we have different options. We have... let's go to the Bosch since that's the one that you like the idea of having airflow up. We'll look at financing. So we'll look at monthly offers. July. Okay. So these are just all of our options that we have. So we have an 120 month... 8.99 interest with autopay. So you don't have to do anything."
     },
-    {
-      "id": 258,
-      "speaker": "Homeowner",
-      "text": "Mm-hm."
-    },
+    { "id": 258, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 259,
       "speaker": "Technician",
       "text": "180, so much longer term, with 9.99. Um... This is our most... these two are our most commonly used."
     },
-    {
-      "id": 260,
-      "speaker": "Homeowner",
-      "text": "Mm-hm."
-    },
+    { "id": 260, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 261,
       "speaker": "Technician",
       "text": "GoodLeap actually just barely like... just gave us access to this this month. Um... it was supposed to end on the 15th so I'm surprised it's still going on. But... the 12 months no interest just means that if you do pay it off in 12 months..."
     },
-    {
-      "id": 262,
-      "speaker": "Homeowner",
-      "text": "Mm."
-    },
+    { "id": 262, "speaker": "Homeowner", "text": "Mm." },
     {
       "id": 263,
       "speaker": "Technician",
@@ -1320,11 +894,7 @@
       "speaker": "Homeowner",
       "text": "Mm. 60 months. So five years..."
     },
-    {
-      "id": 265,
-      "speaker": "Technician",
-      "text": "Five years."
-    },
+    { "id": 265, "speaker": "Technician", "text": "Five years." },
     {
       "id": 266,
       "speaker": "Homeowner",
@@ -1345,16 +915,8 @@
       "speaker": "Technician",
       "text": "So you don't _need_ to pay anything for a full year if you don't want. You actually do have the ability to take a year off of payments entirely."
     },
-    {
-      "id": 270,
-      "speaker": "Homeowner",
-      "text": "Oh."
-    },
-    {
-      "id": 271,
-      "speaker": "Technician",
-      "text": "But then..."
-    },
+    { "id": 270, "speaker": "Homeowner", "text": "Oh." },
+    { "id": 271, "speaker": "Technician", "text": "But then..." },
     {
       "id": 272,
       "speaker": "Homeowner",
@@ -1375,11 +937,7 @@
       "speaker": "Technician",
       "text": "But the nice thing is is you don't need to pay anything for the year either. Um, so if we did pay it off in 12 payments let's say..."
     },
-    {
-      "id": 276,
-      "speaker": "Homeowner",
-      "text": "Uh-huh."
-    },
+    { "id": 276, "speaker": "Homeowner", "text": "Uh-huh." },
     {
       "id": 277,
       "speaker": "Technician",
@@ -1395,21 +953,13 @@
       "speaker": "Technician",
       "text": "Within a year. But then I think the terms actually go really really close. It's like five years of um I think 9.99 from there. But the the nice thing though is let's say you don't pay it off in full. Let's say you go to the year and maybe you put 18,000 down. So we still have a remaining balance of... we still have a remaining balance of 8422. What then happens is the interest only applies to that remaining balance."
     },
-    {
-      "id": 280,
-      "speaker": "Homeowner",
-      "text": "Oh."
-    },
+    { "id": 280, "speaker": "Homeowner", "text": "Oh." },
     {
       "id": 281,
       "speaker": "Technician",
       "text": "So we only get remaining balance so that would then..."
     },
-    {
-      "id": 282,
-      "speaker": "Homeowner",
-      "text": "[inaudible]"
-    },
+    { "id": 282, "speaker": "Homeowner", "text": "[inaudible]" },
     {
       "id": 283,
       "speaker": "Technician",
@@ -1430,16 +980,19 @@
       "speaker": "Homeowner",
       "text": "Of course. Of course. I get it. Okay. Um... So look. I I'd like to uh speak with my wife about all the options. Email me this and then uh of course I'll um let's cover the the what you did today and then I'll just discuss this with my wife."
     },
+
     {
       "id": 287,
-      "speaker": "Technician",
+      "speaker": "Homeowner",
       "text": "Sure. Yeah. I like the idea of the thing being quieter and more efficient. And not having gas leaks in the future."
     },
+
     {
       "id": 288,
-      "speaker": "Homeowner",
+      "speaker": "Technician",
       "text": "Yeah so how about this. Let me let me bring the the estimates down to just two of them. I'll I'll I'll just eliminate this one. Eliminate that one. And the only thing I just want to make sure is clear. It on my end it would be so much easier if I didn't have to charge for the repair today. And if we actually just basically considered it as a complimentary thing for you. So if we did feel comfortable with signing, what that would just look like on your end would just be a $1000 down payment. Um, the other thing is we can see what options you qualify for in regards to financing. And if that's the case, if we have financing, then I don't even need a down payment today. We would just do just the financing side of it. And we do come with a—every contractor that's reputable comes with this guarantee here. So as you're talking to your wife, if anything weird comes up we even have this notice right here. So we always have a reputable 3 day right to cancel. So."
     },
+
     {
       "id": 289,
       "speaker": "Homeowner",
@@ -1450,11 +1003,7 @@
       "speaker": "Technician",
       "text": "Absolutely. And then um within 15 days I will completely credit that back towards it. Okay. So um I'm going to pretty these estimates up a little bit more and I'll include the duct sealing promotion. And because TECH is uh needing a HERS test, we actually just kind of have to do that anyways. So I'm I'm going to uh modify it a little bit. And what you'll see that's new when I send it to you is Permit and HERS test. You'll see a duct seal cost but then if you keep scrolling down you would see a uh it credited back as the promotion. So um so great. We'll go ahead I'll eliminate the g—both of the gas options. And we'll stay with the Bryant and the Bosch."
     },
-    {
-      "id": 291,
-      "speaker": "Homeowner",
-      "text": "Yes."
-    },
+    { "id": 291, "speaker": "Homeowner", "text": "Yes." },
     {
       "id": 292,
       "speaker": "Technician",
@@ -1465,64 +1014,11 @@
       "speaker": "Homeowner",
       "text": "Let me see what I do. It's I think it's a MasterCard. If I can find it."
     },
-    {
-      "id": 294,
-      "speaker": "Technician",
-      "text": "Always important."
-    },
+    { "id": 294, "speaker": "Technician", "text": "Always important." },
     {
       "id": 295,
       "speaker": "Homeowner",
       "text": "I hear you. There you go. It's on the back. The numbers on the back."
-    }
-  ],
-  "meta": {
-    "call_type": "HVAC Repair Call",
-    "overall_score": 4.5,
-    "summary": "The technician completed a $1,009 temporary repair on the homeowner's failing HVAC system and recommended a full replacement due to age, mold, and declining efficiency. While gas options were presented, the homeowner exclusively favored Inverter-driven Heat Pumps (specifically Bryant and Bosch models) due to their quiet operation and venting configurations. The discussion covered financing, California-specific rebates (SVCE and TECH), and the necessity of duct sealing to pass the required HERS test. Although the technician offered to waive the repair fee in exchange for an immediate contract signature, the homeowner declined, paid for the service, and requested the finalized Heat Pump estimates be emailed for review with his wife."
-  },
-  "compliance_checklist": [
-    {
-      "step_name": "Introduction",
-      "description": "Did the technician properly greet the customer and introduce themselves/company?",
-      "status": "missing",
-      "score": 4,
-      "comment": "Transcript begins mid-interaction (post-repair debrief), so the standard 'Name/Company/Purpose' introduction is absent. However, the technician excelled at 'Rapport Building' immediately, effectively using the 'Work From Home' context (ID 9-12) and the customer's cat (ID 25-29) to transition from a technical service mode to a relaxed sales conversation."
-    },
-    {
-      "step_name": "Problem Diagnosis",
-      "description": "How did the technician inquire about and understand the customer’s issue?",
-      "status": "present",
-      "score": 5,
-      "comment": "Excellent execution. He framed the completed repair as a temporary 'Band-Aid' (ID 19) to prevent complacency. Crucially, he uncovered the hidden root cause of the customer's request to move the unit: 'Noise' (ID 180). This insight allowed him to stop selling 'relocation' ($4000+) and start selling 'quiet technology' (Inverter + Grill), aligning perfectly with the customer's needs."
-    },
-    {
-      "step_name": "Solution Explanation",
-      "description": "Did the technician clearly explain the solution or service performed?",
-      "status": "present",
-      "score": 5,
-      "comment": "Highly adaptive. Initially pitched Bryant, but pivoted to **Bosch** (ID 215) when the customer expressed a preference for 'upward venting'. He used the customer's existing 'Mini-split' as an anchor to explain 'Inverter Technology' (ID 100). He also transparently managed expectations about heat pump air temperature (ID 106) and potential wind noise (ID 199), building high credibility."
-    },
-    {
-      "step_name": "Upsell Attempts",
-      "description": "Note if and how the technician attempted to upsell additional services or products.",
-      "status": "present",
-      "score": 5,
-      "comment": "Strategically brilliant. He positioned **'Duct Sealing'** not just as an add-on, but as a mandatory requirement to pass the HERS test for rebates (ID 84). He also offered an **'Egg Crate Grill'** upgrade (ID 189) as a low-cost, high-value solution to the customer's primary noise complaint. This felt like 'helping', not 'selling'."
-    },
-    {
-      "step_name": "Maintenance Plan Offer",
-      "description": "Did the technician offer any maintenance plans or long-term service agreements?",
-      "status": "present",
-      "score": 4,
-      "comment": "He utilized the maintenance plan as a value-add tool rather than a standalone product. He mentioned that membership allows the company to 'match manufacturer warranties' (10 years parts & labor) (ID 94), effectively using the plan to strengthen the main equipment proposal."
-    },
-    {
-      "step_name": "Closing & Thank You",
-      "description": "How did the technician conclude the call? Did they thank the customer and finish courteously?",
-      "status": "present",
-      "score": 4,
-      "comment": "Faced with the 'I need to speak to my wife' objection (ID 286), the technician first tried a 'Trial Close' by offering to waive the repair fee (ID 288). When that failed, he successfully executed a 'Fallback Close': collecting the $1009 repair payment but creating a '15-day credit window' (ID 290). This creates a 'sunk cost' lever that strongly encourages the customer to return within two weeks."
     }
   ],
   "annotations": [

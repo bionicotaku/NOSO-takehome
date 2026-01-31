@@ -41,8 +41,12 @@ export function calculateAnnotationPositions(
     const positions: Record<number, number> = {};
     let lastBottom = 0;
 
-    // Ensure annotations are sorted by flow (start_line_id)
-    const sorted = [...annotations].sort((a, b) => a.start_line_id - b.start_line_id);
+    // Ensure annotations are sorted by flow (start_line_id), then by ID
+    const sorted = [...annotations].sort((a, b) => {
+        const lineDiff = a.start_line_id - b.start_line_id;
+        if (lineDiff !== 0) return lineDiff;
+        return a.id - b.id;
+    });
 
     for (const ann of sorted) {
         // 1. Initial Desired Top: Aligned with the transcript line
