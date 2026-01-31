@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.get("/")
 def hello():
-    return {"message": "hello"}
+    return "hello from flask backend", 200, {"Access-Control-Allow-Origin": "*"}
