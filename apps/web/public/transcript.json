@@ -1477,8 +1477,8 @@
     }
   ],
   "meta": {
-    "call_type": "Service & Repair / Replacement Consultation",
-    "overall_score": "High",
+    "call_type": "HVAC Repair Call",
+    "overall_score": 4.5,
     "summary": "The technician completed a temporary repair on the homeowner's aging, mold-compromised HVAC system (charging $1,009) and advised that its efficiency would likely degrade again soon, using this as a bridge to propose a full system replacement. He presented detailed comparisons between a standard gas furnace replacement and high-efficiency heat pump upgrades (specifically Bryant and Bosch models), highlighting California-specific rebates (SVCE and TECH) and addressing the homeowner’s concerns regarding system noise and outdoor venting direction. Although the technician offered to waive the day's repair fee if a replacement contract was signed immediately, the homeowner declined the immediate offer, paid for the repair, and requested the heat pump estimates be emailed for further discussion with his wife."
   },
   "compliance_checklist": [
@@ -1486,7 +1486,7 @@
       "step_name": "Introduction",
       "description": "Did the technician properly greet the customer and introduce themselves/company?",
       "status": "missing_in_transcript",
-      "quality": 0,
+      "quality": 4,
       "comment": "Transcript begins mid-interaction (post-repair debrief), so the standard 'Name/Company/Purpose' introduction is absent. However, the technician excelled at 'Rapport Building' immediately, effectively using the 'Work From Home' context (ID 9-12) and the customer's cat (ID 25-29) to transition from a technical service mode to a relaxed sales conversation."
     },
     {
@@ -1539,7 +1539,7 @@
       "end_line_id": 2,
       "category": "Introduction",
       "title": "开场介绍流程省略",
-      "content": "技术人员未执行标准的上门介绍流程（即：问候客户、自我介绍姓名、介绍所属公司）。 录音似乎非技术人员初次抵达现场的时刻, 客户直接称呼技术人员的名字，表明双方此前已有接触。因此流程缺省可能是合理的。"
+      "content": "技术人员未执行标准的上门介绍流程（即：问候客户、自我介绍姓名、介绍所属公司）。 录音似乎非技术人员初次抵达现场的时刻, 而是已经完成维修后。客户直接称呼技术人员的名字，表明双方此前已有接触。因此流程缺省可能是合理的。"
     },
     {
       "id": 2,

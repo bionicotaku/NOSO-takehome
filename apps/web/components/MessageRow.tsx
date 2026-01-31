@@ -41,7 +41,6 @@ export function MessageRow({ item, highlightColor }: MessageRowProps) {
             className={`
         flex gap-4 py-4 px-4 rounded-lg transition-colors duration-200 group
         ${bgClass}
-        hover:bg-gray-50
       `}
             style={style}
         >

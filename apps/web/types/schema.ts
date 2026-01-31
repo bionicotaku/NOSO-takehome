@@ -8,7 +8,7 @@ export interface TranscriptItem {
 
 export interface MetaData {
     call_type: string;
-    overall_score: "High" | "Medium" | "Low";
+    overall_score: number;
     summary: string;
 }
 

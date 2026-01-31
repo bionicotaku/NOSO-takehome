@@ -2,7 +2,7 @@
 
 import { useEffect, useLayoutEffect, useRef, useState } from "react";
 import { Annotation, MetaData, TranscriptItem } from "../types/schema";
-import { Header } from "./Header";
+import { HeroSection } from "./HeroSection";
 import { MessageRow } from "./MessageRow";
 import { AnnotationCard } from "./AnnotationCard";
 import { calculateAnnotationPositions } from "../lib/alignment";
@@ -15,7 +15,7 @@ interface TranscriptReviewerProps {
 
 export default function TranscriptReviewer({ transcript, annotations, meta }: TranscriptReviewerProps) {
     // State for layout measurements
-    const [linePositions, setLinePositions] = useState<Record<number, number>>({});
+    const [lineMeasurements, setLineMeasurements] = useState<Record<number, { top: number; height: number }>>({});
     const [cardHeights, setCardHeights] = useState<Record<number, number>>({});
     const [layout, setLayout] = useState<Record<number, number>>({});
     const [activeAnnotationId, setActiveAnnotationId] = useState<number | null>(null);
@@ -30,8 +30,13 @@ export default function TranscriptReviewer({ transcript, annotations, meta }: Tr
         const ann = annotations.find(a => a.id === activeAnnotationId);
         if (!ann) return null;
 
+        // Only highlight if exact match or within range?
+        // Usually we highlight the whole range.
         if (itemId >= ann.start_line_id && itemId <= ann.end_line_id) {
-            // Map category to color name
+            // ... existing active highlight logic if we want to keep it?
+            // The user didn't ask to remove the highlight, just to ADD the bar.
+            // But usually the bar IS the highlight indicator.
+            // Let's keep the bg highlight for now unless it conflicts.
             const CATEGORY_COLORS: Record<string, string> = {
                 "Introduction": "blue",
                 "Problem Diagnosis": "red",
@@ -51,15 +56,18 @@ export default function TranscriptReviewer({ transcript, annotations, meta }: Tr
     const measureLines = () => {
         if (!transcriptRef.current) return;
 
-        const newLinePositions: Record<number, number> = {};
+        const newMeasurements: Record<number, { top: number; height: number }> = {};
 
         transcript.forEach((item) => {
             const el = document.getElementById(`line-${item.id}`);
             if (el) {
-                newLinePositions[item.id] = el.offsetTop;
+                newMeasurements[item.id] = {
+                    top: el.offsetTop,
+                    height: el.offsetHeight
+                };
             }
         });
-        setLinePositions(newLinePositions);
+        setLineMeasurements(newMeasurements);
     };
 
     // 2. Measure Card Heights
@@ -96,18 +104,70 @@ export default function TranscriptReviewer({ transcript, annotations, meta }: Tr
 
     // 3. Calculate Layout
     useLayoutEffect(() => {
-        const result = calculateAnnotationPositions(annotations, linePositions, cardHeights);
+        // Calculate layout using just tops for alignment
+        // We map the Record<{top, height}> back to Record<number> for the existing algo
+        const lineTops: Record<number, number> = {};
+        Object.entries(lineMeasurements).forEach(([k, v]) => {
+            lineTops[Number(k)] = v.top;
+        });
+
+        const result = calculateAnnotationPositions(annotations, lineTops, cardHeights);
         setLayout(result.positions);
-    }, [annotations, linePositions, cardHeights]);
+    }, [annotations, lineMeasurements, cardHeights]);
+
+    // Helper to render connection bars
+    const renderConnectionBars = () => {
+        return annotations.map(ann => {
+            const start = lineMeasurements[ann.start_line_id];
+            const end = lineMeasurements[ann.end_line_id];
+
+            if (!start || !end) return null;
+
+            const top = start.top;
+            const height = (end.top + end.height) - start.top;
+
+            const CATEGORY_COLORS: Record<string, string> = {
+                "Introduction": "bg-blue-400",
+                "Problem Diagnosis": "bg-red-400",
+                "Solution Explanation": "bg-indigo-400",
+                "Upsell Attempts": "bg-amber-400",
+                "Maintenance Plan Offer": "bg-emerald-400",
+                "Closing & Thank You": "bg-purple-400",
+                "Sales Insights": "bg-pink-400",
+            };
+
+            const colorClass = CATEGORY_COLORS[ann.category] || "bg-gray-400";
+            const isActive = activeAnnotationId === ann.id;
+
+            return (
+                <div
+                    key={`bar-${ann.id}`}
+                    className={`absolute w-1.5 rounded-full right-0 transition-opacity duration-200 ${colorClass} ${isActive ? 'opacity-100 ring-2 ring-offset-1 ring-gray-200' : 'opacity-40 hover:opacity-80'}`}
+                    style={{
+                        // Subtract a bit of padding/margin?
+                        // Actually, let's match exact message bounds.
+                        // But messages have 'py-4', so the visual text content is smaller.
+                        // If we want it to look like it brackets the TEXT, we might want inset.
+                        // But 'py-4' is inside the hover area.
+                        // Let's try matching the full row block first, maybe inset top/bottom by 4px.
+                        top: top + 8,
+                        height: height - 16
+                    }}
+                    onMouseEnter={() => setActiveAnnotationId(ann.id)}
+                    onMouseLeave={() => setActiveAnnotationId(null)}
+                />
+            );
+        });
+    };
 
     return (
         <div className="min-h-screen bg-gray-50 flex flex-col font-sans">
-            <Header meta={meta} />
+            <HeroSection meta={meta} />
 
-            <main className="flex-grow w-full max-w-7xl mx-auto md:grid md:grid-cols-12 md:gap-8 pt-8 px-4 relative">
+            <main className="flex-grow w-full max-w-7xl mx-auto md:grid md:grid-cols-12 md:gap-8 px-4 relative">
 
-                {/* Left Column: Transcript (Width 7/12 approx 58%) */}
-                <div ref={transcriptRef} className="md:col-span-7 pb-32 relative space-y-2">
+                {/* Left Column: Transcript (Width 8/12 approx 66%) */}
+                <div ref={transcriptRef} className="md:col-span-8 pb-32 relative space-y-2 pt-8">
                     {transcript.map((item) => (
                         <MessageRow
                             key={item.id}
@@ -115,10 +175,20 @@ export default function TranscriptReviewer({ transcript, annotations, meta }: Tr
                             highlightColor={getHighlightColor(item.id)}
                         />
                     ))}
+
+                    {/* Connection Bars Layer - Rendered INSIDE the transcript column, absolute positioned to the right */}
+                    <div className="absolute top-0 right-[-16px] h-full w-4 pointer-events-auto">
+                        {/*
+                 Right -16px puts it in the middle of the 32px gap (gap-8 = 2rem = 32px).
+                 Perfectly centered in the gutter.
+               */}
+                        {renderConnectionBars()}
+                    </div>
                 </div>
 
-                {/* Right Column: Annotations Sidebar (Width 5/12 approx 41%) */}
-                <div ref={sidebarRef} className="hidden md:block md:col-span-5 relative">
+                {/* Right Column: Annotations Sidebar (Width 4/12 approx 33%) */}
+                {/* Added pt-8 to align with transcript start */}
+                <div ref={sidebarRef} className="hidden md:block md:col-span-4 relative pt-8">
                     <div className="relative h-full">
                         {annotations.map((ann) => {
                             const top = layout[ann.id];
