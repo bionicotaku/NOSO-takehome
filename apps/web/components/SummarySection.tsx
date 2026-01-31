@@ -1,13 +1,13 @@
-export interface HeroSectionProps {
+export interface SummarySectionProps {
     meta: MetaData;
 }
 
 import { FileText, Star, Activity } from "lucide-react";
 import { MetaData } from "../types/schema";
 
-export function HeroSection({ meta }: HeroSectionProps) {
+export function SummarySection({ meta }: SummarySectionProps) {
     return (
-        <div className="bg-white border-b border-gray-200 shadow-sm mb-8">
+        <div className="">
             <div className="max-w-7xl mx-auto px-4 py-8 md:py-12">
                 <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-6">
 

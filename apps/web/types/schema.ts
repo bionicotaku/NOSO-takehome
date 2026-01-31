@@ -16,7 +16,7 @@ export interface ComplianceItem {
     step_name: string;
     description: string;
     status: string;
-    quality: number;
+    score: number;
     comment: string;
 }
 

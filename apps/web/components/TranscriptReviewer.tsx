@@ -1,19 +1,21 @@
 "use client";
 
-import { useEffect, useLayoutEffect, useRef, useState } from "react";
-import { Annotation, MetaData, TranscriptItem } from "../types/schema";
-import { HeroSection } from "./HeroSection";
+import { useRef, useState, useEffect, useLayoutEffect } from "react";
+import { Annotation, MetaData, TranscriptItem, ComplianceItem } from "../types/schema";
+import { SummarySection } from "./SummarySection";
 import { MessageRow } from "./MessageRow";
 import { AnnotationCard } from "./AnnotationCard";
+import { ComplianceSection } from "./ComplianceSection";
 import { calculateAnnotationPositions } from "../lib/alignment";
 
 interface TranscriptReviewerProps {
     transcript: TranscriptItem[];
     annotations: Annotation[];
     meta: MetaData;
+    checklist: ComplianceItem[];
 }
 
-export default function TranscriptReviewer({ transcript, annotations, meta }: TranscriptReviewerProps) {
+export default function TranscriptReviewer({ transcript, annotations, meta, checklist }: TranscriptReviewerProps) {
     // State for layout measurements
     const [lineMeasurements, setLineMeasurements] = useState<Record<number, { top: number; height: number }>>({});
     const [cardHeights, setCardHeights] = useState<Record<number, number>>({});
@@ -162,7 +164,14 @@ export default function TranscriptReviewer({ transcript, annotations, meta }: Tr
 
     return (
         <div className="min-h-screen bg-gray-50 flex flex-col font-sans">
-            <HeroSection meta={meta} />
+            {/* Unified Hero Section */}
+            <div className="bg-white border-b border-gray-200 shadow-sm mb-8">
+                <SummarySection meta={meta} />
+                <div className="max-w-7xl mx-auto px-4">
+                    <div className="border-t border-gray-100" />
+                </div>
+                <ComplianceSection items={checklist} />
+            </div>
 
             <main className="flex-grow w-full max-w-7xl mx-auto md:grid md:grid-cols-12 md:gap-8 px-4 relative">
 

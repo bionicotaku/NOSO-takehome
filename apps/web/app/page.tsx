@@ -18,6 +18,7 @@ export default async function Page() {
       transcript={data.transcript}
       annotations={data.annotations}
       meta={data.meta}
+      checklist={data.compliance_checklist}
     />
   );
 }

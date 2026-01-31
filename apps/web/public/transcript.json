@@ -1485,51 +1485,44 @@
     {
       "step_name": "Introduction",
       "description": "Did the technician properly greet the customer and introduce themselves/company?",
-      "status": "missing_in_transcript",
-      "quality": 4,
+      "status": "missing",
+      "score": 4,
       "comment": "Transcript begins mid-interaction (post-repair debrief), so the standard 'Name/Company/Purpose' introduction is absent. However, the technician excelled at 'Rapport Building' immediately, effectively using the 'Work From Home' context (ID 9-12) and the customer's cat (ID 25-29) to transition from a technical service mode to a relaxed sales conversation."
     },
     {
       "step_name": "Problem Diagnosis",
       "description": "How did the technician inquire about and understand the customer’s issue?",
       "status": "present",
-      "quality": 5,
+      "score": 5,
       "comment": "Excellent execution. He framed the completed repair as a temporary 'Band-Aid' (ID 19) to prevent complacency. Crucially, he uncovered the hidden root cause of the customer's request to move the unit: 'Noise' (ID 180). This insight allowed him to stop selling 'relocation' ($4000+) and start selling 'quiet technology' (Inverter + Grill), aligning perfectly with the customer's needs."
     },
     {
       "step_name": "Solution Explanation",
       "description": "Did the technician clearly explain the solution or service performed?",
       "status": "present",
-      "quality": 5,
+      "score": 5,
       "comment": "Highly adaptive. Initially pitched Bryant, but pivoted to **Bosch** (ID 215) when the customer expressed a preference for 'upward venting'. He used the customer's existing 'Mini-split' as an anchor to explain 'Inverter Technology' (ID 100). He also transparently managed expectations about heat pump air temperature (ID 106) and potential wind noise (ID 199), building high credibility."
     },
     {
       "step_name": "Upsell Attempts",
       "description": "Note if and how the technician attempted to upsell additional services or products.",
       "status": "present",
-      "quality": 5,
+      "score": 5,
       "comment": "Strategically brilliant. He positioned **'Duct Sealing'** not just as an add-on, but as a mandatory requirement to pass the HERS test for rebates (ID 84). He also offered an **'Egg Crate Grill'** upgrade (ID 189) as a low-cost, high-value solution to the customer's primary noise complaint. This felt like 'helping', not 'selling'."
     },
     {
       "step_name": "Maintenance Plan Offer",
       "description": "Did the technician offer any maintenance plans or long-term service agreements?",
       "status": "present",
-      "quality": 4,
+      "score": 4,
       "comment": "He utilized the maintenance plan as a value-add tool rather than a standalone product. He mentioned that membership allows the company to 'match manufacturer warranties' (10 years parts & labor) (ID 94), effectively using the plan to strengthen the main equipment proposal."
     },
     {
       "step_name": "Closing & Thank You",
       "description": "How did the technician conclude the call? Did they thank the customer and finish courteously?",
       "status": "present",
-      "quality": 4,
+      "score": 4,
       "comment": "Faced with the 'I need to speak to my wife' objection (ID 286), the technician first tried a 'Trial Close' by offering to waive the repair fee (ID 288). When that failed, he successfully executed a 'Fallback Close': collecting the $1009 repair payment but creating a '15-day credit window' (ID 290). This creates a 'sunk cost' lever that strongly encourages the customer to return within two weeks."
-    },
-    {
-      "step_name": "Sales Insights",
-      "description": "Highlight any sales signals or opportunities in the call.",
-      "status": "present",
-      "quality": 5,
-      "comment": "Strong performance in 'Objection Handling' (fixing the noise issue) and 'Price Anchoring' (presenting monthly payments). He also used the 'waive repair fee' tactic effectively as a closing lever."
     }
   ],
   "annotations": [
