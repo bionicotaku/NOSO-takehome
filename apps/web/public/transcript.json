@@ -1073,422 +1073,243 @@
   "annotations": [
     {
       "id": 1,
-
       "start_line_id": 1,
-
       "end_line_id": 6,
-
       "category": "Introduction",
-
-      "title": "去陌生化的非正式开场",
-
-      "content": "技术人员跳过了标准的陌生拜访流程，直接进入工作状态。客户直呼其名显示双方已建立初步融洽关系（Rapport）。这种轻松的氛围消除了'销售对立面'的感觉，为从'维修服务模式'平滑切换到'顾问销售模式'奠定了基础。"
+      "title": "Casual, Relationship-First Opening",
+      "content": "The technician skipped the stiff cold-call formalities and jumped straight into a peer-to-peer interaction. The customer used technician's first name, which meant they had established rapport. This relaxed tone effectively dismantled the 'salesperson vs. customer' wall, paving the way for a smooth transition from 'repair mode' to 'consultant mode'."
     },
-
     {
       "id": 2,
-
       "start_line_id": 7,
-
       "end_line_id": 12,
-
       "category": "Sales Insights",
-
-      "title": "场景化需求侦察（居家办公）",
-
-      "content": "Done Well:这段看似随意的闲聊实则是一次精准的需求探测。技术人员通过确认客户'居家办公'，敏锐捕捉到客户对全天候恒温环境及低噪音运行的高标准要求。这不仅建立了'打工人'的情感共鸣，更为后续推销主打静音舒适的'变频热泵'埋下了关键伏笔。"
+      "title": "Uncovering Situational Needs (Work From Home)",
+      "content": "Done Well: This seemingly casual small talk was actually sharp needs discovery. By confirming the customer works from home, the technician identified a critical need for consistent climate control and low noise. This built empathy around the 'remote work' lifestyle and set the stage for pitching the quiet inverter heat pump later."
     },
-
     {
       "id": 3,
-
       "start_line_id": 13,
-
       "end_line_id": 20,
-
       "category": "Problem Diagnosis",
-
-      "title": "数据化验证与'权宜之计'定性",
-
-      "content": "技术人员利用图表数据（温差改善）证明了维修的有效性，确立了技术权威。紧接着，他策略性地将此成果定性为'Band-Aided（权宜之计）'，暗示问题并未根除，巧妙地在肯定自己工作的同时，为推翻维修成果、建议彻底换新做好了心理铺垫。"
+      "title": "Data Validation & The 'Band-Aid' Analogy",
+      "content": "The technician used data charts (temperature splits) to prove the repair worked, establishing technical authority. He then strategically labeled the repair a 'Band-Aid.' This metaphor validated his own work while simultaneously implying the equipment is on life support, psychologically preparing the customer for the replacement conversation."
     },
-
     {
       "id": 4,
-
       "start_line_id": 21,
-
       "end_line_id": 24,
-
       "category": "Problem Diagnosis",
-
-      "title": "恐惧诉求与紧迫感营造",
-
-      "content": "技术人员从解决当下问题迅速转向预测未来风险，预言效率将短期内再次下降，并重申霉菌和生锈隐患。通过制造对未来故障和健康风险的焦虑，激发客户通过'现在换新'来规避未来更大麻烦的动机。"
+      "title": "Building Urgency via Future Risk",
+      "content": "The technician pivoted from solving today's problem to predicting tomorrow's failures, forecasting efficiency drops and highlighting mold/rust issues. By highlighting these future risks and health hazards, he created urgency, motivating the customer to replace the unit now rather than facing bigger headaches later."
     },
-
     {
       "id": 5,
-
       "start_line_id": 21,
-
       "end_line_id": 22,
-
       "category": "Sales Insights",
-
-      "title": "痛点确认与购买信号捕捉",
-
-      "content": "Done Well:客户对设备老旧及潜在风险回应'I'm aware of that'（我意识到了），这是一个强烈的购买信号。这意味着技术人员无需再花费精力去说服客户'是否存在问题'，而应立即转入'如何解决问题'的方案展示阶段。Missed:当技术人员提及'霉菌（mold）'问题时，客户回答'I'm aware of that'（我知道）。这是一个巨大的需求挖掘缺口。技术人员此时仅仅把它当作一个技术事实处理了，而错过了追问：'既然您知道有霉菌，这对您家人的过敏或呼吸道健康有影响吗？'。如果能挖掘出健康层面的痛点，客户换机的紧迫性将从'为了设备效率'上升到'为了家人健康'，成交动力会呈指数级增长。"
+      "title": "Confirming Pain Points & Spotting Buying Signals",
+      "content": "Done Well: The customer saying 'I'm aware of that' regarding the risks is a massive buying signal. It means the technician can stop proving the problem exists and start selling the solution. Missed Opportunity: When the customer acknowledged the 'mold,' the technician treated it as a fact rather than a pain point. He should have asked, 'Does this affect anyone's allergies?' Connecting the issue to family health would have skyrocketed the urgency to buy."
     },
-
     {
       "id": 6,
-
       "start_line_id": 31,
-
       "end_line_id": 44,
-
       "category": "Upsell Attempts",
-
-      "title": "政策导向的市场教育",
-
-      "content": "技术人员没有直接报价，而是扮演'行业顾问'角色。他利用加州'天然气淘汰'政策作为外部权威背书，顺势将话题引向热泵。同时，强调当前针对热泵的高额返利，旨在降低客户对新技术高溢价的心理防备，将'花钱'转化为'顺应趋势的投资'。"
+      "title": "Leveraging Policy for Market Education",
+      "content": "Instead of just quoting prices, the technician acted as an industry advisor. He used California’s 'gas phase-out' policy to validate the move toward heat pumps. Highlighting the rebates helped lower the customer's resistance to the higher price tag, reframing the purchase as a smart, future-proof investment."
     },
-
     {
       "id": 7,
-
       "start_line_id": 41,
-
       "end_line_id": 42,
-
       "category": "Sales Insights",
-
-      "title": "价格锚定与心理账户转移",
-
-      "content": "Done Well:客户对'返利'表现出浓厚兴趣，表明价格是其主要决策门槛。技术人员敏锐地抓住了这一点，利用返利政策将原本昂贵的热泵重新锚定为'当前可负担'的选项，利用消费者的'厌恶损失'心理（不买就亏了返利）来推动决策。"
+      "title": "Price Anchoring & Rebate Psychology",
+      "content": "Done Well: The customer's interest in 'rebates' proved that price was the main hurdle. The technician effectively used the rebates to re-anchor the expensive heat pump as 'affordable right now,' leveraging the customer's 'Loss Aversion' (the fear of missing out on free money) to drive the decision."
     },
-
     {
       "id": 8,
-
       "start_line_id": 45,
-
       "end_line_id": 74,
-
       "category": "Solution Explanation",
-
-      "title": "价值堆叠与服务有形化",
-
-      "content": "在揭晓最终价格前，技术人员采用了'价值堆叠'策略。他事无巨细地列举了拆除、回收、电路升级、许可申请等每一个步骤。这种将无形服务有形化的过程，让客户深刻感知到工程的复杂性，从而使随后出现的高总价显得合情合理（Justification）。"
+      "title": "Value Stacking & Making Service Tangible",
+      "content": "Before showing the final price, the technician used a 'Value Stacking' strategy. He walked through every step: removal, disposal, electrical, and permitting. Making these invisible services tangible helped the customer understand the complexity of the job, justifying the high total cost that followed."
     },
-
     {
       "id": 9,
-
       "start_line_id": 75,
-
       "end_line_id": 85,
-
       "category": "Upsell Attempts",
-
-      "title": "合规性包装下的增值销售",
-
-      "content": "技术人员指出房屋无法通过强制性的 HERS 测试，并顺势引入'管道密封'服务。高明之处在于，他将这项'必须做的合规性整改'包装成了'包含在促销中的增值服务'，既解决了硬性障碍，又让客户感觉占了便宜，消除了对额外收费的抵触。"
+      "title": "Packaging Compliance as Value",
+      "content": "Noticing the home would fail the HERS test, the technician introduced 'duct sealing.' Brilliantly, he packaged this mandatory compliance fix as a 'value-added bonus' included in the promo. This solved a technical barrier while making the customer feel they were getting a deal, removing friction around the extra cost."
     },
-
     {
       "id": 10,
-
       "start_line_id": 78,
-
       "end_line_id": 81,
-
       "category": "Sales Insights",
-
-      "title": "合规焦虑制造",
-
-      "content": "Done Well:客户坦承'可能通不过测试'，显示出对房屋能效状况的缺乏信心。技术人员利用这种'合规焦虑'，成功将'管道密封'从一个可选项变成了一个必选项，更像是在解决问题而不是强行加单，从而在不增加客户心理负担的前提下提高了客单价。"
+      "title": "Leveraging Compliance Anxiety",
+      "content": "Done Well: The customer admitted the home 'probably won't pass,' showing a lack of confidence. The technician used this anxiety to position 'duct sealing' not as an upsell, but as a necessary safety net. This increased the ticket size naturally without feeling pushy."
     },
-
     {
       "id": 11,
-
       "start_line_id": 86,
-
       "end_line_id": 93,
-
       "category": "Solution Explanation",
-
-      "title": "针对性技术卖点匹配",
-
-      "content": "介绍新设备时，技术人员着重强调 R-32 制冷剂的环保性及电机的静音特性。这些卖点并非随机选择，而是直接呼应了客户此前透露的'居家办公'场景需求，实现了产品特性与客户需求的精准匹配。"
+      "title": "Tailoring Features to Specific Needs",
+      "content": "The technician highlighted the R-32 refrigerant (eco-friendly) and the quiet motor. These weren't random features; they directly addressed the customer’s 'Work From Home' situation, ensuring the product pitch aligned perfectly with the customer's lifestyle."
     },
-
     {
       "id": 12,
-
       "start_line_id": 94,
-
       "end_line_id": 97,
-
       "category": "Maintenance Plan Offer",
-
-      "title": "服务订阅与长期保修绑定",
-
-      "content": "技术人员抛出一个极具吸引力的提议：加入会员维护计划即可将10年零件保修升级为'零件+人工'全包。这一策略将低频的年度维护转化为高价值的'保险单'，极大地提高了客户加入长期服务协议（粘性）的意愿。"
+      "title": "Bundling Maintenance with Warranty",
+      "content": "The technician made a compelling offer: join the maintenance plan to upgrade the 10-year warranty to cover both Parts AND Labor. This strategy turns a low-value maintenance visit into a high-value 'insurance policy,' significantly increasing the likelihood of locking the customer into a long-term relationship."
     },
-
     {
       "id": 13,
-
       "start_line_id": 98,
-
       "end_line_id": 115,
-
       "category": "Upsell Attempts",
-
-      "title": "技术认知锚定与预期管理",
-
-      "content": "技术人员巧妙借用客户已有的 Mini-split（无风管空调）作为认知锚点来解释变频技术，降低了理解门槛。同时，他诚实地管理了热泵出风温度较温和的预期，这种'打预防针'的做法体现了极高的专业度，能有效避免售后的心理落差。"
+      "title": "Simplifying Tech & Managing Expectations",
+      "content": "The technician used the customer's existing mini-split as an anchor to explain 'inverter technology,' making it easy to understand. He also honestly managed expectations about the heat pump's gentler airflow. This 'preventative' communication builds trust and prevents buyer's remorse later."
     },
-
     {
       "id": 14,
-
       "start_line_id": 116,
-
       "end_line_id": 125,
-
       "category": "Solution Explanation",
-
-      "title": "去摩擦化的返利协助",
-
-      "content": "针对繁琐的 SVCE 返利申请，技术人员承诺公司将代为处理绝大部分手续（如证明、标签）。这种'去摩擦化'的服务承诺，消除了客户因畏惧行政流程而放弃申请（甚至放弃签单）的阻碍。"
+      "title": "Removing Friction from the Rebate Process",
+      "content": "Addressing the complex rebate paperwork, the technician promised the company would handle the heavy lifting (proofs, labels). This promise of a 'frictionless' process removed a major barrier where customers often give up due to administrative hassle."
     },
-
     {
       "id": 15,
-
       "start_line_id": 126,
-
       "end_line_id": 138,
-
       "category": "Upsell Attempts",
-
-      "title": "成本倒挂逻辑淘汰旧方案",
-
-      "content": "通过引入第二个返利项目（TECH Clean California），技术人员构建了一个完美的逻辑闭环：算上各类返利后，高端热泵的实际成本竟然比传统燃气炉更低。这在逻辑上彻底淘汰了燃气炉选项，迫使理性客户只能选择热泵。"
+      "title": "Using 'Net Cost' Logic to Eliminate Options",
+      "content": "By stacking a second rebate, the technician created a logical loop: after rebates, the high-end heat pump was actually cheaper than the basic gas furnace. This 'Net Cost' logic effectively eliminated the gas option, making the heat pump the only rational choice."
     },
-
     {
       "id": 16,
-
       "start_line_id": 139,
-
       "end_line_id": 153,
-
       "category": "Solution Explanation",
-
-      "title": "专家级竞品分析",
-
-      "content": "技术人员没有一味推销单一品牌，而是客观分析了 Bryant 在'除霜循环'上的微小技术优势。这种对技术细节的掌控力（Authority）建立了深厚的信任，让客户相信他的推荐是基于性能而非利润。"
+      "title": "Objective Competitive Analysis",
+      "content": "The technician didn't blindly push one brand. He gave an objective comparison of Bryant's technical edge (defrost cycles). This display of technical knowledge built deep trust, convincing the customer the recommendation was based on performance, not just what was in stock."
     },
-
     {
       "id": 17,
-
       "start_line_id": 154,
-
       "end_line_id": 179,
-
       "category": "Problem Diagnosis",
-
-      "title": "移机咨询的引导性劝退",
-
-      "content": "面对客户移机至车库或阁楼的意向，技术人员采用了'肯定-否定'策略。肯定阁楼是好位置，但坦诚指出车库方案难度极大且阁楼方案成本高昂。这种咨询式的引导既尊重了客户意愿，又防止了因预算失控（增加$4000+）导致丢单。"
+      "title": "Consultative Pivot Away from Relocation",
+      "content": "When the customer asked about moving the unit, the technician used a 'Yes, but...' approach. He agreed the attic was a good spot technically, but transparently explained the massive cost ($4,000+). This steered the customer away from a budget-breaking idea without outright rejecting their wish."
     },
-
     {
       "id": 18,
-
       "start_line_id": 154,
-
       "end_line_id": 158,
-
       "category": "Sales Insights",
-
-      "title": "隐性痛点深挖与预算测试",
-
-      "content": "Done Well:客户主动提出昂贵的移机想法，暴露了对现状的强烈不满。说明他已经从“修好就行”进入到“长期怎么更舒服/更合理”的思考阶段——这通常意味着更换/升级已被纳入考虑。这是一个关键信号：客户属于'体验敏感型'而非单纯的'价格敏感型'。技术人员意识到只要解决核心体验问题（噪音），客户可能愿意支付溢价。"
+      "title": "Uncovering Latent Pain Points & Budget Potential",
+      "content": "Done Well: The customer's willingness to discuss an expensive relocation revealed he was 'Experience-Sensitive,' not just 'Price-Sensitive.' He was unhappy with the status quo. The technician realized that if he could solve the core experience issue (noise), the customer would likely pay a premium."
     },
-
     {
       "id": 19,
-
       "start_line_id": 180,
-
       "end_line_id": 185,
-
       "category": "Sales Insights",
-
-      "title": "核心痛点锁定：噪音",
-
-      "content": "Done Well:对话迎来转折，客户终于吐露移机的真正动因是'噪音'。既然痛点明确，技术人员立即调整策略，不再纠结于物理位置的移动，而是将解决方案转向'设备本身的静音性'，这为后续提出高性价比方案指明了方向。这类即时转向非常关键：它既降低了方案的总价压力，也更贴合客户的真实决策标准，从而提升成交概率。"
+      "title": "Locking in on the Core Pain Point: Noise",
+      "content": "Done Well: The moment the customer admitted the real issue was 'noise,' the technician pivoted immediately. He stopped talking about location and started selling 'quiet equipment.' This alignment lowered the project cost while hitting the customer's exact decision criteria, greatly boosting the chance of a sale."
     },
-
     {
       "id": 20,
-
       "start_line_id": 186,
-
       "end_line_id": 204,
-
       "category": "Solution Explanation",
-
-      "title": "低成本高感知的解决方案",
-
-      "content": "针对噪音痛点，技术人员提出了'更换蛋格状回风口'这一低成本但效果显著的方案。引用'降低20%噪音'的数据极大地增强了说服力。这一建议不仅帮客户省下了移机的巨款，更建立了'为客户着想'的盟友形象。"
+      "title": "High-Value, Low-Cost Solution",
+      "content": "To solve the noise issue, the technician proposed an 'egg crate grille' upgrade. It's cheap to install but offers high perceived value (20% noise reduction). This positioned the technician as a problem-solver who saved the customer the cost of relocation."
     },
-
     {
       "id": 21,
-
       "start_line_id": 205,
-
       "end_line_id": 218,
-
       "category": "Problem Diagnosis",
-
-      "title": "物理形态异议的即时化解",
-
-      "content": "当客户对侧出风机型提出异议时，技术人员展现了极快的产品匹配能力。他迅速引入 Bosch 品牌，完美结合了客户想要的'变频内核'与'顶出风外观'，扫清了成交道路上的物理障碍。"
+      "title": "Instantly Resolving Design Objections",
+      "content": "When the customer objected to the side-discharge fan, the technician didn't argue. He immediately brought up the Bosch unit, which combined the 'inverter tech' the customer wanted with the 'top-discharge design' they preferred. This agility cleared a major physical blocker to the deal."
     },
-
     {
       "id": 22,
-
       "start_line_id": 210,
-
       "end_line_id": 213,
-
       "category": "Sales Insights",
-
-      "title": "动态库存匹配",
-
-      "content": "Done Well:客户对外机“出风方向/形态”有明确偏好（更喜欢上出风）。技术人员没有辩解侧出风的好处，而是顺应客户偏好，立即调取符合要求的库存方案。技术人员的处理很有效：不争论谁更好，而是顺应客户偏好,而是立刻提供可行替代.是促成合作的关键。"
+      "title": "Real-Time Inventory Matching",
+      "content": "Done Well: The customer had a specific preference for the look of the unit (top discharge). Instead of debating which was better, the technician adapted instantly and pulled up a matching option from inventory. Being flexible rather than rigid is key to partnership."
     },
-
     {
       "id": 23,
-
       "start_line_id": 219,
-
       "end_line_id": 236,
-
       "category": "Solution Explanation",
-
-      "title": "协作式验证增强信任",
-
-      "content": "技术人员主动对 Bosch 的 Energy Star 认证表示不确定，并邀请客户共同核实。这种'不确定的诚实'比'盲目的自信'更具杀伤力，它将单向的推销变成了双向的协作，极大地拉近了双方的心理距离。"
+      "title": "Building Trust Through Collaborative Verification",
+      "content": "The technician admitted he wasn't 100% sure about the Bosch Energy Star rating and looked it up *with* the customer. This 'honest uncertainty' is often more persuasive than acting like a know-it-all. It turned the pitch into a collaborative session, building trust."
     },
-
     {
       "id": 24,
-
       "start_line_id": 237,
-
       "end_line_id": 245,
-
       "category": "Solution Explanation",
-
-      "title": "决策辅助：细节与形态的权衡",
-
-      "content": "技术人员帮助客户梳理最终选项：Bryant 胜在除霜细节，Bosch 胜在物理形态。鉴于加州气候少霜，Bosch 的形态优势自然成为了更符合客户偏好的决定性因素，帮助客户完成了心理决策。"
+      "title": "Guiding the Trade-off: Specs vs. Design",
+      "content": "The technician helped the customer choose: Bryant has better defrost specs, but Bosch has the preferred design. Since defrosting isn't a big issue in California, he guided the customer toward the Bosch, validating their design preference as the logical choice."
     },
-
     {
       "id": 25,
-
       "start_line_id": 246,
-
       "end_line_id": 253,
-
       "category": "Upsell Attempts",
-
-      "title": "效率营销与工期承诺",
-
-      "content": "在讨论工期时，技术人员再次强调多人施工小组能显著压缩时间，并再次关联'管道密封'促销。这不仅回应了客户对效率的关注，也进一步巩固了全套解决方案的吸引力。"
+      "title": "Selling Efficiency & Timeline Commitments",
+      "content": "The technician promised to double the crew size to speed up the job. This directly addressed the customer's efficiency concerns and linked back to the duct sealing promo, making the full package sound efficient and low-hassle."
     },
-
     {
       "id": 26,
-
       "start_line_id": 246,
-
       "end_line_id": 247,
-
       "category": "Sales Insights",
-
-      "title": "回扣居家办公痛点",
-
-      "content": "Done Well:客户询问安装时长，潜台词对施工期间的噪音、停机时间、在家办公受影响、以及日程安排的担忧。技术人员给出清晰时间范围（热泵 2–3 天、燃气 1–2 天）同时引入“可以增加安装人员/两组人马加速”的资源选项。"
+      "title": "Addressing Work-From-Home Anxiety",
+      "content": "Done Well: When asking about the timeline, the customer was really asking, 'How long will you disrupt my work?' The technician offered a clear timeline and the option to add more crew members to finish faster, directly alleviating the disruption anxiety."
     },
-
     {
       "id": 27,
-
       "start_line_id": 254,
-
       "end_line_id": 285,
-
       "category": "Solution Explanation",
-
-      "title": "金融方案的除疑与安抚",
-
-      "content": "技术人员详细拆解了'12个月免息'方案，重点解释了利息仅针对'剩余余额'计算的机制。这一解释消除了客户对金融陷阱的恐惧，展示了方案的灵活性，降低了客户大额支付的心理压力。"
+      "title": "Clarifying Financing & Removing Doubts",
+      "content": "The technician clearly explained the '12-month interest-free' plan, clarifying that interest only hits the *remaining* balance. This removed the fear of hidden traps and reduced the psychological weight of the large upfront price tag."
     },
-
     {
       "id": 28,
-
       "start_line_id": 286,
-
       "end_line_id": 289,
-
       "category": "Upsell Attempts",
-
-      "title": "试探性缔结与风险对冲",
-
-      "content": "面对客户'需要商量'的推脱，技术人员抛出'免除今日维修费'作为即时签约诱饵，并强调'3天反悔期'来降低决策风险。这是一种标准的试探性缔结（Trial Close），意在测试客户的真实抗性强度。"
+      "title": "Trial Close & Risk Reduction",
+      "content": "Facing a delay, the technician used a 'Trial Close': offering to waive the repair fee if they signed now, while emphasizing the '3-day right to cancel.' This was an attempt to lower the risk of saying 'yes' immediately."
     },
-
     {
       "id": 29,
-
       "start_line_id": 286,
-
       "end_line_id": 289,
-
       "category": "Sales Insights",
-
-      "title": "决策者缺席的应对不足（遗漏点）",
-
-      "content": "Missed：当客户提出'需与妻子商量'时，技术人员接受得过快。他错失了询问'妻子最在乎什么指标'（价格、外观还是舒适度？）的机会。若能挖掘出妻子的关注点，技术人员本可以提供针对性的资料（如外观图或静音视频）供客户转呈，从而提高场外决策的成功率。"
+      "title": "Missed Opportunity: The Absent Decision Maker",
+      "content": "Missed Opportunity: When the customer said he needed to 'ask his wife,' the technician folded too quickly. He should have asked, 'What is most important to her—price, noise, or look?' Knowing this would have allowed him to arm the customer with the right talking points (or photos/videos) to win her over."
     },
-
     {
       "id": 30,
-
       "start_line_id": 290,
-
       "end_line_id": 295,
-
       "category": "Closing & Thank You",
-
-      "title": "沉没成本锁定与降级成交",
-
-      "content": "无法当场签下大单后，技术人员策略性地退而求其次：收取维修费，但设定'15天内签约全额抵扣'的条款。这在客户心中植入了一个'两周倒计时'和'沉没成本'，强有力地锁定了未来的成交机会，避免了完全空手而归。"
+      "title": "The 'Fallback Close' & Sunk Cost Strategy",
+      "content": "Unable to get the signature, the technician executed a perfect 'Fallback Close.' He charged the repair fee but offered a full credit if they signed within 15 days. This creates a 'sunk cost' in the customer's mind and a 2-week deadline, locking in the future sale even without a signature today."
     }
   ]
 }
