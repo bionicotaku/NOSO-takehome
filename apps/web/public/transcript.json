@@ -1,923 +1,1024 @@
 {
   "transcript": [
-    { "id": 1, "speaker": "Technician", "text": "你好。" },
-    { "id": 2, "speaker": "Homeowner", "text": "嘿，Luis。" },
+    { "id": 1, "speaker": "Technician", "text": "Hello." },
+    { "id": 2, "speaker": "Homeowner", "text": "Hey, Luis." },
     {
       "id": 3,
       "speaker": "Technician",
-      "text": "都给你弄好了。之所以花了这么久，是因为我在外面的时候也顺便把你所有设备选项都做出来了。"
+      "text": "Got you all done. The reason that took so long is I just kind of also built all your equipment options while I was out there too."
     },
-    { "id": 4, "speaker": "Homeowner", "text": "好，当然。" },
+    { "id": 4, "speaker": "Homeowner", "text": "Okay. Sure." },
     {
       "id": 5,
       "speaker": "Technician",
-      "text": "嗯，我想在这儿跟你把收尾事项过一下。"
+      "text": "Um, I’d love to wrap up with you here."
     },
-    { "id": 6, "speaker": "Homeowner", "text": "当然，当然。" },
+    { "id": 6, "speaker": "Homeowner", "text": "Of course. Of course." },
     {
       "id": 7,
       "speaker": "Technician",
-      "text": "那你今天剩下的时间准备做什么？"
+      "text": "So, what are you up to for the rest of the day?"
     },
     {
       "id": 8,
       "speaker": "Homeowner",
-      "text": "哦，继续工作。就是，嗯……继续工作，真的。"
+      "text": "Oh, keep working. Just, um... keep working, really."
     },
-    { "id": 9, "speaker": "Technician", "text": "不错。你也在家办公吗？" },
+    {
+      "id": 9,
+      "speaker": "Technician",
+      "text": "Nice. You work from home also?"
+    },
     {
       "id": 10,
       "speaker": "Homeowner",
-      "text": "对，对，大多数……大多数时候。"
+      "text": "Yeah, yeah, most of the... most of the days."
     },
     {
       "id": 11,
       "speaker": "Technician",
-      "text": "有时候我会去……我真的除了你家哪儿都没法工作，对吧？"
+      "text": "Sometimes I go to the... I literally can’t work from anywhere else but your home, right?"
     },
     {
       "id": 12,
       "speaker": "Homeowner",
-      "text": "我知道，对吧。是啊。我如果在……（笑）我的工作就要“背叛”我了。"
+      "text": "I know. Right. Yeah. My job would be betrayed if I work from... [Laughs]"
     },
     {
       "id": 13,
       "speaker": "Technician",
-      "text": "是啊，AI现在……挺火的。不过，嗯……为了……我们直接看差异。我想给你展示一下……还记得之前我们那个……低于冰点的温度吗？41度那次。"
+      "text": "Yeah, AI is a... a big thing, man. But, um... so just to... let's go right to just the differences here. I just wanted to show you... um... so remember before how we had that before... that uh... below freezing temperature? At 41."
     },
-    { "id": 14, "speaker": "Homeowner", "text": "哦，对。" },
+    { "id": 14, "speaker": "Homeowner", "text": "Oh, yeah." },
     {
       "id": 15,
       "speaker": "Technician",
-      "text": "看到这个挺好的。嗯……现在我们也有了20度的温差。"
+      "text": "It’s good to see. Um... And now we have that 20 degree difference as well."
     },
-    { "id": 16, "speaker": "Homeowner", "text": "啊，好。" },
+    { "id": 16, "speaker": "Homeowner", "text": "Ah, okay." },
     {
       "id": 17,
       "speaker": "Technician",
-      "text": "我给你做了个特别花哨的图表。现在状态不错。"
+      "text": "Just did a really fancy chart there for you. And got you in good shape."
     },
-    { "id": 18, "speaker": "Homeowner", "text": "好。" },
+    { "id": 18, "speaker": "Homeowner", "text": "Okay." },
     {
       "id": 19,
       "speaker": "Technician",
-      "text": "总之……这肯定算是创可贴式的应急修补。"
+      "text": "All that to say... definitely Band-Aided."
     },
     {
       "id": 20,
       "speaker": "Homeowner",
-      "text": "当然。对对对。它很旧了，是个老机子。"
+      "text": "Sure. Yeah, yeah, yeah. It’s old. It’s an old unit."
     },
     {
       "id": 21,
       "speaker": "Technician",
-      "text": "对。所以……就未来的预期来说，我会说……一到两个月内，我觉得我们就会开始看到……甚至更快，就会看到效率又下降。而且我们仍然有霉菌问题和锈蚀问题。"
+      "text": "Right. So... the... when it comes to just what to expect here in the future, I would say... one month to two months, I think we'll start to see... or even sooner, we'll start to see the efficiency drop again. And we still have those mold issues and rust issues."
     },
-    { "id": 22, "speaker": "Homeowner", "text": "对对对，我知道。" },
+    {
+      "id": 22,
+      "speaker": "Homeowner",
+      "text": "Yeah, yeah, yeah. I'm aware of that."
+    },
     {
       "id": 23,
       "speaker": "Technician",
-      "text": "所以……嗯……我想给你看看一些不同的设备方案。"
+      "text": "So... um... I did just want to show you some different equipment options."
     },
-    { "id": 24, "speaker": "Homeowner", "text": "当然。" },
-    { "id": 25, "speaker": "Technician", "text": "天哪，这是谁呀？" },
+    { "id": 24, "speaker": "Homeowner", "text": "Of course." },
+    {
+      "id": 25,
+      "speaker": "Technician",
+      "text": "Oh my goodness. Who is this?"
+    },
     {
       "id": 26,
       "speaker": "Homeowner",
-      "text": "米开朗基罗。出来……出去……快出去。"
+      "text": "Michelangelo. Come on out. Get out... Get out of here."
     },
     {
       "id": 27,
       "speaker": "Technician",
-      "text": "啊ww。（笑）没事，我喜欢猫。"
+      "text": "Aww. [Laughs] It's okay, I love cats."
     },
-    { "id": 28, "speaker": "Homeowner", "text": "嗨。" },
+    { "id": 28, "speaker": "Homeowner", "text": "Hi." },
     {
       "id": 29,
       "speaker": "Technician",
-      "text": "嗨。我家有两只猫和三只狗，所以家里相当热闹。"
+      "text": "Hi. I have two cats and three dogs at home. So we have quite the chaos household."
     },
-    { "id": 30, "speaker": "Homeowner", "text": "我们有两只。我们有两只猫。" },
+    {
+      "id": 30,
+      "speaker": "Homeowner",
+      "text": "We have two. We have two cats."
+    },
     {
       "id": 31,
       "speaker": "Technician",
-      "text": "那挺好。对。所以……两种设备方案。或者说我一共给你做了四个方案。嗯……要么我们做同类同规格更换……这样自然会更高效，即便只是把你现在这套换成更新版本。会是新的燃气炉、新的盘管、新的冷凝器（室外机）。SEER 更高，效率更好。但本质还是同类型设备。"
+      "text": "There you go. Yeah. So... to... two equipment options. Or there's a total of four that I've built. Um... There's either we replace like-for-like... um... which will naturally be more efficient, even though it's just going to be the updated version of what you have. It's going to be a new furnace, new coil, new condenser. Higher SEER rating, better efficiency. But still like the same type of equipment."
     },
-    { "id": 32, "speaker": "Homeowner", "text": "嗯哼。" },
+    { "id": 32, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 33,
       "speaker": "Technician",
-      "text": "再往上一步，就是保留燃气供暖、电制冷，但把效率升级。嗯……有意思的是，我给你做的四个方案里，这个反而是最贵的。嗯……你了解本地关于天然气逐步淘汰的情况吗？"
+      "text": "The next step beyond that is maintaining gas heating, electric cooling, but upgrading efficiency. Um... and the interesting thing about that is that actually ends up being the most expensive one of the four that I've built. Um... Are you familiar with natural gas phase-outs in the area at all?"
     },
-    { "id": 34, "speaker": "Homeowner", "text": "不了解……我不知道这个。" },
-    { "id": 35, "speaker": "Technician", "text": "好。所以这大概是……比如说……" },
-    { "id": 36, "speaker": "Homeowner", "text": "哦，是那个……对。" },
+    {
+      "id": 34,
+      "speaker": "Homeowner",
+      "text": "No... I don't know about that."
+    },
+    {
+      "id": 35,
+      "speaker": "Technician",
+      "text": "Okay. So it is something like... let's say for instance..."
+    },
+    { "id": 36, "speaker": "Homeowner", "text": "Oh, is that... Yes." },
     {
       "id": 37,
       "speaker": "Technician",
-      "text": "比如炉灶在逐步淘汰，我们也在逐步淘汰燃气热水器，还有……燃气炉也在逐步淘汰。你了解加州对每个家庭的目标是什么吗？"
+      "text": "Like we have stovetops being phased out. We do have gas water heaters being phased out. We have uh... gas furnaces being phased out. Are you familiar with what California's goal is in every home?"
     },
-    { "id": 38, "speaker": "Homeowner", "text": "对对，有些了解。对。" },
+    {
+      "id": 38,
+      "speaker": "Homeowner",
+      "text": "Yeah, yeah. Some of that. Yeah."
+    },
     {
       "id": 39,
       "speaker": "Technician",
-      "text": "这想法挺好，就是有点……挺多的。嗯，他们希望每家都有 200 安培的配电箱；希望每家都有电池备份发电/备用电源；希望每家都有太阳能；还希望每家都有热泵。"
+      "text": "It's a really... I like the idea, it's just kind of a lot. Um, they want every house to have a 200 amp panel. They want every house to have a battery backup generator. They want every house to have solar. Uh, and they want every house to have a heat pump."
     },
-    { "id": 40, "speaker": "Homeowner", "text": "嗯哼。嗯哼。" },
+    { "id": 40, "speaker": "Homeowner", "text": "Mm-hm. Mm-hm." },
     {
       "id": 41,
       "speaker": "Technician",
-      "text": "所以热泵就是下一个选项。嗯……热泵最近又新增了一些补贴。所以尽管它们是最好的安装系统……奇怪的是，现在反而变得挺可负担的。嗯……我以前习惯它们是最贵的选项，但新补贴让它合理了很多。"
+      "text": "And so heat pumps are the next option. Um... Heat pumps are actually just got introduced some more rebates. So, even though those are the best possible system to install... weirdly enough, those actually are getting quite affordable at the moment. Um... I'm used to them being actually our most expensive option, but rebates have been introduced that have made it a lot more reasonable."
     },
-    { "id": 42, "speaker": "Homeowner", "text": "好，有意思。对。" },
+    { "id": 42, "speaker": "Homeowner", "text": "Okay. Interesting. Yeah." },
     {
       "id": 43,
       "speaker": "Technician",
-      "text": "然后……嗯……关于两种不同的供暖选项，我这边给你做了两种不同类型的热泵方案。"
+      "text": "And then... um... when it comes to the uh... the two different uh... heating options, I just have two different types of heat pumps that I'm uh... building for you."
     },
     {
       "id": 44,
       "speaker": "Homeowner",
-      "text": "好。所以就是同类同规格更换，更高效率，但还是同样技术；然后两个热泵。"
+      "text": "Okay. So like-for-like. Higher efficiency. Still... still same technology. And then two heat pumps."
     },
     {
       "id": 45,
       "speaker": "Technician",
-      "text": "完全正确。所以先说一下……嗯……这些投入一般都比你平时对房子的普通投入要大，所以……我想让你知道，我们很多客户会用不同的按月方案来处理。但我们先把内容拆开讲。先从同类同规格更换开始。"
+      "text": "Exactly. And so to start off with... um... I uh... it's always important to realize... these are more expensive than uh... than investments than your normal investment into a home, so... I just wanted you to understand that a lot of our clients do use different monthly options to take care of them. But let's just break down what we do. So let's start off with the like-for-like."
     },
-    { "id": 46, "speaker": "Homeowner", "text": "嗯哼。" },
+    { "id": 46, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 47,
       "speaker": "Technician",
-      "text": "我们都会带着我们的质保承诺。我们有一些非常非常棒的保障，能让你看到我们会把活干好。嗯……然后我们从第一项费用开始。呃，这是最新的 Nest 恒温器。"
+      "text": "We always come with our guarantees. We have some really, really excellent guarantees that really just show you that we're gonna do a great job for you. Um... We then start off with our first cost. Uh, this is a newest Nest thermostat."
     },
-    { "id": 48, "speaker": "Homeowner", "text": "嗯哼。" },
+    { "id": 48, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 49,
       "speaker": "Technician",
-      "text": "这个也可以换。我只是想简化一下，放一个你们用得习惯的。"
+      "text": "We can switch this up. I just wanted to just simplify it, put something in that you guys are used to."
     },
-    { "id": 50, "speaker": "Homeowner", "text": "对。" },
+    { "id": 50, "speaker": "Homeowner", "text": "Yep." },
     {
       "id": 51,
       "speaker": "Technician",
-      "text": "它会是最现代的版本。然后在最后做更换时，我们会把这笔钱返还抵扣。所以这 $549 会返还给你用于抵扣。接着我们讲步骤……比如我们需要做什么：拆除空调、搬运清走并处理，拆除加热设备。"
+      "text": "It will be just the most modern version. And then we credit this back towards replacement at the very end. So this $549 will be credited back towards you. Then we talk about like steps... like what we need to do. AC removal, haul away and disposal, heater and removal."
     },
-    { "id": 52, "speaker": "Homeowner", "text": "嗯。" },
+    { "id": 52, "speaker": "Homeowner", "text": "Mm." },
     {
       "id": 53,
       "speaker": "Technician",
-      "text": "这一段挺长的。呃，通常大概一天……这么多工作量。嗯……我们会拆除、安全拆解并处置你的燃气炉；然后……安全回收制冷剂。"
+      "text": "This is a really lengthy section. Uh, this is like typically roughly one day... uh, this amount of work. Um... We de... uh... remove, safely demolish and dispose of your furnace. Uh... remove... safely remove the refrigerant."
     },
-    { "id": 54, "speaker": "Homeowner", "text": "嗯哼。" },
+    { "id": 54, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 55,
       "speaker": "Technician",
-      "text": "拆解并处置你的空调室外机/系统。"
+      "text": "Demolish and dispose of your AC."
     },
-    { "id": 56, "speaker": "Homeowner", "text": "嗯哼。嗯哼。" },
+    { "id": 56, "speaker": "Homeowner", "text": "Mm-hm. Mm-hm." },
     {
       "id": 57,
       "speaker": "Technician",
-      "text": "嗯……这一段我觉得确实挺长的。"
+      "text": "Um... and that's like... I think like a pretty lengthy section."
     },
-    { "id": 58, "speaker": "Homeowner", "text": "明白了。" },
+    { "id": 58, "speaker": "Homeowner", "text": "Got it." },
     {
       "id": 59,
       "speaker": "Technician",
-      "text": "下一项可能会出现也可能不会，但我把它作为一条列出来。以防它变得相关。"
+      "text": "This next one may or may not come up, but I am including it as a line item. Just in case it becomes relevant."
     },
-    { "id": 60, "speaker": "Homeowner", "text": "好。" },
+    { "id": 60, "speaker": "Homeowner", "text": "Okay." },
     {
       "id": 61,
       "speaker": "Technician",
-      "text": "嗯，有时候如果有水损……我会看到一些地方的胶合板腐烂。呃……那里可能会有霉菌生长之类的。如果我们看到这种情况，就把那块胶合板切掉换新的给你。"
+      "text": "Um, sometimes when we have water damage... um... I do see decayed plywood in sections. Uh... where there could be like mold growth or anything like that. If we're seeing anything like that, we just cut that plywood out and put new plywood in for you."
     },
-    { "id": 62, "speaker": "Homeowner", "text": "好。" },
-    { "id": 63, "speaker": "Technician", "text": "这是在室内。" },
-    { "id": 64, "speaker": "Homeowner", "text": "哦，对对。对。" },
+    { "id": 62, "speaker": "Homeowner", "text": "Okay." },
+    { "id": 63, "speaker": "Technician", "text": "That's in the inside." },
+    { "id": 64, "speaker": "Homeowner", "text": "Oh, yeah, yeah. Yeah." },
     {
       "id": 65,
       "speaker": "Technician",
-      "text": "嗯……接下来，新系统的尺寸不会和现在一模一样。可能会稍微小一点或宽一点、高一点之类。我们得确保风管的钣金连接能适配。需要的话我们会做相应的钣金加工。"
+      "text": "Um... Next... the new system is not going to be the same dimensions. It's going to be um... a little bit smaller or a little bit wider, a little bit taller, something around there. And we do have to make sure the sheet metal connections fit to it. We do any sheet metal necessary."
     },
-    { "id": 66, "speaker": "Homeowner", "text": "当然。" },
+    { "id": 66, "speaker": "Homeowner", "text": "Of course." },
     {
       "id": 67,
       "speaker": "Technician",
-      "text": "室外有个熔断盒/断开开关盒。我会把它拆下来安全地处理，然后给你换一个新的。"
+      "text": "Outside we have a fuse box. It's where I remove it and work on it safely. We just put a new one in for you."
     },
-    { "id": 68, "speaker": "Homeowner", "text": "嗯哼。" },
+    { "id": 68, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 69,
       "speaker": "Technician",
-      "text": "所有新的电气部分。里面会有一些新的电气。现在里面有个小的开关叫安全断开，我们都会给你换新的。嗯……任何新的恒温器线或连接……任何新的电缆软管（electrical whip），我们都会安装。"
+      "text": "All the new electrical. There will be some new electrical in there. Currently there's a little on-off switch in there called the safety shut-off. We always come with a new one. Um... any new thermostat wiring or connections... uh... any new electrical whips, we install that for you."
     },
-    { "id": 70, "speaker": "Homeowner", "text": "明白了。" },
+    { "id": 70, "speaker": "Homeowner", "text": "Got it." },
     {
       "id": 71,
       "speaker": "Technician",
-      "text": "嗯……还有断路器。嗯……在空调这块，我们更倾向用全新的断路器，所以把它直接包含进来。嗯……恒温器线、通讯线。这表示如果需要重新走一根恒温器线，我们也一定会做。"
+      "text": "Um... we have circuit breakers. Um... on the AC we just prefer to have a brand new circuit breaker, so we just include that with it. Um... thermostat wire, communication wire. This just means if there is a need to re-run a thermostat wire, we absolutely would."
     },
-    { "id": 72, "speaker": "Homeowner", "text": "嗯哼。" },
+    { "id": 72, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 73,
       "speaker": "Technician",
-      "text": "然后……HVAC 许可（permit）。我们都会去办理许可。"
+      "text": "And then... HVAC permit. We always pull permits."
     },
-    { "id": 74, "speaker": "Homeowner", "text": "嗯。" },
+    { "id": 74, "speaker": "Homeowner", "text": "Mm." },
+
     {
       "id": 75,
       "speaker": "Technician",
-      "text": "嗯……许可这块有个……注意事项……通常我们也喜欢做一个 HERS 测试。你听过吗？"
+      "text": "Um... There is a uh... caveat for permit... um... replac... pulling. Usually we like to do a HERS test as well. Have you heard that before?"
     },
     {
       "id": 76,
       "speaker": "Homeowner",
-      "text": "嗯……没有。我不知道 HERS 测试是什么。"
+      "text": "Mm... No. I don't know what HERS test is."
     },
-    { "id": 77, "speaker": "Technician", "text": "它是个……算是一种效率……" },
+    {
+      "id": 77,
+      "speaker": "Technician",
+      "text": "It's a... is it like an efficiency..."
+    },
+
     {
       "id": 78,
       "speaker": "Technician",
-      "text": "这是一个家庭能效测试。嗯……而且我……我知道就目前情况，你家通不过 HERS 测试。"
+      "text": "It's a home efficiency test. Um... And I... I do know right now your home would not pass a HERS test."
     },
-    { "id": 79, "speaker": "Homeowner", "text": "可能通不过。" },
+    { "id": 79, "speaker": "Homeowner", "text": "Probably won't." },
     {
       "id": 80,
       "speaker": "Technician",
-      "text": "呃……因为风管状况……嗯……还有你的一部分保温层也有点问题。"
+      "text": "Uh... because of the condition of the ducting... um... and a little bit of your insulation too."
     },
-    { "id": 81, "speaker": "Homeowner", "text": "嗯哼。" },
+    { "id": 81, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 82,
       "speaker": "Technician",
-      "text": "嗯……所以我们很喜欢做 HERS 测试。但为了让我们有把握能做，我们需要在你的风管上做一点工作……嗯……或者考虑改造一下。"
+      "text": "Um... so we love to do HERS tests. But in order for us to feel confident in doing that, we would need to do a little bit with your ducting... um... or consider modifying it."
     },
-    { "id": 83, "speaker": "Homeowner", "text": "嗯哼。" },
+    { "id": 83, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 84,
       "speaker": "Technician",
-      "text": "嗯……具体会是什么样：我们现在正好有个活动，就是给你的风管做_密封_。也就是不更换，只是把每一个连接处都仔细密封好。嗯……如果做了这个，我们就可以把 HERS 测试也包含进去。"
+      "text": "Um... what that would look like is something we do have a promotion going on currently... is _sealing_ your ductwork. Which just means no replacement, but we go to every single connection and seal it thoroughly. Um... and then we can include a HERS test if we do that."
     },
-    { "id": 85, "speaker": "Homeowner", "text": "好。" },
+    { "id": 85, "speaker": "Homeowner", "text": "Okay." },
     {
       "id": 86,
       "speaker": "Technician",
-      "text": "嗯……接下来……这是折扣前的总价。嗯……我已经给你加了不少折扣。这还是同类同规格更换方案。"
+      "text": "Um... Next... um... this is the total cost before any discounts. Um... I do have a fair amount of discounts that I've included. This is again the like-for-like option."
     },
-    { "id": 87, "speaker": "Homeowner", "text": "嗯哼。" },
+    { "id": 87, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 88,
       "speaker": "Technician",
-      "text": "然后解释一下包含什么……我之前提过 410A……那种制冷剂已经逐步淘汰了。我们现在用最新的 R-32。这基本就是新的制冷剂标准，被认为更环保，对臭氧层的危害小很多。总体来说，制冷大概省 35%，供暖省 30%。"
+      "text": "And just to explain what it comes with... I explained our 410A... that refrigerant got phased out. We have the newest style here, R-32. This is basically just the new standard for refrigerant. It is considered to be better for the environment. Um... it's just much less harmful to ozone layers. Uh... In general, 35% cooling savings, 30% heating savings."
     },
-    { "id": 89, "speaker": "Homeowner", "text": "嗯哼。" },
+    { "id": 89, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 90,
       "speaker": "Technician",
-      "text": "嗯……它还是类似的技术路线。SEER 值提高了。你现在是 12 SEER，我们装的是 15。"
+      "text": "Um... It is going to be the same similar type of technology. The SEER rating is up. You currently have a 12 SEER. Uh... we install a 15."
     },
-    { "id": 91, "speaker": "Homeowner", "text": "嗯哼。" },
+    { "id": 91, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 92,
       "speaker": "Technician",
-      "text": "然后我们会给你配标准过滤系统，作为基础配置。嗯……电机也升级了。也就是系统内部的风机电机升级了，更可靠也更安静。基本就是这些。"
+      "text": "And then we always include standard filtration for you, as basic. Um... the motor is an improvement. So the fan motor inside of the system is an improvement. Way more reliable and way quieter. That's basically what this comes with."
     },
-    { "id": 93, "speaker": "Homeowner", "text": "嗯哼。嗯哼。" },
+    { "id": 93, "speaker": "Homeowner", "text": "Mm-hm. Mm-hm." },
     {
       "id": 94,
       "speaker": "Technician",
-      "text": "然后一个很棒的点是：厂家 10 年保修，压缩机 10 年保修。嗯……如果你参加我们的维护计划，我们实际上会完全匹配厂家的保修。"
+      "text": "Now... a really cool thing... 10-year manufacturer warranty, 10-year compressor warranties. Um... If you're on this maintenance program with us, we actually completely match the manufacturer warranties."
     },
-    { "id": 95, "speaker": "Homeowner", "text": "明白。" },
+    { "id": 95, "speaker": "Homeowner", "text": "Got it." },
     {
       "id": 96,
       "speaker": "Technician",
-      "text": "也就是十年配件、十年厂家保修。嗯……然后……我们直接到第一个热泵方案。条目非常相似，这次我就不逐条讲了。"
+      "text": "It's essentially ten years parts and ten year manufacturer warranty. Um... And then... moving on, we'll just get to the first heat pump. Really very similar line items. I'm not going to go through every single one this time."
     },
-    { "id": 97, "speaker": "Homeowner", "text": "嗯哼。" },
+    { "id": 97, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 98,
       "speaker": "Technician",
-      "text": "但我想在这里停一下。这个热泵用到的技术叫“变频（Inverter）”。你听说过变频吗？"
+      "text": "I wanted to pause at this one though. The technology we're talking about with this heat pump... is called an Inverter. Have you ever heard of an inverter before?"
     },
-    { "id": 99, "speaker": "Homeowner", "text": "听过，听过。" },
+    { "id": 99, "speaker": "Homeowner", "text": "I have. Yes." },
     {
       "id": 100,
       "speaker": "Technician",
-      "text": "对。其实你知道吗？我看到了你的 mini-split（分体机）。它在技术上有点像，但这是风管式的。也就是无风管的冷暖系统；而这个方案是在有风管的意义上用同样的变频技术，它会升频、降频……"
+      "text": "Yeah. Actually, you know what? I saw your mini-split. Um... it... it actually mimics that technology but in a ducted sense. So that's a ductless heating and cooling system. This one we have that same type of inverter technology where it ramps up and ramps down..."
     },
-    { "id": 101, "speaker": "Homeowner", "text": "对。" },
+    { "id": 101, "speaker": "Homeowner", "text": "That's right." },
     {
       "id": 102,
       "speaker": "Technician",
-      "text": "……只不过是接到风管系统上。"
+      "text": "...except for just attaching it to the ductwork."
     },
-    { "id": 103, "speaker": "Homeowner", "text": "明白。" },
+    { "id": 103, "speaker": "Homeowner", "text": "Got it." },
     {
       "id": 104,
       "speaker": "Technician",
-      "text": "主要差别在于：它的制热和制冷方式会有点不同。总体而言都会提升。嗯……制冷会显著更好。通常我们说水电气账单能省大概 60%。"
+      "text": "The main difference here, just important to... to realize, that it's going to heat and cool a little bit differently. In general, everything's going to be an improvement. Um... Cooling will be significantly better. Usually we're talking like 60% utility bill savings."
     },
-    { "id": 105, "speaker": "Homeowner", "text": "对，对。" },
+    { "id": 105, "speaker": "Homeowner", "text": "That's right. Yeah." },
     {
       "id": 106,
       "speaker": "Technician",
-      "text": "至于制热这边，需要注意一点：通常它不像老式燃气炉那样“猛”。老燃气炉有火焰，所以吹出来的温度会很猛。这些（热泵）加热没那么极端，但完全足以供暖。"
+      "text": "The... thing about heating side... is just important to note... Usually they don't like... absolutely kill it the same way old furnaces do. Um... Old furnaces have flames so obviously we're going to get really intense temperature coming out. These do heat a little bit less extreme, but still are totally capable of heating."
     },
     {
       "id": 107,
       "speaker": "Technician",
-      "text": "我对热泵很熟。你也了解这些。好，太好了。"
+      "text": "I'm familiar with the heat pump. You know about these. Okay. Perfect."
     },
     {
       "id": 108,
       "speaker": "Technician",
-      "text": "其他都一样：拆除空调、清运处置、拆除加热设备、胶合板、断路器、恒温器、许可。嗯……然后这是折扣或补贴前的价格。"
+      "text": "Everything else is the same. AC removal, haul away and disposal, heater removal, plywood, circuit breaker, thermostat, permit. Um... and there's the price... um... before any discounts or rebates."
     },
-    { "id": 109, "speaker": "Homeowner", "text": "嗯哼。" },
+    { "id": 109, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 110,
       "speaker": "Technician",
-      "text": "嗯……然后是折扣和补贴。我意识到我没把这些放到之前那个方案里。但首先，这个在你另一个报价里也有：因为可以复用铜管线组，所以减 $1800。"
+      "text": "Um... We then have... um... our discounts and rebates, which I realize I didn't include on the old... on the other option here. But starting off, this... this existed on your other estimate too. Is $1800 off because we're able to re-use the copper line set."
     },
-    { "id": 111, "speaker": "Homeowner", "text": "嗯哼。" },
+    { "id": 111, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 112,
       "speaker": "Technician",
-      "text": "嗯……它对时间和腐蚀都很耐受。如果我们安装团队判断你现在的 HVAC 漏点就在铜管线上，我们也会照样处理。"
+      "text": "Um... very resilient to time and corrosion. If my install crew does determine that your HVAC leak that you have right now is in your copper line, we just still take care of it."
     },
-    { "id": 113, "speaker": "Homeowner", "text": "嗯哼。" },
+    { "id": 113, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 114,
       "speaker": "Technician",
-      "text": "嗯……即便有这项节省。接下来还有恒温器费用返还抵扣。然后这里就是一些补贴。"
+      "text": "Um... But even with this savings in place. Uh... Next we have the thermostat credit back towards you. And this is where we have some rebates."
     },
-    { "id": 115, "speaker": "Homeowner", "text": "嗯。" },
+    { "id": 115, "speaker": "Homeowner", "text": "Mm." },
     {
       "id": 116,
       "speaker": "Technician",
-      "text": "所以……Silicon Valley Clean Energy。我想确认一下，你有没有退出这个项目？你得手动退出才行。"
+      "text": "So... Silicon Valley Clean Energy. I did just want to confirm, did you opt out of this program? You would have to manually opt out of it."
     },
-    { "id": 117, "speaker": "Homeowner", "text": "对，我没退出。" },
+    { "id": 117, "speaker": "Homeowner", "text": "Yeah, I didn't opt out." },
     {
       "id": 118,
       "speaker": "Technician",
-      "text": "好，那你就没问题。Silicon Valley Clean Energy 对热泵升级可以减 $2500。接下来是 TECH……这个项目好像昨天才刚重新上线。"
+      "text": "Okay. So you're good. So Silicon Valley Clean Energy is a $2500 off towards heat pump updates. Next we have TECH... which is one that just barely got re-introduced like yesterday."
     },
-    { "id": 119, "speaker": "Homeowner", "text": "嗯。" },
-    { "id": 120, "speaker": "Technician", "text": "所以这太棒了。" },
-    { "id": 121, "speaker": "Homeowner", "text": "太棒了。" },
+    { "id": 119, "speaker": "Homeowner", "text": "Mm." },
+    { "id": 120, "speaker": "Technician", "text": "So that's fantastic." },
+    { "id": 121, "speaker": "Homeowner", "text": "That's fantastic." },
     {
       "id": 122,
       "speaker": "Technician",
-      "text": "然后这里再减 $1500。这个是因为我们同时拆除燃气炉和空调，所以你符合更高档的那档补贴。我们会处理我们需要处理的部分。也有一些你需要自己去做的事。SVCE 这边唯一需要你做的是：你需要提交一份完整的 PG&E 账单，所有内容、每一页都要。"
+      "text": "And, $1500 off here. Uh... what this is, is the fact that we're removing both a furnace and AC, qualifies you for this higher end uh... one. So we handle what we need to handle. There are things that you need to physically go in and do. The only one for uh... the SVCE... is you do... and we'll... this will be in a contract that you can just click on easily... You do need to submit a full PG&E bill. Like the every bit, every page of a PG&E bill."
     },
-    { "id": 123, "speaker": "Homeowner", "text": "嗯哼。" },
+    { "id": 123, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 124,
       "speaker": "Technician",
-      "text": "嗯……剩下的我们来做。嗯……他们需要我们提供的是：我们安装了一个变频系统的证明，以及厂家铭牌标签。所以这些我们都负责。"
+      "text": "Um... and then we do the rest. Um... We... what they need from us is proof that we've installed a... a inverter system... and the manufacturer label. So we take care of that."
     },
-    { "id": 125, "speaker": "Homeowner", "text": "明白。" },
+    { "id": 125, "speaker": "Homeowner", "text": "Got it." },
     {
       "id": 126,
       "speaker": "Technician",
-      "text": "至于 TECH……我看看。对，我觉得这个我们也基本能帮你搞定。然后……哦，你知道吗？这个确实需要做 HERS 测试。"
+      "text": "For TECH... let's see. Yeah, I think we just take care of this one for you. So... Oh, you know what? This one does require a HERS test to be done."
     },
-    { "id": 127, "speaker": "Homeowner", "text": "嗯。" },
+    { "id": 127, "speaker": "Homeowner", "text": "Mm." },
     {
       "id": 128,
       "speaker": "Technician",
-      "text": "所以……在这个区域……我很想把我们的一个活动也给你加进去，就是风管密封。嗯……这个我肯定能做。所以只要那个能通过 HERS 测试，我觉得你就都没问题了。"
+      "text": "So... for... for this area... I would love to include one of our promotions for you. Which is where we just include a duct seal. Um... And uh... that would be something I can definitely do. So if that passes a HERS test, I think you're all good."
     },
+
     {
       "id": 129,
       "speaker": "Homeowner",
-      "text": "[听不清]……在市里……记录清白……"
+      "text": "[Inaudible] ...clear record... with the city..."
     },
     {
       "id": 130,
       "speaker": "Technician",
-      "text": "对。只要你没有失败的许可记录……嗯……那就应该能通过。"
+      "text": "Yeah. As long as you have no failed permits... um... then it should pass."
     },
-    { "id": 131, "speaker": "Homeowner", "text": "失败的许可是指？" },
+    { "id": 131, "speaker": "Homeowner", "text": "Failed permits meaning?" },
     {
       "id": 132,
       "speaker": "Technician",
-      "text": "比如你之前申请许可但是没成功或没通过……没通过验收。"
+      "text": "Like you tried to pull a permit and it didn't work or pass... didn't pass inspection."
     },
     {
       "id": 133,
       "speaker": "Homeowner",
-      "text": "明白，明白。是指……这栋房子？还是……对。没问题。"
+      "text": "I see. I see. For... for this house? Or... yeah. No, no problem."
     },
     {
       "id": 134,
       "speaker": "Technician",
-      "text": "好。看起来你符合这个。嗯……下一个选项会到……"
+      "text": "Okay. So looks like you would qualify for this. Um... The next option will go to..."
     },
+
     {
       "id": 135,
       "speaker": "Homeowner",
-      "text": "哦，那个是什么选项？哦，总价？"
+      "text": "Oh, what was that option? Oh, total price?"
     },
     {
       "id": 136,
       "speaker": "Homeowner",
-      "text": "不不，你刚给我看的那个选项是什么？热泵？"
+      "text": "No, no, what was that option that you just showed me? A heat pump?"
     },
     {
       "id": 137,
       "speaker": "Technician",
-      "text": "对。所以你会看到挺搞笑的，它的价格跟燃气那套差不多……"
+      "text": "Yep. So you can actually see what's kind of funny is it's relatively around the same price as... as a gas."
     },
-    { "id": 138, "speaker": "Homeowner", "text": "而且奇怪的是还更便宜一点。" },
+    {
+      "id": 138,
+      "speaker": "Homeowner",
+      "text": "And actually a little bit less expensive weirdly."
+    },
     {
       "id": 139,
       "speaker": "Technician",
-      "text": "对。还有个很酷的点：我刚刚还跟 Alex 聊了下，我真的很惊喜……我……我给你做的是我们最好的热泵方案。嗯……这是我们自有品牌的机组，是 Daikin。嗯……我们很喜欢跟 Daikin 合作，因为他们也很认可我们。"
+      "text": "Yeah. And what's really cool, I was actually talking to Alex, that I was really impressed... I... I just built your best possible heat pump. Um... This is like our branded unit, it's a Daikin. Um... Daikin we love to work with because they really like us."
     },
-    { "id": 140, "speaker": "Homeowner", "text": "嗯哼。" },
+    { "id": 140, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 141,
       "speaker": "Technician",
-      "text": "嗯……如果你在 Google 上搜 Daikin 产品，然后看一些安装视频……你甚至会看到我公司在安装它们，因为我们负责全球范围内的 Daikin 安装培训。所以我们跟他们合作关系很好，所以也更愿意装它们。不过……有意思的是，Bryant 在某种技术上确实占优势。热泵有时会进入除霜循环，也就是它会短暂停止供暖，让自己运行来把自己加热回去。"
+      "text": "Um... if you ever look up Daikin products on Google and you like look up like install videos... you'll actually see my company installing them because we do the worldwide training for how to install Daikin. So we just have a great partnership with them. So we like to install them. But... what's interesting is Bryant does have a corner on... um... a type of technology. Heat pumps on occasion enter a defrost cycle. Which is where it... it briefly stops heating and it just runs itself alone to heat itself back up."
     },
-    { "id": 142, "speaker": "Homeowner", "text": "嗯哼。" },
+    { "id": 142, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 143,
       "speaker": "Technician",
-      "text": "而这些（机型）通常不太会进入那个模式。"
+      "text": "These are known to not really enter that."
     },
-    { "id": 144, "speaker": "Homeowner", "text": "嗯。哪些？" },
-    { "id": 145, "speaker": "Technician", "text": "Bryant 的。" },
-    { "id": 146, "speaker": "Homeowner", "text": "Bryant 的。" },
+    { "id": 144, "speaker": "Homeowner", "text": "Mm. Which ones?" },
+    { "id": 145, "speaker": "Technician", "text": "The Bryants." },
+    { "id": 146, "speaker": "Homeowner", "text": "The Bryants." },
     {
       "id": 147,
       "speaker": "Technician",
-      "text": "嗯……主要是因为它们盘管的结构。他们用了更好的……嗯……金属材料衍生配方，更擅长散热并保持自身温度。"
+      "text": "Um... and it's just because of the way their coils are built. They have a just a better type of... uh metal derivative in it that is better at dissipating its own heat and keeping itself warm."
     },
-    { "id": 148, "speaker": "Homeowner", "text": "嗯。" },
+    { "id": 148, "speaker": "Homeowner", "text": "Mm." },
     {
       "id": 149,
       "speaker": "Technician",
-      "text": "这些机型唯一会进入除霜——而在加州我们基本不会遇到——是当温度到华氏 18 度时。所以几乎不会发生。"
+      "text": "The only time these ever enter defrost, which we won't ever get to here in California, is when they enter 18 degrees Fahrenheit. So it just won't happen."
     },
-    { "id": 150, "speaker": "Homeowner", "text": "嗯哼。" },
+    { "id": 150, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 151,
       "speaker": "Technician",
-      "text": "嗯……而且挺搞笑的，如果我们看那种超高端燃气炉，价格就会一路往上飙。我就……"
+      "text": "Um... And it's just really funny. If we look at like the really high end furnace, it's just like we really climb the costs. And I just..."
     },
-    { "id": 152, "speaker": "Homeowner", "text": "我看得出来。" },
-    { "id": 153, "speaker": "Technician", "text": "差距很大。" },
+    { "id": 152, "speaker": "Homeowner", "text": "I can see that." },
+    { "id": 153, "speaker": "Technician", "text": "It's substantial." },
     {
       "id": 154,
       "speaker": "Homeowner",
-      "text": "这些选项都不包括把机组搬到上面吗？"
+      "text": "None of these options is moving the unit to the top?"
     },
     {
       "id": 155,
       "speaker": "Technician",
-      "text": "不，我现在还没把那个做进来。嗯……我们确实有阁楼安装套餐。但我得修改这些报价才能包含它。我之所以从现在这样开始，是想让你先了解如果继续放在这个柜子里，会是什么样。"
+      "text": "No, currently I haven't built that. Um... It... We do have an attic package. I would actually have to modify these estimates to do that. The reason I'm starting like this, I just wanted you to understand what it would look like to keep it in the closet."
     },
-    { "id": 156, "speaker": "Homeowner", "text": "好的。" },
+    { "id": 156, "speaker": "Homeowner", "text": "Sure." },
     {
       "id": 157,
       "speaker": "Technician",
-      "text": "嗯……所以如果继续放在柜子里，我们也完全可以搬到阁楼，完全没问题。我想确保客户理解的是：可维护性、保养，以及……嗯……效率……那个位置（柜子/现位置）其实是最好的。"
+      "text": "Um... So when it comes to keeping it in the closet, we are completely fine moving it to your attic. We're completely fine. The thing I like to make sure my clients understand is serviceability, maintenance, and... um... efficiency... that is the best location."
     },
-    { "id": 158, "speaker": "Homeowner", "text": "对，因为上面太热了。" },
-    { "id": 159, "speaker": "Technician", "text": "没错。" },
-    { "id": 160, "speaker": "Homeowner", "text": "那搬到车库呢？" },
-    { "id": 161, "speaker": "Technician", "text": "那会难很多。" },
-    { "id": 162, "speaker": "Homeowner", "text": "更难？" },
-    { "id": 163, "speaker": "Technician", "text": "更难。因为……" },
-    { "id": 164, "speaker": "Homeowner", "text": "要多做很多活。" },
+    {
+      "id": 158,
+      "speaker": "Homeowner",
+      "text": "Yeah, because it's too hot up there."
+    },
+    { "id": 159, "speaker": "Technician", "text": "Precisely." },
+    {
+      "id": 160,
+      "speaker": "Homeowner",
+      "text": "What about moving it to the garage?"
+    },
+    { "id": 161, "speaker": "Technician", "text": "That would be way harder." },
+    { "id": 162, "speaker": "Homeowner", "text": "Harder?" },
+    {
+      "id": 163,
+      "speaker": "Technician",
+      "text": "Harder. Because of that..."
+    },
+    { "id": 164, "speaker": "Homeowner", "text": "So much more work." },
     {
       "id": 165,
       "speaker": "Technician",
-      "text": "我们会被迫把你的风管系统整个更换。"
+      "text": "We would actually be forced to replace your ductwork entirely."
     },
-    { "id": 166, "speaker": "Homeowner", "text": "啊，好。" },
+    { "id": 166, "speaker": "Homeowner", "text": "Ah, okay." },
     {
       "id": 167,
       "speaker": "Technician",
-      "text": "然后……嗯……不过搬到阁楼的好处是，你能得到一个完整的柜子空间。嗯……总体来说，就进入房子的气流而言，那是个挺不错的位置。"
+      "text": "And... um... with this, the benefit of moving it up to the attic though, is you do get a full closet. Um... in general it... it is a pretty... in regards to airflow that enters the home, it's a pretty nice spot."
     },
-    { "id": 168, "speaker": "Homeowner", "text": "嗯哼。" },
+    { "id": 168, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 169,
       "speaker": "Technician",
-      "text": "只是我们确实需要做一些改造，所以我解释一下阁楼安装。"
+      "text": "It's just we do have to do some modifications so just to explain an attic install."
     },
-    { "id": 170, "speaker": "Homeowner", "text": "嗯哼。" },
+    { "id": 170, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 171,
       "speaker": "Technician",
-      "text": "那个回风口（intake）……就不会再用了。"
+      "text": "That intake... would no longer be used."
     },
-    { "id": 172, "speaker": "Homeowner", "text": "对。" },
+    { "id": 172, "speaker": "Homeowner", "text": "That's right." },
     {
       "id": 173,
       "speaker": "Technician",
-      "text": "嗯……我们可能会在靠近房子中心的位置加一个。"
+      "text": "Um... we would add one probably close to the center of the house."
     },
-    { "id": 174, "speaker": "Homeowner", "text": "啊，好。" },
+    { "id": 174, "speaker": "Homeowner", "text": "Ah, okay." },
     {
       "id": 175,
       "speaker": "Technician",
-      "text": "然后我们的系统非常安静，但确实就是现在这里会有气流。"
+      "text": "And our... our systems are very quiet, but it is just something that we will have airflow here now."
     },
-    { "id": 176, "speaker": "Homeowner", "text": "好的。" },
+    { "id": 176, "speaker": "Homeowner", "text": "Sure." },
     {
       "id": 177,
       "speaker": "Technician",
-      "text": "嗯……然后我们还得走一些新的电气。如果不需要新的燃气管线，那很好。嗯……但我们还是要安装……"
+      "text": "Um... and then we do have to run some new electrical. If we're not doing a new gas line, that's great. Um... but we do have to install..."
     },
-    { "id": 178, "speaker": "Homeowner", "text": "[听不清]" },
+    { "id": 178, "speaker": "Homeowner", "text": "[Inaudible]" },
     {
       "id": 179,
       "speaker": "Technician",
-      "text": "……在这里安装回风口。然后……呃……对。就设备本身“喜欢”的位置而言，柜子里的位置是最好的。但归根结底，系统是为你服务的。所以如果要搬到阁楼，也完全没问题。我……我一时想不起来它会给项目增加多少钱。这个取决于所需风管改动的严重程度……我觉得至少会加 $4000。嗯……但最高端的情况可能需要新风管……那就会再加不少。所以。"
+      "text": "...install the intake here. And... uh... Yeah. Closet systems in regards to what the system itself likes, is the best location. But at the end of the day, systems are built for you. So if we're moving it to the attic, completely fine. I... I kind of forget off the top of my head how much it adds to the project. It... It is depending on the severity of... of necessary ducting... I think it adds at least $4000 to it. Um... but on the highest end, it would involve new ductwork. Um... and then we add a fair amount to it. So."
     },
     {
       "id": 180,
       "speaker": "Homeowner",
-      "text": "好，好。对，我们不喜欢那个的地方……倒不是柜体，而是噪音。所以如果……"
+      "text": "Okay. Okay. Yeah, what we don't like about that... is not so much the... the cabinet, is the noise. So if..."
     },
     {
       "id": 181,
       "speaker": "Technician",
-      "text": "哦，我们装的任何机型都会安静得多。"
+      "text": "Oh, it's way quieter, any of our units that we install."
     },
     {
       "id": 182,
       "speaker": "Homeowner",
-      "text": "是吗？那……那……那噪音如果搬走会更好吗？"
+      "text": "Yeah? That... that... that noise would like be better if we move it?"
     },
-    { "id": 183, "speaker": "Technician", "text": "肯定会。肯定会。" },
-    { "id": 184, "speaker": "Homeowner", "text": "是吗？" },
+    { "id": 183, "speaker": "Technician", "text": "Definitely. Definitely." },
+    { "id": 184, "speaker": "Homeowner", "text": "Yeah?" },
     {
       "id": 185,
       "speaker": "Technician",
-      "text": "而且我还能用一个额外方式把噪音再优化一些：把这个格栅（grill）换掉。"
+      "text": "And what I can even do as an extra way to make that noise even better... is if we swap the grill."
     },
-    { "id": 186, "speaker": "Homeowner", "text": "嗯哼。" },
+    { "id": 186, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 187,
       "speaker": "Technician",
-      "text": "现在这个格栅是百叶片（louvers），对吧？所以气流被吸进去时会这样（手势）……这会自然产生噪音。"
+      "text": "So the grill right now has louvers, right? So when airflow gets pulled in and it does this [Makes hand motion], that naturally creates noise."
     },
-    { "id": 188, "speaker": "Homeowner", "text": "噪音，对。" },
+    { "id": 188, "speaker": "Homeowner", "text": "Noise. Yeah." },
     {
       "id": 189,
       "speaker": "Technician",
-      "text": "我们可以装一种“蛋格（egg crate）”版本，就是方格而不是百叶。这样对气流更好，而且会更……"
+      "text": "We can install an egg crate version that has just squares instead. And it's much much..."
     },
-    { "id": 190, "speaker": "Homeowner", "text": "不会吧。" },
+    { "id": 190, "speaker": "Homeowner", "text": "No way." },
     {
       "id": 191,
       "speaker": "Technician",
-      "text": "对气流好很多。而且这样会安静很多。我以前做过一次测试：不做任何改动，只换格栅……噪音降低了 20%。"
+      "text": "Much much better for airflow. And when that happens it makes it a lot quieter too. I did do a test one time on no changes other than the... the grill... and it did decrease noise by 20%."
     },
-    { "id": 192, "speaker": "Homeowner", "text": "哦，我不知道这个。" },
+    { "id": 192, "speaker": "Homeowner", "text": "Oh, I didn't know that." },
     {
       "id": 193,
       "speaker": "Technician",
-      "text": "我做过。嗯……所以，安静 20%。从噪音上讲……它会小得多……比现在这套要安静得多。但如果我们做基础燃气炉，那不会那么安静。可如果我们聊变频机，那有时候甚至会……这机子真的开着吗？你甚至能听到它在运行吗？"
+      "text": "I did that. Um... so. 20% quieter. It would still get... on the noise... not... It would be much less... uh... noisy than this. But if we did do the basic furnace... that's not going to be as quiet. But if we talk about inverters, those actually can just sometimes be... Are these even on? Like you just do you even hear it running?"
     },
-    { "id": 194, "speaker": "Homeowner", "text": "对，对，对。" },
-    { "id": 195, "speaker": "Technician", "text": "所以……" },
+    { "id": 194, "speaker": "Homeowner", "text": "Right. Right. Right." },
+    { "id": 195, "speaker": "Technician", "text": "So..." },
     {
       "id": 196,
       "speaker": "Homeowner",
-      "text": "好，好。明白了。我……对，变频……我那台分体机就能听出来……特别安静。"
+      "text": "Okay. Okay. That makes sense. I... yeah, the inverter... I can hear it with the split unit... really quiet."
     },
     {
       "id": 197,
       "speaker": "Technician",
-      "text": "对，所以这种技术就会在这里用上。总之，如果遇到极端制冷需求，它还是会把很多气流拉过机身。"
+      "text": "Yeah, so yeah that technology gets introduced here. All that to say if there's an incredible cooling demand, it still will pull a lot of airflow through itself."
     },
-    { "id": 198, "speaker": "Homeowner", "text": "对对。噪音就是从那儿来的。" },
+    {
+      "id": 198,
+      "speaker": "Homeowner",
+      "text": "Yeah, yeah. And that's where the noise comes from."
+    },
     {
       "id": 199,
       "speaker": "Technician",
-      "text": "但那不会一直发生。只有当气温破 100 华氏度或超过 105 的时候，可能会……它依然会比这个安静，但气压会到差不多的水平（听不清）。"
+      "text": "But that won't happen that consistently. It would happen when it breaks 100 or when it's over 105. Then it might be... it'll still be quieter than that, but it will get to like equivalent air pressure [inaudible]."
     },
     {
       "id": 200,
       "speaker": "Homeowner",
-      "text": "好，好。行。那我有的选项是……能……能再给我看一下价格吗？所以……"
+      "text": "Okay. Okay. All right. So the options I have are... can... can I see the prices again? So..."
     },
     {
       "id": 201,
       "speaker": "Technician",
-      "text": "所以这些对你来说都会是不错的选项。嗯……我得接个电话。你可以先看一下这个。"
+      "text": "So all of these are going to be great options for you. Um... I do have to take this call. Feel free to review this."
     },
-    { "id": 202, "speaker": "Homeowner", "text": "没问题，没问题。" },
+    { "id": 202, "speaker": "Homeowner", "text": "No problem. No problem." },
     {
       "id": 203,
       "speaker": "Technician",
-      "text": "[电话铃声] 喂？[停顿] 好，嗯……我现在还在跟客户聊不同的方案。所以……我不知道。对，对，对。"
+      "text": "[Phone ringing] Hello? [Pause] Okay, um... I'm still talking to our client here about different options. So... I don't know. Yeah. Yeah. Yeah."
     },
-    { "id": 204, "speaker": "Technician", "text": "[背景安静/翻动声][挂断电话] " },
+    {
+      "id": 204,
+      "speaker": "Technician",
+      "text": "[Background silence/shuffling][Hangs up phone] "
+    },
     {
       "id": 205,
       "speaker": "Homeowner",
-      "text": "我看这些都是……这个是侧向出风？"
+      "text": "I see that all these are... This one vent to the side?"
     },
     {
       "id": 206,
       "speaker": "Technician",
-      "text": "对。这也是一个很大的区别：室外占用空间。这些会更高。所以这是个……其实你知道吗？它高度会非常非常……真的会非常接近同样高度。但它们像这样很薄。"
+      "text": "Yes. That's a big difference too is amount of room taken up outside. These are going to be taller systems. So it is a... it's actually... you know what? It'll be very, very... really, really close to the same height. But they're like this thin."
     },
-    { "id": 207, "speaker": "Homeowner", "text": "嗯……但它们会变宽，对吧？" },
+    {
+      "id": 207,
+      "speaker": "Homeowner",
+      "text": "Um... so but they go... they go wide though."
+    },
     {
       "id": 208,
       "speaker": "Technician",
-      "text": "对对对，但我……我之前那个的体验是它侧向出风，所以风会往旁边吹，有点风感。"
+      "text": "Yeah. Yeah. Yeah, but I... my experience with the other one is that it vents to the side so it's kind of windy."
     },
-    { "id": 209, "speaker": "Technician", "text": "它还是会的，还是会。" },
+    {
+      "id": 209,
+      "speaker": "Technician",
+      "text": "It still will. It still will."
+    },
     {
       "id": 210,
       "speaker": "Homeowner",
-      "text": "对。我喜欢这个的是它往上出风。嗯……"
+      "text": "Yeah. And what I like about this one is that it vents to the top. Um..."
     },
     {
       "id": 211,
       "speaker": "Technician",
-      "text": "我可以做一个变频型号，是可以上出风的。"
+      "text": "I can build a form of inverter that does do that."
     },
-    { "id": 212, "speaker": "Homeowner", "text": "是吗？" },
-    { "id": 213, "speaker": "Technician", "text": "嗯哼。" },
+    { "id": 212, "speaker": "Homeowner", "text": "Yeah?" },
+    { "id": 213, "speaker": "Technician", "text": "Mm-hm." },
     {
       "id": 214,
       "speaker": "Homeowner",
-      "text": "所以他们有那种往上……向上出风的机型？"
+      "text": "So they have this unit that vents up... upwards?"
     },
-    { "id": 215, "speaker": "Technician", "text": "品牌是 Bosch。" },
-    { "id": 216, "speaker": "Homeowner", "text": "嗯哼。" },
+    {
+      "id": 215,
+      "speaker": "Technician",
+      "text": "It's uh... the brand is Bosch."
+    },
+    { "id": 216, "speaker": "Homeowner", "text": "Uh-huh." },
     {
       "id": 217,
       "speaker": "Technician",
-      "text": "嗯……评价非常高。很多其实是技师给的好评，这很酷。嗯……技师喜欢维护它们，因为可靠性很强。但我不知道 Bosch 最终价格会落在哪个区间，不过我觉得大概也会在差不多的位置。"
+      "text": "Uh... very highly reviewed. Mostly actually highly reviewed from technicians. Which is very cool. Um... Technicians love working on them because they're very reliable. But I don't know where the Bosch would end up, but I do think it would be... uh... roughly in that same area."
     },
-    { "id": 218, "speaker": "Homeowner", "text": "好。" },
+    { "id": 218, "speaker": "Homeowner", "text": "Okay." },
     {
       "id": 219,
       "speaker": "Technician",
-      "text": "唯一一点——我们也可以马上查 Bosch——你看到这里写着 Energy Star High Heat 吗？"
+      "text": "The only thing and we can find out with Bosch in a second... but you see how this says Energy Star High Heat?"
     },
-    { "id": 220, "speaker": "Homeowner", "text": "嗯哼。" },
+    { "id": 220, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 221,
       "speaker": "Technician",
-      "text": "只要你看到 Energy Star，你实际上可能还能拿到一个额外补贴，但这个得你完全自己去办，我们帮不了。"
+      "text": "Whenever you see Energy Star... that actually can qualify you for one further rebate that you have to deal with completely on your own. We can't help you."
     },
-    { "id": 222, "speaker": "Homeowner", "text": "嗯哼。" },
+    { "id": 222, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 223,
       "speaker": "Technician",
-      "text": "嗯……这是一个税收抵扣/退税补贴。通常符合的话，要么是 $1000，要么是 $2000。"
+      "text": "Um... It's a tax cut rebate. And usually if you qualify for it, it's either $1000 or $2000."
     },
-    { "id": 224, "speaker": "Homeowner", "text": "嗯。" },
+    { "id": 224, "speaker": "Homeowner", "text": "Mm." },
     {
       "id": 225,
       "speaker": "Technician",
-      "text": "如果没有 Energy Star，就拿不到这个补贴。而 Bosch 没有那个。"
+      "text": "If we don't have Energy Star on it, you can't have that rebate. And Bosch doesn't have that."
     },
-    { "id": 226, "speaker": "Technician", "text": "我可以查一下。" },
+    { "id": 226, "speaker": "Technician", "text": "I can find out." },
     {
       "id": 227,
       "speaker": "Homeowner",
-      "text": "啊，好。好好。明白，明白。"
+      "text": "Ah, okay. Okay. Okay. Got it. Got it."
     },
-    { "id": 228, "speaker": "Technician", "text": "要不我马上查一下？" },
-    { "id": 229, "speaker": "Homeowner", "text": "嗯……好啊，好啊。" },
+    {
+      "id": 228,
+      "speaker": "Technician",
+      "text": "Want me to just find out real quick?"
+    },
+    { "id": 229, "speaker": "Homeowner", "text": "Um... Sure. Sure." },
+
     {
       "id": 230,
       "speaker": "Technician",
-      "text": "好。我把这个报价改成 Bosch 的。"
+      "text": "Okay. Let me just modify this estimate to be a Bosch."
     },
-    { "id": 231, "speaker": "Homeowner", "text": "但把那个留着。" },
+    { "id": 231, "speaker": "Homeowner", "text": "But leave that one there." },
     {
       "id": 232,
       "speaker": "Technician",
-      "text": "会的。我只是复制一份，然后把它切换成 Bosch。那……"
+      "text": "I will. I was just going to duplicate it and we'll switch it over to a Bosch. So..."
     },
-    { "id": 233, "speaker": "Technician", "text": "[打字声]" },
+    { "id": 233, "speaker": "Technician", "text": "[Typing sound]" },
     {
       "id": 234,
       "speaker": "Technician",
-      "text": "好，它确实有 Energy Star。嗯……所以……区别是这个不会有 high heat 功能。嗯……我找一下……我把那个报价放哪了？是这个吗？不是。"
+      "text": "Okay. It does have Energy Star on it. Um... so... The difference is this one will have... it won't have the high heat feature. Um... so let me just get... where did I put that estimate? It's this one right? No."
     },
-    { "id": 235, "speaker": "Technician", "text": "[背景噪音]" },
-    { "id": 236, "speaker": "Technician", "text": "找到了。[打字/点击]" },
+    { "id": 235, "speaker": "Technician", "text": "[Background noise]" },
+    {
+      "id": 236,
+      "speaker": "Technician",
+      "text": "There we go. [Typing/Clicking]"
+    },
+
     {
       "id": 237,
       "speaker": "Technician",
-      "text": "好。所以现在我们有……对，挺有意思的，它们最后都落在差不多的价格区间。所以……嗯……就技术来说……Bryant 比其他的唯一优势就是它不那么频繁进入除霜。"
+      "text": "Okay. So now we have... Yeah, it's funny they all end up being in the same price range. So it's... um... again, in regards to technology... um... the only thing that the Bryant has over the other ones is that it doesn't enter defrost as often."
     },
-    { "id": 238, "speaker": "Homeowner", "text": "嗯。嗯哼。" },
+    { "id": 238, "speaker": "Homeowner", "text": "Mm. Mm-hm." },
     {
       "id": 239,
       "speaker": "Technician",
-      "text": "在加州其实我们本来也不怎么进入除霜，所以。"
+      "text": "In California that we really don't enter defrost all that much so."
     },
     {
       "id": 240,
       "speaker": "Homeowner",
-      "text": "我以前在另一个地方用过热泵……从来没出过问题。而且那是 20 多年前了。"
+      "text": "I had a heat pump before in another place... never had a problem with it. And this was like more than 20 years ago."
     },
-    { "id": 241, "speaker": "Technician", "text": "也是在加州吗？" },
-    { "id": 242, "speaker": "Homeowner", "text": "对。" },
+    {
+      "id": 241,
+      "speaker": "Technician",
+      "text": "And it was here in California?"
+    },
+    { "id": 242, "speaker": "Homeowner", "text": "Yeah." },
     {
       "id": 243,
       "speaker": "Technician",
-      "text": "对。所以我觉得它很少很少会进入除霜。但这个就是有那个更好的……"
+      "text": "Yeah. So I think it's just... it will just very rarely enter a defrost cycle. But this one just has that better..."
     },
-    { "id": 244, "speaker": "Homeowner", "text": "额外功能。对对。" },
-    { "id": 245, "speaker": "Technician", "text": "没错。" },
-    { "id": 246, "speaker": "Homeowner", "text": "好，好。那安装系统要多久？" },
+    { "id": 244, "speaker": "Homeowner", "text": "Extra feature. Yeah. Yeah." },
+    { "id": 245, "speaker": "Technician", "text": "Exactly." },
+    {
+      "id": 246,
+      "speaker": "Homeowner",
+      "text": "Okay. Okay. And how long does it take to install the system?"
+    },
     {
       "id": 247,
       "speaker": "Technician",
-      "text": "如果做热泵，大概需要两到三天。"
+      "text": "If we are doing a heat pump, it's going to be roughly two or three days."
     },
-    { "id": 248, "speaker": "Homeowner", "text": "嗯。" },
+    { "id": 248, "speaker": "Homeowner", "text": "Mm." },
     {
       "id": 249,
       "speaker": "Technician",
-      "text": "因为热泵要做的工作很多。如果是燃气系统配现有空调，我会说一到两天。"
+      "text": "Because there is a lot of work that goes into a heat pump. If it was a gas system to existing AC, I would say one to two days."
     },
-    { "id": 250, "speaker": "Homeowner", "text": "嗯。" },
+    { "id": 250, "speaker": "Homeowner", "text": "Mm." },
     {
       "id": 251,
       "speaker": "Technician",
-      "text": "然后还有一个活动我甚至还没加进任何一个方案：风管密封。嗯……这个也可能要接近一天。但看时间安排，我们可以给你派一组或两组安装团队。如果是两组，会快很多。也就是两个人或四个人。"
+      "text": "And then there is still a promotion I haven't even included any of these. Um... and that would be duct sealing. Um... and uh that also can take close to a day too. But depending on time frames, we have an install crew or two out here for you. If you have two, it really speeds things up. So that's either two guys or four guys."
     },
     {
       "id": 252,
       "speaker": "Homeowner",
-      "text": "嗯，好，好。然后……好吧。我理解这些选项了，没问题。呃……我不……我对热泵会更感兴趣。呃……可能是这两个。我对燃气的不感兴趣。"
+      "text": "Mm. Okay. Okay. And um... All right. I understand the options. That's fine. Uh... I'm not... I would be interested on... on the heat pump. Uh... maybe these... these two. I'm not interested on the gas."
     },
-    { "id": 253, "speaker": "Technician", "text": "好的。" },
+    { "id": 253, "speaker": "Technician", "text": "Sure." },
     {
       "id": 254,
       "speaker": "Homeowner",
-      "text": "然后我还注意到你们也有分期/融资。"
+      "text": "And then the other thing I noticed is that you also have financing."
     },
-    { "id": 255, "speaker": "Technician", "text": "有的。对。" },
+    { "id": 255, "speaker": "Technician", "text": "I do. Yeah." },
     {
       "id": 256,
       "speaker": "Homeowner",
-      "text": "那融资的话，你能给我看看每月还款多少吗？以及期限多长？"
+      "text": "And for financing, can you show me the monthly payment? And for how long is that?"
     },
     {
       "id": 257,
       "speaker": "Technician",
-      "text": "我们有不同选项。我们……我们用 Bosch 来看，因为你喜欢它上出风的想法。我们看融资。看按月方案。7 月。好。所以这些就是我们所有可用方案。我们有 120 个月……自动扣款利率 8.99。你什么都不用做。"
+      "text": "So we have different options. We have... let's go to the Bosch since that's the one that you like the idea of having airflow up. We'll look at financing. So we'll look at monthly offers. July. Okay. So these are just all of our options that we have. So we have an 120 month... 8.99 interest with autopay. So you don't have to do anything."
     },
-    { "id": 258, "speaker": "Homeowner", "text": "嗯哼。" },
+    { "id": 258, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 259,
       "speaker": "Technician",
-      "text": "180 个月，期限更长，利率 9.99。嗯……这两个是我们最……这两个是最常用的。"
+      "text": "180, so much longer term, with 9.99. Um... This is our most... these two are our most commonly used."
     },
-    { "id": 260, "speaker": "Homeowner", "text": "嗯哼。" },
+    { "id": 260, "speaker": "Homeowner", "text": "Mm-hm." },
     {
       "id": 261,
       "speaker": "Technician",
-      "text": "GoodLeap 其实刚刚……这个月才给我们开放这个。嗯……本来应该 15 号就结束了，所以我也惊讶它还在。但……12 个月免息的意思是：如果你在 12 个月内还清……"
+      "text": "GoodLeap actually just barely like... just gave us access to this this month. Um... it was supposed to end on the 15th so I'm surprised it's still going on. But... the 12 months no interest just means that if you do pay it off in 12 months..."
     },
-    { "id": 262, "speaker": "Homeowner", "text": "嗯。" },
+    { "id": 262, "speaker": "Homeowner", "text": "Mm." },
     {
       "id": 263,
       "speaker": "Technician",
-      "text": "你付的就跟现金一样，没有利息之类。呃，这个很常见，因为利率低。嗯……而且期限稍微长一点。嗯，然后我觉得我们现在看到的这个还款额……是包含这个 60 个月、5.99 的那个方案。"
+      "text": "You just paid the same as cash. Like there's no uh interest rate or anything. Uh this is just a very common one because the low interest rate. Um... and it just goes on for a little bit of a longer term. Um and yeah I think when it comes to this one that we're seeing... when it comes to this payment that we're seeing there, that's including the 5.99 one for this for this 60 months."
     },
-    { "id": 264, "speaker": "Homeowner", "text": "嗯。60 个月。也就是五年……" },
-    { "id": 265, "speaker": "Technician", "text": "五年。" },
+    {
+      "id": 264,
+      "speaker": "Homeowner",
+      "text": "Mm. 60 months. So five years..."
+    },
+    { "id": 265, "speaker": "Technician", "text": "Five years." },
     {
       "id": 266,
       "speaker": "Homeowner",
-      "text": "五年……335。然后这个……嗯……是包含活动优惠、所有东西……好。"
+      "text": "Five year... 335. And that... um... that includes uh... the promotions everything and... okay."
     },
     {
       "id": 267,
       "speaker": "Technician",
-      "text": "对，关于活动我还有一些条目没加进来，但目前这是基础设备的情况。对。"
+      "text": "Yeah there's still some line items in regards to promotions I haven't included but uh this is base line equipment at the moment. Yeah."
     },
     {
       "id": 268,
       "speaker": "Homeowner",
-      "text": "那你给我看那个我可以更早还清的方案，每月还款是多少？比如……一年内？那种？"
+      "text": "And what is the monthly payment with the one that you showed me that I can pay off earlier? In a... in a year? That that type of one?"
     },
     {
       "id": 269,
       "speaker": "Technician",
-      "text": "你其实不需要在一整年内付任何钱，如果你不想。你确实可以整整一年都不还款。"
+      "text": "So you don't _need_ to pay anything for a full year if you don't want. You actually do have the ability to take a year off of payments entirely."
     },
-    { "id": 270, "speaker": "Homeowner", "text": "哦。" },
-    { "id": 271, "speaker": "Technician", "text": "但是然后……" },
+    { "id": 270, "speaker": "Homeowner", "text": "Oh." },
+    { "id": 271, "speaker": "Technician", "text": "But then..." },
     {
       "id": 272,
       "speaker": "Homeowner",
-      "text": "但然后就变成那个……我觉得利率也不算很吓人，大概 10% 左右。哦我懂你意思了。"
+      "text": "But then it goes to that... I think it's not a nasty interest rate, it's something around 10%. Oh I see what you're saying."
     },
     {
       "id": 273,
       "speaker": "Technician",
-      "text": "不算……不算特别特别糟，但确实是有利息的。"
+      "text": "It's not a... it's not a horrible, horrible interest rate but there is an interest rate there."
     },
     {
       "id": 274,
       "speaker": "Homeowner",
-      "text": "所以哦，就是说一年内把全款付掉，然后剩下的……"
+      "text": "So oh so basically paying the full amount within the year and then whatever..."
     },
     {
       "id": 275,
       "speaker": "Technician",
-      "text": "但好的地方是：你这一年也不需要付任何钱。嗯，比如我们假设用 12 期把它还清……"
+      "text": "But the nice thing is is you don't need to pay anything for the year either. Um, so if we did pay it off in 12 payments let's say..."
     },
-    { "id": 276, "speaker": "Homeowner", "text": "嗯。" },
-    { "id": 277, "speaker": "Technician", "text": "那每个月会略高于 2000。" },
+    { "id": 276, "speaker": "Homeowner", "text": "Uh-huh." },
+    {
+      "id": 277,
+      "speaker": "Technician",
+      "text": "It would be a little bit over 2000 a month."
+    },
     {
       "id": 278,
       "speaker": "Homeowner",
-      "text": "啊我懂。因为要在一年内。对对对对。"
+      "text": "Ah I see. Because it's within a year. Yeah yeah yeah yeah."
     },
     {
       "id": 279,
       "speaker": "Technician",
-      "text": "一年内。但我觉得条款其实会很接近。就是从那之后大概五年，利率我记得是 9.99 左右。但更好的点是：比如你没有全还清。比如到一年时你先付了 18,000。那我们还剩下余额……我们还剩下余额 8422。接下来发生的是：利息只会作用在这个剩余余额上。"
+      "text": "Within a year. But then I think the terms actually go really really close. It's like five years of um I think 9.99 from there. But the the nice thing though is let's say you don't pay it off in full. Let's say you go to the year and maybe you put 18,000 down. So we still have a remaining balance of... we still have a remaining balance of 8422. What then happens is the interest only applies to that remaining balance."
     },
-    { "id": 280, "speaker": "Homeowner", "text": "哦。" },
+    { "id": 280, "speaker": "Homeowner", "text": "Oh." },
     {
       "id": 281,
       "speaker": "Technician",
-      "text": "所以我们只看剩余余额，那就会……"
+      "text": "So we only get remaining balance so that would then..."
     },
-    { "id": 282, "speaker": "Homeowner", "text": "[听不清]" },
+    { "id": 282, "speaker": "Homeowner", "text": "[inaudible]" },
     {
       "id": 283,
       "speaker": "Technician",
-      "text": "对。所以我们就取这个剩余余额，然后除以 60。那就会是你那时候的月供。"
+      "text": "Yeah. So we we just get that remaining balance and then divide it by 60. That would be like your monthly payment at that point."
     },
     {
       "id": 284,
       "speaker": "Homeowner",
-      "text": "对我懂。我懂。再五年。对我懂。"
+      "text": "Yeah I get it. I get it. For five more years. Yeah I get it."
     },
     {
       "id": 285,
       "speaker": "Technician",
-      "text": "对，但你也可以提前还清，完全没问题。"
+      "text": "But yeah but then you can pay it off early and it's no big deal."
     },
     {
       "id": 286,
       "speaker": "Homeowner",
-      "text": "当然，当然。我懂。好。嗯……这样吧，我想跟我妻子聊一下所有选项。把这些发邮件给我，然后当然我……我们先把你今天做的事情结算掉，然后我再跟我妻子讨论这些。"
+      "text": "Of course. Of course. I get it. Okay. Um... So look. I I'd like to uh speak with my wife about all the options. Email me this and then uh of course I'll um let's cover the the what you did today and then I'll just discuss this with my wife."
     },
+
     {
       "id": 287,
       "speaker": "Homeowner",
-      "text": "好的。对。我也喜欢它更安静、更高效，而且以后不用担心燃气泄漏。"
+      "text": "Sure. Yeah. I like the idea of the thing being quieter and more efficient. And not having gas leaks in the future."
     },
+
     {
       "id": 288,
       "speaker": "Technician",
-      "text": "对，那这样吧。我把报价先收敛到两个。我会把这个删掉，删掉那个。我只想确保一点说清楚：对我来说，如果我今天不用收维修费、而是把它当作免费送你的，会容易很多。所以如果你愿意签约，你这边看起来就是付 $1000 的定金。嗯，另外我们也可以看看你融资能批到什么选项。如果能融资，那我今天甚至不需要你付定金，我们直接走融资就行。然后我们也会提供——任何靠谱的承包商都会提供——这里这个保障。所以你跟你妻子聊的时候，如果出现任何奇怪的情况，我们这里也有这条提示：我们一直都有正规的 3 天无理由取消权。"
+      "text": "Yeah so how about this. Let me let me bring the the estimates down to just two of them. I'll I'll I'll just eliminate this one. Eliminate that one. And the only thing I just want to make sure is clear. It on my end it would be so much easier if I didn't have to charge for the repair today. And if we actually just basically considered it as a complimentary thing for you. So if we did feel comfortable with signing, what that would just look like on your end would just be a $1000 down payment. Um, the other thing is we can see what options you qualify for in regards to financing. And if that's the case, if we have financing, then I don't even need a down payment today. We would just do just the financing side of it. And we do come with a—every contractor that's reputable comes with this guarantee here. So as you're talking to your wife, if anything weird comes up we even have this notice right here. So we always have a reputable 3 day right to cancel. So."
     },
+
     {
       "id": 289,
       "speaker": "Homeowner",
-      "text": "不，我们今天不做这个。你就把选项发给我。我跟她聊完，然后我们再做决定。"
+      "text": "No we won't do that today. Uh just just send me the options. I'll talk to her and then we'll uh make a decision."
     },
     {
       "id": 290,
       "speaker": "Technician",
-      "text": "当然可以。然后在 15 天内我会把那笔钱完全返还抵扣回去。好。所以我会把这些报价美化一下，并把风管密封活动加进去。因为 TECH 需要做 HERS 测试，我们其实也就必须做这个。所以我会稍微改一下。你收到邮件时会看到新增的：Permit 和 HERS test。你会看到一条 duct seal 的费用，但你往下滚动会看到它作为活动被抵扣返还。嗯，所以很好。我们会把两种燃气选项都删掉，只保留 Bryant 和 Bosch。"
+      "text": "Absolutely. And then um within 15 days I will completely credit that back towards it. Okay. So um I'm going to pretty these estimates up a little bit more and I'll include the duct sealing promotion. And because TECH is uh needing a HERS test, we actually just kind of have to do that anyways. So I'm I'm going to uh modify it a little bit. And what you'll see that's new when I send it to you is Permit and HERS test. You'll see a duct seal cost but then if you keep scrolling down you would see a uh it credited back as the promotion. So um so great. We'll go ahead I'll eliminate the g—both of the gas options. And we'll stay with the Bryant and the Bosch."
     },
-    { "id": 291, "speaker": "Homeowner", "text": "对。" },
+    { "id": 291, "speaker": "Homeowner", "text": "Yes." },
     {
       "id": 292,
       "speaker": "Technician",
-      "text": "很好。那我先把今天的 $1000 收一下。1009。所以你用 Visa 还是 MasterCard？"
+      "text": "And very cool. And let me go ahead and get the $1000 for today. 1009. So do you need a Visa or MasterCard?"
     },
     {
       "id": 293,
       "speaker": "Homeowner",
-      "text": "我看看我用什么。我觉得是 MasterCard。我找一下。"
+      "text": "Let me see what I do. It's I think it's a MasterCard. If I can find it."
     },
-    { "id": 294, "speaker": "Technician", "text": "这总是很重要。" },
+    { "id": 294, "speaker": "Technician", "text": "Always important." },
     {
       "id": 295,
       "speaker": "Homeowner",
-      "text": "我懂我懂。给你。就在背面。背面的数字。"
+      "text": "I hear you. There you go. It's on the back. The numbers on the back."
     }
   ],
   "meta": {
@@ -931,269 +1032,463 @@
       "description": "Did the technician properly greet the customer and introduce themselves/company?",
       "status": "missing",
       "score": 4,
-      "comment": "对话记录始于互动中途（维修后的汇报阶段），导致标准的“姓名/公司/目的”开场介绍在录音中缺失。尽管如此，技术人员在随后的互动中展现了出色的“建立融洽关系（Rapport Building）”技巧，有效利用了“居家办公”的共同话题以及与客户宠物猫的互动，成功将对话氛围从严肃的技术服务模式平滑过渡到了轻松的销售对话。"
+      "comment": "The recording begins mid-interaction (during the post-repair debrief), so the standard introduction (name/company/purpose) is absent. Despite this, the technician demonstrated excellent rapport-building skills later on. By leveraging shared topics like \"working from home\" and interacting with the customer's cat, he successfully transitioned the atmosphere from a strict technical service call to a relaxed sales conversation."
     },
     {
       "step_name": "Problem Diagnosis",
       "description": "How did the technician inquire about and understand the customer’s issue?",
       "status": "present",
       "score": 5,
-      "comment": "执行极其出色。技术人员首先利用数据可视化（图表与温差）验证维修成效，在建立技术权威的同时,技术人员策略性地将刚刚完成的维修定义为临时的“权宜之计”，有效防止了客户因现状改善而安于使用旧设备。更关键的是，他成功挖掘出了客户提出高昂移机请求背后的真实痛点——“噪音”。这一精准的洞察让他果断停止推销昂贵的“移机工程”，转而推销以“变频设备”和“降噪格栅”为核心的静音技术方案，实现了产品卖点与客户核心需求的完美契合"
+      "comment": "Extremely well executed. The technician first used data visualization (charts and temperature differentials) to verify the repair results, establishing technical authority while strategically framing the repair as a temporary \"Band-Aid.\" This effectively prevented the customer from becoming complacent with the aging equipment. Crucially, he uncovered the real pain point behind the customer's expensive request to relocate the unit: \"noise.\" This precise insight led him to pivot away from the costly relocation project and instead propose a quiet technology solution featuring \"inverter equipment\" and \"noise-reducing grilles,\" perfectly aligning the product's benefits with the customer's core needs."
     },
     {
       "step_name": "Solution Explanation",
       "description": "Did the technician clearly explain the solution or service performed?",
       "status": "present",
       "score": 5,
-      "comment": "展现了极高的方案灵活性与沟通技巧。技术人员起初主推 Bryant 品牌，但在敏锐捕捉到客户对“顶出风”物理形态的偏好后，果断切换至更符合客户审美的 Bosch 方案。在技术科普环节，他巧妙借用客户家中已有的“无风管分体机”作为认知锚点，生动直观地解释了晦涩的“变频技术”,让客户更容易理解差异与价值。更难能可贵的是，他并未回避产品短板，而是透明地管理了客户对热泵出风温度较柔和及高负荷下风噪的心理预期，这种坦诚的“预防针”式沟通极大地筑牢了专业信誉, 显著提升可信度与后续满意度。"
+      "comment": "Demonstrated exceptional flexibility and communication skills. Although initially pitching the Bryant brand, the technician pivoted quickly to the Bosch solution upon noticing the customer's preference for the \"top discharge\" form factor. During the technical explanation, he cleverly used the customer's existing ductless mini-split as a cognitive anchor to explain complex \"inverter technology,\" making the value proposition intuitive. Notably, he maintained transparency regarding potential drawbacks, effectively managing expectations about the heat pump's gentler airflow temperature and potential noise under high loads. This honest, proactive communication significantly strengthened his professional credibility and trust."
     },
     {
       "step_name": "Upsell Attempts",
       "description": "Note if and how the technician attempted to upsell additional services or products.",
       "status": "present",
       "score": 5,
-      "comment": "展现了极具战略眼光的销售布局。技术人员巧妙地将“管道密封”服务进行重构，不再将其作为可有可无的附加增项，而是锚定为通过 HERS 测试以解锁高额返利的必要先决条件，从而成功将合规压力转化为成交动力。此外，针对客户核心的噪音痛点，他精准地抛出“蛋格回风口”升级这一低成本、高感知价值的解决方案。这种从客户利益出发的增值策略，成功营造出“协助解决问题”而非“强行推销”的优质顾问体验。"
+      "comment": "Showed highly strategic sales positioning. The technician skillfully reframed the \"duct sealing\" service, positioning it not as an optional add-on, but as a mandatory prerequisite to pass the HERS test and unlock substantial rebates, effectively converting compliance requirements into a closing driver. Additionally, addressing the customer's noise concerns, he pitched the \"egg crate return grille\" upgrade—a low-cost, high-perceived-value solution. This value-added strategy created a consultative \"problem-solving\" experience rather than a \"hard sell.\""
     },
     {
       "step_name": "Maintenance Plan Offer",
       "description": "Did the technician offer any maintenance plans or long-term service agreements?",
       "status": "present",
       "score": 4,
-      "comment": "技术人员策略性地利用维护计划将“10年人工全包”作为核心设备的强力助推器，这一绑定销售逻辑十分清晰。但整体呈现略显单薄，全程仅有一次简短提及，未做深入展开。他未能进一步阐述计划本身的日常维护价值（如能效维持、优先响应等），导致该计划在对话中更像是一个附属的“保修补丁”而非独立的长期服务价值主张，错失了进一步强化客户长期粘性的机会。"
+      "comment": "The technician strategically used the maintenance plan as a mechanism to unlock the \"10-year labor warranty,\" creating a clear bundled sales logic. However, the overall presentation was somewhat thin, with only a single brief mention. He failed to elaborate on the intrinsic value of the plan itself (e.g., efficiency maintenance, priority response), causing it to feel more like a \"warranty patch\" than a distinct long-term service value proposition, thereby missing an opportunity to deepen customer retention."
     },
     {
       "step_name": "Closing & Thank You",
       "description": "How did the technician conclude the call? Did they thank the customer and finish courteously?",
       "status": "missing",
       "score": 4,
-      "comment": "面对客户提出的“需与妻子商量”这一异议，技术人员首先尝试了“试探性成交”，提出若当场签约则免除维修费。当该尝试未果时，他成功执行了“退守成交”策略：正常收取了维修费，但设立了“15天内签约可全额抵扣”的窗口期，有效地利用“沉没成本”作为心理杠杆锁定客户。然而，尽管谈判策略执行得当，但由于对话记录在信用卡交易过程中突然中断，合规检查所要求的“感谢客户并礼貌结束通话”这一具体环节在录音中缺失，因此无法验证最终的礼貌收尾。"
+      "comment": "When facing the \"need to discuss with my wife\" objection, the technician first attempted a \"soft close\" by offering to waive the repair fee for an immediate signature. When that didn't work, he successfully executed a \"fallback close\": charging the repair fee but creating a 15-day window to credit it back upon signing, effectively using the \"sunk cost\" as psychological leverage. However, while the negotiation strategy was sound, the recording cuts off during the credit card transaction, making it impossible to verify the required \"thank you and polite conclusion\" step."
     }
   ],
-
-   "annotations": [
+  "annotations": [
     {
       "id": 1,
+
       "start_line_id": 1,
+
       "end_line_id": 6,
+
       "category": "Introduction",
-      "title": "去陌生化的顾问式开场",
-      "content": "技术人员跳过了刻板的寒暄，直接以轻松、平等的姿态进入对话。通过直呼其名（Hey, Luis）和省略繁琐的自我介绍，迅速建立了融洽关系（Rapport）。这种非正式的开场有助于消除客户对'销售人员'的防备心理，为后续从'维修工'平滑切换至'顾问'角色奠定了基础。"
+
+      "title": "去陌生化的非正式开场",
+
+      "content": "技术人员跳过了标准的陌生拜访流程，直接进入工作状态。客户直呼其名显示双方已建立初步融洽关系（Rapport）。这种轻松的氛围消除了'销售对立面'的感觉，为从'维修服务模式'平滑切换到'顾问销售模式'奠定了基础。"
     },
+
     {
       "id": 2,
+
       "start_line_id": 7,
+
       "end_line_id": 12,
+
       "category": "Sales Insights",
+
       "title": "场景化需求侦察（居家办公）",
-      "content": "Done Well: 这段看似随意的闲聊实则是高明的需求探测。技术人员确认客户'居家办公'后，敏锐地意识到客户对全天候恒温环境及**低噪音**运行有极高要求。这不仅建立了情感共鸣，更为后续推销主打静音舒适的'变频热泵'埋下了关键伏笔。"
+
+      "content": "Done Well:这段看似随意的闲聊实则是一次精准的需求探测。技术人员通过确认客户'居家办公'，敏锐捕捉到客户对全天候恒温环境及低噪音运行的高标准要求。这不仅建立了'打工人'的情感共鸣，更为后续推销主打静音舒适的'变频热泵'埋下了关键伏笔。"
     },
+
     {
       "id": 3,
+
       "start_line_id": 13,
+
       "end_line_id": 20,
+
       "category": "Problem Diagnosis",
-      "title": "数据化验证与“权宜之计”定性",
-      "content": "技术人员利用图表数据证明了维修的有效性，确立了技术权威。紧接着，他策略性地将此成果定性为'Band-Aided（权宜之计）'。这一隐喻巧妙地在肯定自己工作价值的同时，否定了设备的长期生存能力，暗示问题并未根除，为彻底换新做好了心理铺垫。"
+
+      "title": "数据化验证与'权宜之计'定性",
+
+      "content": "技术人员利用图表数据（温差改善）证明了维修的有效性，确立了技术权威。紧接着，他策略性地将此成果定性为'Band-Aided（权宜之计）'，暗示问题并未根除，巧妙地在肯定自己工作的同时，为推翻维修成果、建议彻底换新做好了心理铺垫。"
     },
+
     {
       "id": 4,
+
       "start_line_id": 21,
+
       "end_line_id": 24,
+
       "category": "Problem Diagnosis",
+
       "title": "恐惧诉求与紧迫感营造",
-      "content": "技术人员从解决当下问题迅速转向预测未来风险，预言效率将在'1-2个月内'再次下降，并重申霉菌和生锈隐患。通过制造对未来故障的不确定性和健康风险的焦虑（Fear Appeal），激发客户通过'现在换新'来规避更大损失的动机。"
+
+      "content": "技术人员从解决当下问题迅速转向预测未来风险，预言效率将短期内再次下降，并重申霉菌和生锈隐患。通过制造对未来故障和健康风险的焦虑，激发客户通过'现在换新'来规避未来更大麻烦的动机。"
     },
+
     {
       "id": 5,
+
       "start_line_id": 21,
+
       "end_line_id": 22,
+
       "category": "Sales Insights",
-      "title": "痛点确认与深度挖掘缺失",
-      "content": "Done Well: 客户承认'I'm aware of that'（我意识到了），这是一个强烈的购买信号，表明无需再花费精力证明问题的存在。Missed: 当提及'霉菌'时，技术人员错失了追问机会（如：'这对家人的过敏或健康有影响吗？'）。若能挖掘出健康层面的痛点，客户换机的紧迫性将从'设备维护'上升到'家庭责任'，成交动力会呈指数级增长。"
+
+      "title": "痛点确认与购买信号捕捉",
+
+      "content": "Done Well:客户对设备老旧及潜在风险回应'I'm aware of that'（我意识到了），这是一个强烈的购买信号。这意味着技术人员无需再花费精力去说服客户'是否存在问题'，而应立即转入'如何解决问题'的方案展示阶段。Missed:当技术人员提及'霉菌（mold）'问题时，客户回答'I'm aware of that'（我知道）。这是一个巨大的需求挖掘缺口。技术人员此时仅仅把它当作一个技术事实处理了，而错过了追问：'既然您知道有霉菌，这对您家人的过敏或呼吸道健康有影响吗？'。如果能挖掘出健康层面的痛点，客户换机的紧迫性将从'为了设备效率'上升到'为了家人健康'，成交动力会呈指数级增长。"
     },
+
     {
       "id": 6,
+
       "start_line_id": 31,
+
       "end_line_id": 44,
+
       "category": "Upsell Attempts",
+
       "title": "政策导向的市场教育",
-      "content": "技术人员没有直接报价，而是利用加州'天然气淘汰'政策作为外部权威背书，顺势将话题引向热泵。通过强调当前针对热泵的高额返利，旨在降低客户对新技术高溢价的心理防备，将'花钱'重构为'顺应趋势的投资'。"
+
+      "content": "技术人员没有直接报价，而是扮演'行业顾问'角色。他利用加州'天然气淘汰'政策作为外部权威背书，顺势将话题引向热泵。同时，强调当前针对热泵的高额返利，旨在降低客户对新技术高溢价的心理防备，将'花钱'转化为'顺应趋势的投资'。"
     },
+
     {
       "id": 7,
+
       "start_line_id": 41,
+
       "end_line_id": 42,
+
       "category": "Sales Insights",
-      "title": "价格锚定与厌恶损失心理",
-      "content": "Done Well: 客户对'返利'表现出浓厚兴趣，表明价格是主要门槛。技术人员利用'返利即将结束'或'现在才有'的隐含前提，触发消费者的'厌恶损失（Loss Aversion）'心理——即'不买就亏了这笔钱'，从而推动决策。"
+
+      "title": "价格锚定与心理账户转移",
+
+      "content": "Done Well:客户对'返利'表现出浓厚兴趣，表明价格是其主要决策门槛。技术人员敏锐地抓住了这一点，利用返利政策将原本昂贵的热泵重新锚定为'当前可负担'的选项，利用消费者的'厌恶损失'心理（不买就亏了返利）来推动决策。"
     },
+
     {
       "id": 8,
+
       "start_line_id": 45,
+
       "end_line_id": 74,
+
       "category": "Solution Explanation",
+
       "title": "价值堆叠与服务有形化",
-      "content": "在揭晓总价前，技术人员采用了'价值堆叠（Value Stacking）'策略。他事无巨细地列举了拆除、回收、电路升级、许可申请等每一个步骤。这种将无形服务有形化的过程，极大地提升了客户的感知价值，让随后出现的高价格显得合情合理。"
+
+      "content": "在揭晓最终价格前，技术人员采用了'价值堆叠'策略。他事无巨细地列举了拆除、回收、电路升级、许可申请等每一个步骤。这种将无形服务有形化的过程，让客户深刻感知到工程的复杂性，从而使随后出现的高总价显得合情合理（Justification）。"
     },
+
     {
       "id": 9,
+
       "start_line_id": 75,
+
       "end_line_id": 85,
+
       "category": "Upsell Attempts",
+
       "title": "合规性包装下的增值销售",
-      "content": "技术人员指出房屋无法通过强制性的 HERS 测试，并顺势引入'管道密封'服务。高明之处在于，他将这项'必须做的合规性整改'包装成了'促销赠送的增值服务'。这既解决了硬性技术障碍，又让客户感觉占了便宜，消除了对额外收费的抵触。"
+
+      "content": "技术人员指出房屋无法通过强制性的 HERS 测试，并顺势引入'管道密封'服务。高明之处在于，他将这项'必须做的合规性整改'包装成了'包含在促销中的增值服务'，既解决了硬性障碍，又让客户感觉占了便宜，消除了对额外收费的抵触。"
     },
+
     {
       "id": 10,
+
       "start_line_id": 78,
+
       "end_line_id": 81,
+
       "category": "Sales Insights",
-      "title": "合规焦虑利用",
-      "content": "Done Well: 客户坦承'可能通不过测试'，显示出对房屋能效状况的缺乏信心。技术人员利用这种'合规焦虑'，成功将'管道密封'从一个可选项变成了一个必选项，在不增加客户心理负担的前提下提高了方案的完整性。"
+
+      "title": "合规焦虑制造",
+
+      "content": "Done Well:客户坦承'可能通不过测试'，显示出对房屋能效状况的缺乏信心。技术人员利用这种'合规焦虑'，成功将'管道密封'从一个可选项变成了一个必选项，更像是在解决问题而不是强行加单，从而在不增加客户心理负担的前提下提高了客单价。"
     },
+
     {
       "id": 11,
+
       "start_line_id": 86,
+
       "end_line_id": 93,
+
       "category": "Solution Explanation",
+
       "title": "针对性技术卖点匹配",
-      "content": "介绍新设备时，技术人员着重强调 R-32 制冷剂的环保性及电机的**静音特性**。这些卖点并非随机选择，而是直接呼应了客户此前透露的'居家办公'场景需求，实现了产品特性与客户需求的精准匹配（Feature-Benefit Mapping）。"
+
+      "content": "介绍新设备时，技术人员着重强调 R-32 制冷剂的环保性及电机的静音特性。这些卖点并非随机选择，而是直接呼应了客户此前透露的'居家办公'场景需求，实现了产品特性与客户需求的精准匹配。"
     },
+
     {
       "id": 12,
+
       "start_line_id": 94,
+
       "end_line_id": 97,
+
       "category": "Maintenance Plan Offer",
+
       "title": "服务订阅与长期保修绑定",
-      "content": "技术人员抛出一个极具吸引力的提议：加入会员维护计划即可将10年零件保修升级为'零件+人工'全包。这一策略将低频的年度维护转化为高价值的'保险单'，极大地提高了客户加入长期服务协议（增加客户粘性）的意愿。"
+
+      "content": "技术人员抛出一个极具吸引力的提议：加入会员维护计划即可将10年零件保修升级为'零件+人工'全包。这一策略将低频的年度维护转化为高价值的'保险单'，极大地提高了客户加入长期服务协议（粘性）的意愿。"
     },
+
     {
       "id": 13,
+
       "start_line_id": 98,
+
       "end_line_id": 115,
+
       "category": "Upsell Attempts",
+
       "title": "技术认知锚定与预期管理",
+
       "content": "技术人员巧妙借用客户已有的 Mini-split（无风管空调）作为认知锚点来解释变频技术，降低了理解门槛。同时，他诚实地管理了热泵出风温度较温和的预期，这种'打预防针'的做法体现了极高的专业度，能有效避免售后的心理落差。"
     },
+
     {
       "id": 14,
+
       "start_line_id": 116,
+
       "end_line_id": 125,
+
       "category": "Solution Explanation",
-      "title": "去摩擦化的全包服务",
-      "content": "针对繁琐的 SVCE 返利申请，技术人员承诺公司将代为处理绝大部分手续（如证明、标签）。这种'去摩擦化（Frictionless）'的服务承诺，消除了客户因畏惧行政流程而放弃申请（甚至放弃签单）的阻碍。"
+
+      "title": "去摩擦化的返利协助",
+
+      "content": "针对繁琐的 SVCE 返利申请，技术人员承诺公司将代为处理绝大部分手续（如证明、标签）。这种'去摩擦化'的服务承诺，消除了客户因畏惧行政流程而放弃申请（甚至放弃签单）的阻碍。"
     },
+
     {
       "id": 15,
+
       "start_line_id": 126,
+
       "end_line_id": 138,
+
       "category": "Upsell Attempts",
+
       "title": "成本倒挂逻辑淘汰旧方案",
+
       "content": "通过引入第二个返利项目（TECH Clean California），技术人员构建了一个完美的逻辑闭环：算上各类返利后，高端热泵的实际成本竟然比传统燃气炉更低。这在逻辑上彻底淘汰了燃气炉选项，迫使理性客户只能选择热泵。"
     },
+
     {
       "id": 16,
+
       "start_line_id": 139,
+
       "end_line_id": 153,
+
       "category": "Solution Explanation",
+
       "title": "专家级竞品分析",
+
       "content": "技术人员没有一味推销单一品牌，而是客观分析了 Bryant 在'除霜循环'上的微小技术优势。这种对技术细节的掌控力（Authority）建立了深厚的信任，让客户相信他的推荐是基于性能而非利润。"
     },
+
     {
       "id": 17,
+
       "start_line_id": 154,
+
       "end_line_id": 179,
+
       "category": "Problem Diagnosis",
+
       "title": "移机咨询的引导性劝退",
-      "content": "面对客户移机至车库或阁楼的意向，技术人员采用了'肯定-否定'策略。肯定阁楼是好位置（专业认可），但坦诚指出车库方案难度极大且阁楼方案成本高昂（现实制约）。这种咨询式的引导既尊重了客户意愿，又防止了因预算失控（增加$4000+）导致丢单。"
+
+      "content": "面对客户移机至车库或阁楼的意向，技术人员采用了'肯定-否定'策略。肯定阁楼是好位置，但坦诚指出车库方案难度极大且阁楼方案成本高昂。这种咨询式的引导既尊重了客户意愿，又防止了因预算失控（增加$4000+）导致丢单。"
     },
+
     {
       "id": 18,
+
       "start_line_id": 154,
+
       "end_line_id": 158,
+
       "category": "Sales Insights",
-      "title": "隐性痛点深挖：体验敏感型客户",
-      "content": "Done Well: 客户主动提出昂贵的移机想法，暴露了对现状的强烈不满。这说明客户属于'体验敏感型'而非单纯的'价格敏感型'。技术人员意识到：只要解决核心体验问题，客户可能愿意支付溢价，或者接受一个能解决痛点的替代方案。"
+
+      "title": "隐性痛点深挖与预算测试",
+
+      "content": "Done Well:客户主动提出昂贵的移机想法，暴露了对现状的强烈不满。说明他已经从“修好就行”进入到“长期怎么更舒服/更合理”的思考阶段——这通常意味着更换/升级已被纳入考虑。这是一个关键信号：客户属于'体验敏感型'而非单纯的'价格敏感型'。技术人员意识到只要解决核心体验问题（噪音），客户可能愿意支付溢价。"
     },
+
     {
       "id": 19,
+
       "start_line_id": 180,
+
       "end_line_id": 185,
+
       "category": "Sales Insights",
+
       "title": "核心痛点锁定：噪音",
-      "content": "Done Well: 对话迎来转折，客户终于吐露移机的真正动因是'噪音'。技术人员立即调整策略，不再纠结于物理位置，而是将解决方案转向'设备本身的静音性'。这种即时转向非常关键，它既降低了方案的总价压力，又精准击中了客户的决策命门。"
+
+      "content": "Done Well:对话迎来转折，客户终于吐露移机的真正动因是'噪音'。既然痛点明确，技术人员立即调整策略，不再纠结于物理位置的移动，而是将解决方案转向'设备本身的静音性'，这为后续提出高性价比方案指明了方向。这类即时转向非常关键：它既降低了方案的总价压力，也更贴合客户的真实决策标准，从而提升成交概率。"
     },
+
     {
       "id": 20,
+
       "start_line_id": 186,
+
       "end_line_id": 204,
+
       "category": "Solution Explanation",
+
       "title": "低成本高感知的解决方案",
+
       "content": "针对噪音痛点，技术人员提出了'更换蛋格状回风口'这一低成本但效果显著的方案。引用'降低20%噪音'的数据极大地增强了说服力。这一建议不仅帮客户省下了移机的巨款，更建立了'为客户着想'的盟友形象。"
     },
+
     {
       "id": 21,
+
       "start_line_id": 205,
+
       "end_line_id": 218,
+
       "category": "Problem Diagnosis",
+
       "title": "物理形态异议的即时化解",
-      "content": "当客户对侧出风机型提出异议时，技术人员展现了极快的产品匹配能力。他没有辩解，而是迅速引入 Bosch 品牌，完美结合了客户想要的'变频内核'与'顶出风外观'，扫清了成交道路上的物理障碍。"
+
+      "content": "当客户对侧出风机型提出异议时，技术人员展现了极快的产品匹配能力。他迅速引入 Bosch 品牌，完美结合了客户想要的'变频内核'与'顶出风外观'，扫清了成交道路上的物理障碍。"
     },
+
     {
       "id": 22,
-      "start_line_id": 219,
-      "end_line_id": 236,
-      "category": "Solution Explanation",
-      "title": "协作式验证增强信任",
-      "content": "技术人员主动对 Bosch 的 Energy Star 认证表示不确定，并邀请客户共同核实。这种'不确定的诚实'比'盲目的自信'更具杀伤力，它将单向的推销变成了双向的协作，极大地拉近了双方的心理距离。"
+
+      "start_line_id": 210,
+
+      "end_line_id": 213,
+
+      "category": "Sales Insights",
+
+      "title": "动态库存匹配",
+
+      "content": "Done Well:客户对外机“出风方向/形态”有明确偏好（更喜欢上出风）。技术人员没有辩解侧出风的好处，而是顺应客户偏好，立即调取符合要求的库存方案。技术人员的处理很有效：不争论谁更好，而是顺应客户偏好,而是立刻提供可行替代.是促成合作的关键。"
     },
+
     {
       "id": 23,
-      "start_line_id": 237,
-      "end_line_id": 245,
+
+      "start_line_id": 219,
+
+      "end_line_id": 236,
+
       "category": "Solution Explanation",
-      "title": "决策辅助：细节与形态的权衡",
-      "content": "技术人员帮助客户梳理最终选项：Bryant 胜在除霜细节，Bosch 胜在物理形态。鉴于加州气候少霜，技术人员引导客户认识到 Bosch 的形态优势更符合其实际偏好，帮助客户完成了最终的心理决策。"
+
+      "title": "协作式验证增强信任",
+
+      "content": "技术人员主动对 Bosch 的 Energy Star 认证表示不确定，并邀请客户共同核实。这种'不确定的诚实'比'盲目的自信'更具杀伤力，它将单向的推销变成了双向的协作，极大地拉近了双方的心理距离。"
     },
+
     {
       "id": 24,
-      "start_line_id": 246,
-      "end_line_id": 253,
-      "category": "Sales Insights",
-      "title": "效率营销与回扣WFH痛点",
-      "content": "Done Well: 在讨论工期时，技术人员强调可以通过增加人手来压缩时间。这不仅回应了客户对效率的关注，更潜意识地照顾了客户'居家办公（WFH）'怕被打扰的痛点，进一步巩固了方案的吸引力。"
+
+      "start_line_id": 237,
+
+      "end_line_id": 245,
+
+      "category": "Solution Explanation",
+
+      "title": "决策辅助：细节与形态的权衡",
+
+      "content": "技术人员帮助客户梳理最终选项：Bryant 胜在除霜细节，Bosch 胜在物理形态。鉴于加州气候少霜，Bosch 的形态优势自然成为了更符合客户偏好的决定性因素，帮助客户完成了心理决策。"
     },
+
     {
       "id": 25,
-      "start_line_id": 254,
-      "end_line_id": 285,
-      "category": "Solution Explanation",
-      "title": "金融方案的除疑与安抚",
-      "content": "技术人员详细拆解了'12个月免息'方案，重点解释了利息仅针对'剩余余额'计算的机制。这一解释消除了客户对金融陷阱的恐惧，展示了方案的灵活性，降低了客户对大额支付的心理压力。"
+
+      "start_line_id": 246,
+
+      "end_line_id": 253,
+
+      "category": "Upsell Attempts",
+
+      "title": "效率营销与工期承诺",
+
+      "content": "在讨论工期时，技术人员再次强调多人施工小组能显著压缩时间，并再次关联'管道密封'促销。这不仅回应了客户对效率的关注，也进一步巩固了全套解决方案的吸引力。"
     },
+
     {
       "id": 26,
-      "start_line_id": 286,
-      "end_line_id": 289,
-      "category": "Upsell Attempts",
-      "title": "试探性缔结与风险对冲",
-      "content": "面对客户'需要商量'的推脱，技术人员抛出'免除今日维修费'作为即时签约诱饵，并强调'3天反悔期'来降低决策风险。这是一种标准的试探性缔结（Trial Close），意在测试客户的真实抗性强度。"
+
+      "start_line_id": 246,
+
+      "end_line_id": 247,
+
+      "category": "Sales Insights",
+
+      "title": "回扣居家办公痛点",
+
+      "content": "Done Well:客户询问安装时长，潜台词对施工期间的噪音、停机时间、在家办公受影响、以及日程安排的担忧。技术人员给出清晰时间范围（热泵 2–3 天、燃气 1–2 天）同时引入“可以增加安装人员/两组人马加速”的资源选项。"
     },
+
     {
       "id": 27,
-      "start_line_id": 286,
-      "end_line_id": 289,
-      "category": "Sales Insights",
-      "title": "决策者缺席的应对不足",
-      "content": "Missed: 当客户提出'需与妻子商量'时，技术人员接受得过快。他错失了询问'妻子最在乎什么指标'（价格、外观还是舒适度？）的机会。若能挖掘出妻子的关注点，技术人员本可以提供针对性的资料（如外观图或静音视频）供客户转呈，从而提高场外决策的成功率。"
+
+      "start_line_id": 254,
+
+      "end_line_id": 285,
+
+      "category": "Solution Explanation",
+
+      "title": "金融方案的除疑与安抚",
+
+      "content": "技术人员详细拆解了'12个月免息'方案，重点解释了利息仅针对'剩余余额'计算的机制。这一解释消除了客户对金融陷阱的恐惧，展示了方案的灵活性，降低了客户大额支付的心理压力。"
     },
+
     {
       "id": 28,
+
+      "start_line_id": 286,
+
+      "end_line_id": 289,
+
+      "category": "Upsell Attempts",
+
+      "title": "试探性缔结与风险对冲",
+
+      "content": "面对客户'需要商量'的推脱，技术人员抛出'免除今日维修费'作为即时签约诱饵，并强调'3天反悔期'来降低决策风险。这是一种标准的试探性缔结（Trial Close），意在测试客户的真实抗性强度。"
+    },
+
+    {
+      "id": 29,
+
+      "start_line_id": 286,
+
+      "end_line_id": 289,
+
+      "category": "Sales Insights",
+
+      "title": "决策者缺席的应对不足（遗漏点）",
+
+      "content": "Missed：当客户提出'需与妻子商量'时，技术人员接受得过快。他错失了询问'妻子最在乎什么指标'（价格、外观还是舒适度？）的机会。若能挖掘出妻子的关注点，技术人员本可以提供针对性的资料（如外观图或静音视频）供客户转呈，从而提高场外决策的成功率。"
+    },
+
+    {
+      "id": 30,
+
       "start_line_id": 290,
+
       "end_line_id": 295,
+
       "category": "Closing & Thank You",
+
       "title": "沉没成本锁定与降级成交",
-      "content": "无法当场签下大单后，技术人员策略性地退而求其次：收取维修费，但设定'15天内签约全额抵扣'的条款。这在客户心中植入了一个'两周倒计时'和'沉没成本（Sunk Cost）'，强有力地锁定了未来的成交机会，避免了完全空手而归。"
+
+      "content": "无法当场签下大单后，技术人员策略性地退而求其次：收取维修费，但设定'15天内签约全额抵扣'的条款。这在客户心中植入了一个'两周倒计时'和'沉没成本'，强有力地锁定了未来的成交机会，避免了完全空手而归。"
     }
-]
+  ]
 }
